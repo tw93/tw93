@@ -1,16 +1,12 @@
-### 🚀 你好，世界
+### 🚀 Hello,World!
 
-你好，我是 Tw93，前端开发，业余也喜欢 iOS / Python 开发；15 年西电毕业后在飞猪弄过无障碍、 Weex、互动技术、Serverless 体系化 0-1 建设，20 年重点弄微前端小二工作台和互动赋能业务；
-
-目前在阿里飞猪带 10 人的前端团队，很是友爱和接地气，欢迎一起交流或者加入我们，tw93@qq.com
-
-### 🛰 我的开源
+你好，我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发；以下进度通过 [Tw93/Actions](https://github.com/tw93/tw93/actions) 自动更新
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**亲儿子们**
+**[一周代码时间](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)**
 
 ```text
 <!-- code_time starts -->
@@ -24,23 +20,14 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
 
-**[一周时间分配](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)**
-
-```text
-<!-- code_time starts -->
-Swift              43 mins  ███████▒░░░░░░░░░░░░  22.0%
-JSX                33 mins  ██████▒░░░░░░░░░░░░░  16.9%
-TypeScript         32 mins  ██████░░░░░░░░░░░░░░  16.2%
-JavaScript         24 mins  █████▒░░░░░░░░░░░░░░  12.1%
-<!-- code_time ends -->
-```
+**Todo 今日我看的文章**
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**[版本发布](https://github.com/tw93/tw93/blob/main/releases.md)**
+**[产品版本](https://github.com/tw93/tw93/blob/main/releases.md)**
 
 <!-- recent_releases starts -->
 
@@ -55,7 +42,7 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
 
 <td valign="top" width="50%">
 
-**[我的博客](https://tw93.github.io/)**
+**[近期博客](https://tw93.github.io/)**
 
 <!-- blog starts -->
 
