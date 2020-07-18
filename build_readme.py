@@ -103,7 +103,7 @@ def fetch_tils():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://tw93.github.io/https://tw93.github.io/feed.xml")["entries"]
+    entries = feedparser.parse("https://tw93.github.io/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
