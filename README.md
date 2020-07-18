@@ -1,15 +1,15 @@
-### Hello,World!
+### 🚀 Hello,World!
 
 你好，我是 Tw93，前端开发，业余也喜欢 iOS / Python 开发；15 年西电毕业后在飞猪弄过无障碍、 Weex、互动技术、Serverless 体系化 0-1 建设，20 年重点弄微前端小二工作台和互动赋能业务；
 
 目前在阿里飞猪带 10 人的前端团队，很是友爱和接地气，欢迎一起交流或者加入我们，tw93@qq.com
 
-### 最近状态
+### 🛰 Recent Open Source
 
 <table>
 <tr><td valign="top" width="50%">
 
-### [Recent Releases](https://github.com/tw93/tw93/blob/main/releases.md)
+### [Code Releases](https://github.com/tw93/tw93/blob/main/releases.md)
 
 <!-- recent_releases starts -->
 
@@ -32,7 +32,7 @@
 </td></tr>
 </table>
 
-### [Weekly development breakdown](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)
+### 🏝 [Weekly development breakdown](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)
 
 <table>
 <tr><td valign="top">
