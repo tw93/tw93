@@ -145,9 +145,9 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-    code_time_text = fetch_code_time()
+    code_time_text = fetch_code_time().text
 
-    rewritten = replace_chunk(rewritten, "code_time", code_time_text.text)
+    rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
