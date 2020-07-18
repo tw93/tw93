@@ -1,5 +1,3 @@
-Currently working on Alibaba
-
 <table><tr><td valign="top" width="50%">
 
 ### Recent releases
