@@ -1,6 +1,6 @@
-我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享；以下面板通过 [Tw93/Actions](https://github.com/tw93/tw93/actions) 自动更新
+🏂 我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享；
 
-### 🚀 Hello,World!
+🚀 Hello,World！以下进展通过 [Tw93/Actions](https://github.com/tw93/tw93/actions) 自动更新
 
 <table>
 <tr>
