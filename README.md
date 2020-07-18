@@ -21,16 +21,13 @@
 
 <!-- blog ends -->
 </td></tr>
-<tr><td valign="top" width="50%">
+</td></tr>
+</table>
 
 ### [Weekly development breakdown](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)
 
-<!-- code_time starts -->
-<!-- code_time ends -->
-</td>
-<td valign="top" width="50%">
-
-### [Weekly development breakdown](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)
+<table>
+<tr><td valign="top">
 <!-- code_time starts -->
 <!-- code_time ends -->
 </td></tr>
