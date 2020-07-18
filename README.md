@@ -1,26 +1,12 @@
-🤺 Hello, 我是 Tw93，主职是前端，也喜欢 iOS / Python 开发
-
-🤼‍♂️ 目前在飞猪带领一个 10 人左右的前端团队，小组弄过 Weex、互动、Serverless 体系化的 0-1 建设，今年重点弄微前端小二工作台事项
-
-🚵‍♂️ 欢迎一起交流，目前我们在招人，也欢迎自荐或者推荐，投递简历到 tw93@qq.com
+Hello, 我是 Tw93，主职是前端，也喜欢 iOS / Python 开发。目前在阿里巴巴带领一个 10 人左右的前端团队，17年开始小组弄过飞猪 Weex、互动、Serverless 体系化的 0-1 建设，今年重点弄微前端小二工作台事项。欢迎一起交流，目前我们在招人，也欢迎自荐或者推荐，投递简历到 tw93@qq.com
 
 <table><tr><td valign="top" width="50%">
 
 ### 近期发布
 
 <!-- recent_releases starts -->
-* [tw93.github.io 6年后的更新](https://github.com/tw93/tw93.github.io/releases/tag/V0.1) - 2020-07-18
-* [cz-emoji-chinese 基本完美的版本，补充好文档](https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1) - 2020-07-18
-* [tw93 第一个可跑的版本](https://github.com/tw93/tw93/releases/tag/V0.1) - 2020-07-18
-* [MiaoYan V0.1](https://github.com/tw93/MiaoYan/releases/tag/V0.1) - 2020-05-28
-* [form-render 更新日志](https://github.com/alibaba/form-render/releases/tag/v0.3.1) - 2019-11-22
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/tw93/tw93/blob/main/releases.md)
-</td><td valign="top" width="50%">
 
-- [MiaoYan V0.1](https://github.com/tw93/MiaoYan/releases/tag/V0.1) - 2020-05-28
-- [form-render 更新日志](https://github.com/alibaba/form-render/releases/tag/v0.3.1) - 2019-11-22
-  <!-- recent_releases ends -->
+<!-- recent_releases ends -->
   更多可见 [recent releases](https://github.com/tw93/tw93/blob/main/releases.md)
   </td><td valign="top" width="50%">
 
