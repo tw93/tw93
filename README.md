@@ -1,8 +1,8 @@
-Hello, 我叫汤威，毕业后在阿里做前端，业余也喜欢 iOS / Python 开发。
+Hello, 我是 Tw93，是一个前端，业余也喜欢 iOS / Python 开发。
 
-目前在阿里巴巴带领一个 10 人左右的前端团队，17年开始弄过飞猪 Weex、互动、Serverless 体系化的 0-1 建设，今年重点弄微前端小二工作台事项，欢迎一起交流。
+目前在阿里飞猪带领一个 10 人左右的前端团队，毕业到现在在飞猪弄过无障碍、 Weex、互动、Serverless 体系化 0-1 建设，今年重点弄微前端小二工作台以及互动赋能业务，欢迎一起交流。
 
-目前我们在招人，欢迎自荐或者推荐，投递简历到 tw93@qq.com
+目前我们在招人，欢迎投递简历到 tw93@qq.com
 
 <table><tr><td valign="top" width="50%">
 
@@ -11,7 +11,9 @@ Hello, 我叫汤威，毕业后在阿里做前端，业余也喜欢 iOS / Python
 <!-- recent_releases starts -->
 
 <!-- recent_releases ends -->
-  更多可见 [recent releases](https://github.com/tw93/tw93/blob/main/releases.md)
+
+更多可见 [recent releases](https://github.com/tw93/tw93/blob/main/releases.md)
+
   </td><td valign="top" width="50%">
 
 ### 近期文章
