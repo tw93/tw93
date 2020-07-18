@@ -1,8 +1,6 @@
 ## Hello,World!
 
-🏂 我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享，以下进展通过 [tw93 actions](https://github.com/tw93/tw93/actions) 自动更新；
-
-💌 飞猪前端技术氛围很 Open，毕业以来有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，欢迎交流探讨以及加入一起来折腾，可 tw93@qq.com 联系
+🏂 Hi，我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享，以下进展通过 [tw93 actions](https://github.com/tw93/tw93/actions) 自动更新；
 
 <table>
 <tr>
@@ -61,3 +59,7 @@ JavaScript 24 mins █████▒░░░░░░░░░░░░░░ 
 </td>
   </tr>
   </table>
+
+---
+
+💌 飞猪前端技术氛围很 Open，毕业以来有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，欢迎交流探讨以及加入一起来折腾，可 tw93@qq.com 联系
