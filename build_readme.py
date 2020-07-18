@@ -94,12 +94,11 @@ def fetch_releases(oauth_token):
     return releases
 
 
-def fetch_tils():
-    sql = "select title, url, created_utc from til order by created_utc desc limit 5"
+def fetch_code_time():
     return httpx.get(
-        "https://til.simonwillison.net/til.json",
-        params={"sql": sql, "_shape": "array",},
-    ).json()
+        "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/fd432544cf8e8361940ad1274de192c760a06c60/%25F0%259F%2593%258A%2520Weekly%2520development%2520breakdown",
+        params={},
+    )
 
 
 def fetch_blog_entries():
@@ -147,18 +146,11 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-    tils = fetch_tils()
-    tils_md = "\n".join(
-        [
-            "* [{title}]({url}) - {created_at}".format(
-                title=til["title"],
-                url=til["url"],
-                created_at=til["created_utc"].split("T")[0],
-            )
-            for til in tils
-        ]
-    )
-    rewritten = replace_chunk(rewritten, "tils", tils_md)
+    code_time_text = fetch_code_time()
+
+    print(code_time_text)
+
+    rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
