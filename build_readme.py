@@ -97,7 +97,7 @@ def fetch_releases(oauth_token):
 def fetch_code_time():
     return httpx.get(
         "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/fd432544cf8e8361940ad1274de192c760a06c60/%25F0%259F%2593%258A%2520Weekly%2520development%2520breakdown"
-    )['text']
+    )
 
 
 def fetch_blog_entries():
@@ -147,9 +147,7 @@ if __name__ == "__main__":
 
     code_time_text = fetch_code_time()
 
-    print(code_time_text)
-
-    rewritten = replace_chunk(rewritten, "code_time", code_time_text)
+    rewritten = replace_chunk(rewritten, "code_time", code_time_text.text)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
