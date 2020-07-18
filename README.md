@@ -19,14 +19,15 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
 
-**Todo 今日我看的文章**
+**今日我要看的**
+//开发中
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-**[产品版本](https://github.com/tw93/tw93/blob/main/releases.md)**
+**[产品迭代](https://github.com/tw93/tw93/blob/main/releases.md)**
 
 <!-- recent_releases starts -->
 
