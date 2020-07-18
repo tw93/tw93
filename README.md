@@ -1,8 +1,5 @@
-## Hello,World!
 
-🏂 我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享，欢迎 Follow 我的 Github
-
-⛳️ 以下进展通过 [tw93 actions](https://github.com/tw93/tw93/actions) 自动更新
+🏂 Hello,World! 我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享，欢迎 Follow 我的 Github；以下进展通过 [tw93 actions](https://github.com/tw93/tw93/actions) 自动更新
 
 <table>
 <tr>
@@ -23,6 +20,7 @@ JavaScript 24 mins █████▒░░░░░░░░░░░░░░ 
 <td valign="top" width="50%">
 
 **今日我要看的**
+
 //开发中
 
 </td>
