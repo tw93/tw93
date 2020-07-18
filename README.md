@@ -1,19 +1,7 @@
-### Hello,World!
-
-你好，我是 Tw93，前端开发，业余也喜欢 iOS / Python 开发；15 年西电毕业后在飞猪弄过无障碍、 Weex、互动技术、Serverless 体系化 0-1 建设，20 年重点弄微前端小二工作台和互动赋能业务；
-
-目前在阿里飞猪带 10 人的前端团队，很是友爱和接地气，欢迎一起交流或者加入我们，tw93@qq.com
-
-### 最近状态
-
 <table>
-<tr><td valign="top" width="100%">
-<!-- code_time starts -->
-<!-- code_time ends -->
-</td></tr>
 <tr><td valign="top" width="50%">
 
-### [发版](https://github.com/tw93/tw93/blob/main/releases.md)
+### [Recent Releases](https://github.com/tw93/tw93/blob/main/releases.md)
 
 <!-- recent_releases starts -->
 
@@ -21,7 +9,7 @@
 
   </td><td valign="top" width="50%">
 
-### [文章](https://tw93.github.io/)
+### [My Blog](https://tw93.github.io/)
 
 <!-- blog starts -->
 
@@ -32,4 +20,18 @@
 - [飞猪 Serverless 体系建设（S1）](https://tw93.github.io/2020-03-15/serverless-one.html) - 2020-03-15
 
 <!-- blog ends -->
-</td></tr></table>
+</td></tr>
+<tr><td valign="top" width="50%">
+
+### [Weekly development breakdown](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)
+
+<!-- code_time starts -->
+<!-- code_time ends -->
+</td>
+<td valign="top" width="50%">
+
+### [Weekly development breakdown](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)
+<!-- code_time starts -->
+<!-- code_time ends -->
+</td></tr>
+</table>
