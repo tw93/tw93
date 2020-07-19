@@ -168,7 +168,7 @@ if __name__ == "__main__":
     doubans = fetch_douban()[:5]
 
     doubans_md = "\n".join(
-        ["* [{title}]({url}) - {published}".format(**item) for item in entries]
+        ["* [{title}]({url}) - {published}".format(**item) for item in doubans]
     )
 
     rewritten = replace_chunk(rewritten, "douban", doubans_md)
