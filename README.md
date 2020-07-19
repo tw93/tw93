@@ -6,7 +6,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>**
+#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
 
@@ -20,7 +20,7 @@
 </td>
 <td valign="top" width="50%">
 
-**🎣 <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>**
+#### 🎣 <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 
@@ -36,7 +36,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>**
+#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
 
@@ -52,7 +52,7 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
 
-**🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>**
+#### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
 
