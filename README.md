@@ -1,12 +1,12 @@
 ## Hello,World!
 
-🏂 Hi，我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享，以下进展通过 [tw93 actions](https://github.com/tw93/tw93/actions) 自动更新；
+🏂 Hi，我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享，以下进展通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 自动更新；
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**🏋️‍♀️ [Product Releases](https://github.com/tw93/tw93/blob/main/releases.md)**
+**🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>**
 
 <!-- recent_releases starts -->
 
@@ -20,7 +20,7 @@
 </td>
 <td valign="top" width="50%">
 
-**🎣 [Recent Blog](https://tw93.github.io/)**
+**🎣 <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>**
 
 <!-- blog starts -->
 
@@ -36,7 +36,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🏊‍♂️ [Weekly Development Breakdown](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)**
+**🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>**
 
 <!-- code_time starts -->
 
@@ -52,7 +52,7 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
 </td>
 <td valign="top" width="50%">
 
-**🤾‍♂️ [Funny Soul](https://www.douban.com/people/tangwei93/)**
+**🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>**
 
 <!-- douban starts -->
 
@@ -67,4 +67,4 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
   </tr>
   </table>
 
-📮 毕业以来，有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，很欢迎纯技术探讨；目前带一个 10 人的[友爱团队](https://img.alicdn.com/tfs/TB1svLYObr1gK0jSZFDXXb9yVXa-4032-2268.jpg)，很欢迎加入一起来折腾 <tw102972@alibaba-inc.com>
+📮 毕业以来，有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，很欢迎纯技术探讨；目前带一个 10 人的<a href="https://img.alicdn.com/tfs/TB1svLYObr1gK0jSZFDXXb9yVXa-4032-2268.jpg" target="_blank">友爱团队</a>，很欢迎加入一起来折腾 <tw102972@alibaba-inc.com>

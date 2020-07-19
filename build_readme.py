@@ -135,7 +135,7 @@ if __name__ == "__main__":
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
-            "* [{repo} {release}]({url}) - {published_at}".format(**release)
+            "* <a href={url} target='_blank'>{repo} {release}</a> - {published_at}".format(**release)
             for release in releases[:8]
         ]
     )
@@ -168,14 +168,14 @@ if __name__ == "__main__":
     doubans = fetch_douban()[:5]
 
     doubans_md = "\n".join(
-        ["* [{title}]({url}) - {published}".format(**item) for item in doubans]
+        ["* <a href={url} target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
     )
 
     rewritten = replace_chunk(rewritten, "douban", doubans_md)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
-        ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
+        ["* <a href={url} target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
