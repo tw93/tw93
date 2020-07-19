@@ -6,7 +6,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**[开源迭代](https://github.com/tw93/tw93/blob/main/releases.md)**
+**[Product Releases](https://github.com/tw93/tw93/blob/main/releases.md)**
 
 <!-- recent_releases starts -->
 * [tw93.github.io 修复RSS报错](https://github.com/tw93/tw93.github.io/releases/tag/V0.1) - 2020-07-18
@@ -19,7 +19,7 @@
 </td>
 <td valign="top" width="50%">
 
-**[近期博客](https://tw93.github.io/)**
+**[Tw93 Blog](https://tw93.github.io/)**
 
 <!-- blog starts -->
 * [我的 2020 🔥软件【分享】](https://tw93.github.io/2020-05-27/good-app.html) - 2020-05-27
@@ -34,7 +34,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**周代码时间**
+**Weekly Development Breakdown**
 
 <!-- code_time starts -->
 
@@ -46,11 +46,12 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
 ```
 
 <!-- code_time ends -->
+数据来自我的 wakatime [gist](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)
 
 </td>
 <td valign="top" width="50%">
 
-**有趣的灵魂**
+**Funny Soul**
 
 <!-- douban starts -->
 * [读过黑客与画家](https://book.douban.com/subject/6021440/) - 2020-07-19
@@ -64,4 +65,4 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
   </tr>
   </table>
 
-💌 飞猪前端技术氛围很 Open，15 年西电毕业以来有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，欢迎交流探讨以及加入一起来折腾
+💌 Welcome，飞猪前端技术氛围很 Open，15 年西电毕业以来有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，欢迎交流探讨以及加入一起来折腾
