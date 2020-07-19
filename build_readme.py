@@ -5,6 +5,7 @@ import json
 import pathlib
 import re
 import os
+import datetime
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -100,9 +101,15 @@ def fetch_code_time():
     )
 
 def fetch_douban():
-    return httpx.get(
-        "https://gist.githubusercontent.com/tw93/64b58ab5cc788466264774ae7423e682/raw/462ba2a040f6eee6f897e15cef9f19bb661a0b50/douban.md"
-    )
+    entries = feedparser.parse("https://www.douban.com/feed/people/tangwei93/interests")["entries"]
+    return [
+        {
+            "title": item["title"],
+            "url": item["link"].split("#")[0],
+            "published": datetime.datetime.strptime(item["published"],'%Y-%m-%d'),
+        }
+        for item in entries
+    ]
 
 
 def fetch_blog_entries():
@@ -154,9 +161,13 @@ if __name__ == "__main__":
 
     rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
-    douban_text = "\n```text\n"+fetch_douban().text+"\n```\n"
+    doubans = fetch_douban()[:5]
 
-    rewritten = replace_chunk(rewritten, "douban", douban_text)
+    doubans_md = "\n".join(
+        ["* [{title}]({url}) - {published}".format(**item) for item in entries]
+    )
+
+    rewritten = replace_chunk(rewritten, "douban", doubans_md)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
