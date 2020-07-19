@@ -5,7 +5,7 @@ import json
 import pathlib
 import re
 import os
-from datetime import datetime
+import datetime
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -24,6 +24,10 @@ def replace_chunk(content, marker, chunk, inline=False):
     chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
     return r.sub(chunk, content)
 
+def formatGMTime(timestamp):
+    GMT_FORMAT = '%a, %d %b %Y %H:%M:%S GMT'
+    dateStr = datetime.datetime.strptime(timestamp, GMT_FORMAT) + datetime.timedelta(hours=8)
+    return dateStr
 
 def make_query(after_cursor=None):
     return """
@@ -106,7 +110,7 @@ def fetch_douban():
         {
             "title": item["title"],
             "url": item["link"].split("#")[0],
-            "published": datetime.strptime(item["published"],'%a, %d %b %Y %H:%M:%S GMT')
+            "published": formatGMTime(item["published"])
         }
         for item in entries
     ]
