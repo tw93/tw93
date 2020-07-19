@@ -51,7 +51,7 @@ JavaScript 24 mins █████▒░░░░░░░░░░░░░░ 
 </td>
 <td valign="top" width="50%">
 
-**[豆瓣](https://www.douban.com/people/tangwei93/)灵魂**
+**[豆瓣](https://www.douban.com/people/tangwei93/) 灵魂**
 
 <!-- douban starts -->
 
