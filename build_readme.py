@@ -99,6 +99,11 @@ def fetch_code_time():
         "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/fd432544cf8e8361940ad1274de192c760a06c60/%25F0%259F%2593%258A%2520Weekly%2520development%2520breakdown"
     )
 
+def fetch_douban():
+    return httpx.get(
+        "https://gist.githubusercontent.com/tw93/64b58ab5cc788466264774ae7423e682/raw/462ba2a040f6eee6f897e15cef9f19bb661a0b50/douban.md"
+    )
+
 
 def fetch_blog_entries():
     entries = feedparser.parse("https://tw93.github.io/feed.xml")["entries"]
@@ -148,6 +153,10 @@ if __name__ == "__main__":
     code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
 
     rewritten = replace_chunk(rewritten, "code_time", code_time_text)
+
+    douban_text = "\n```text\n"+fetch_douban().text+"\n```\n"
+
+    rewritten = replace_chunk(rewritten, "douban", douban_text)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
