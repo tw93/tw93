@@ -1,6 +1,6 @@
 ## Hello,World!
 
-🏂 Hi，我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享，以下进展通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 自动更新；
+🏂 Hi，我是 Tw93，在阿里飞猪写前端，业余也喜欢 iOS / Python 开发，喜欢开源和分享，以下进展通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> **自动更新**；
 
 <table>
 <tr>
