@@ -67,4 +67,4 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
   </tr>
   </table>
 
-🤼‍♀️ Welcome 来我团队，飞猪前端技术氛围很 Open，15 年西电毕业以来有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，欢迎交流探讨以及加入一起来折腾
+📮 毕业以来，有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，很欢迎纯技术探讨；目前带一个 10 人的[友爱团队](https://img.alicdn.com/tfs/TB1svLYObr1gK0jSZFDXXb9yVXa-4032-2268.jpg)，很欢迎加入一起来折腾 <tw102972@alibaba-inc.com>
