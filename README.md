@@ -55,11 +55,11 @@ JavaScript         24 mins  ████░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-* <a href='https://book.douban.com/subject/21792530/' target='_blank'>读过编写可维护的JavaScript</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/10549733/' target='_blank'>读过JavaScript权威指南(第6版)</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/25829244/' target='_blank'>读过Effective Objective-C 2.0</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/6021440/' target='_blank'>读过黑客与画家</a> - 2020-07-19
-* <a href='http://movie.douban.com/subject/30327842/' target='_blank'>看过82年生的金智英</a> - 2020-07-19
+* <a href='http://movie.douban.com/subject/10807909/' target='_blank'>看过智取威虎山</a> - 2020-07-19
+* <a href='http://movie.douban.com/subject/11529526/' target='_blank'>看过中国合伙人</a> - 2020-07-19
+* <a href='http://movie.douban.com/subject/20505982/' target='_blank'>看过寒战2</a> - 2020-07-19
+* <a href='http://movie.douban.com/subject/25805741/' target='_blank'>看过后会无期</a> - 2020-07-19
+* <a href='http://movie.douban.com/subject/26366465/' target='_blank'>看过我的少女时代</a> - 2020-07-19
 <!-- douban ends -->
 
 </td>
