@@ -46,7 +46,7 @@ JavaScript         24 mins  █████▒░░░░░░░░░░░�
 ```
 
 <!-- code_time ends -->
-数据来自我的 wakatime [gist](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6)
+来自我的 [WakaTime Gist](https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6) 数据
 
 </td>
 <td valign="top" width="50%">
