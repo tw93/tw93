@@ -106,7 +106,7 @@ def fetch_douban():
         {
             "title": item["title"],
             "url": item["link"].split("#")[0],
-            "published": datetime.strptime(item["published"],'%a %b %d %Y %H:%M:%S GMT')
+            "published": datetime.strptime(item["published"],'%a, %b %d %Y %H:%M:%S GMT')
         }
         for item in entries
     ]
