@@ -5,7 +5,7 @@ import json
 import pathlib
 import re
 import os
-import datetime
+from datetime import datetime
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -106,7 +106,7 @@ def fetch_douban():
         {
             "title": item["title"],
             "url": item["link"].split("#")[0],
-            "published": datetime.datetime.strptime(item["published"],'%Y-%m-%d'),
+            "published": datetime.strptime(item["published"],'%Y-%m-%d'),
         }
         for item in entries
     ]
