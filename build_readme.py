@@ -101,7 +101,7 @@ def fetch_releases(oauth_token):
 
 def fetch_code_time():
     return httpx.get(
-        "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/fd432544cf8e8361940ad1274de192c760a06c60/%25F0%259F%2593%258A%2520Weekly%2520development%2520breakdown"
+        "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/"
     )
 
 def fetch_douban():
