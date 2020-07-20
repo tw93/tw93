@@ -1,6 +1,6 @@
-## Hello,World! <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="32"/>
+## Hello,World!
 
-🏂 Hi，我是 Tw93，在阿里飞猪写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**；
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里飞猪写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**；
 
 <table>
 <tr>
