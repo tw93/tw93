@@ -9,11 +9,11 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/alibaba/form-render/releases/tag/v0.6.0' target='_blank'>form-render 众多便利更新</a> - 2020-07-20
 * <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.1' target='_blank'>tw93.github.io 修复RSS报错</a> - 2020-07-18
 * <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1' target='_blank'>cz-emoji-chinese 完善使用文档</a> - 2020-07-18
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.1' target='_blank'>MiaoYan 第一个可用版本</a> - 2020-05-28
-* <a href='https://github.com/alibaba/form-render/releases/tag/v0.3.1' target='_blank'>form-render 支持函数表达式</a> - 2019-11-22
 <!-- recent_releases ends -->
 
 </td>
