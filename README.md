@@ -39,12 +39,12 @@
 <!-- code_time starts -->
 
 ```text
-Markdown     5 hrs 38 mins  ████████████░░░░░░░░  46.1%
-Python       2 hrs 16 mins  ██████▓░░░░░░░░░░░░░  18.6%
-YAML               51 mins  ████▒░░░░░░░░░░░░░░░   7.0%
-Swift              43 mins  ████░░░░░░░░░░░░░░░░   6.0%
-TypeScript         35 mins  ███▓░░░░░░░░░░░░░░░░   4.9%
-JSX                33 mins  ███▓░░░░░░░░░░░░░░░░   4.6%
+Markdown     6 hrs 25 mins  ████████████░░░░░░░░  45.9%
+Python       2 hrs 17 mins  ██████░░░░░░░░░░░░░░  16.4%
+TypeScript    1 hr 14 mins  ████▓░░░░░░░░░░░░░░░   8.8%
+YAML                  1 hr  ████▒░░░░░░░░░░░░░░░   7.2%
+Swift              43 mins  ████░░░░░░░░░░░░░░░░   5.2%
+JSX                33 mins  ███▓░░░░░░░░░░░░░░░░   4.0%
 ```
 
 <!-- code_time ends -->
