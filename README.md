@@ -69,4 +69,4 @@ JSX                33 mins  ███▓░░░░░░░░░░░░░�
   </tr>
   </table>
 
-📮 毕业以来，有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，很欢迎纯技术探讨；目前带一个 10 人的<a href="https://img.alicdn.com/tfs/TB1svLYObr1gK0jSZFDXXb9yVXa-4032-2268.jpg" target="_blank">友爱团队</a>，**正在急招 P6，对于想进阿里的同学机会很难得，很欢迎加入一起来折腾 <tw102972@alibaba-inc.com>**
+📮 毕业以来，有幸在飞猪负责过无障碍、 Weex、互动技术、Serverless、微前端一体化体系化建设，很欢迎纯技术探讨；目前带一个 10 人的<a href="https://img.alicdn.com/tfs/TB1svLYObr1gK0jSZFDXXb9yVXa-4032-2268.jpg" target="_blank">友爱团队</a>，<span style="color:#EE722E">正在急招 P6，对于想进阿里的同学机会很难得</span>，很欢迎加入 <tw102972@alibaba-inc.com>
