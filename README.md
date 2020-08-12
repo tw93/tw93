@@ -9,10 +9,10 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11
 * <a href='https://github.com/alibaba/form-render/releases/tag/v0.6.0' target='_blank'>form-render 众多便利更新</a> - 2020-07-20
 * <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.1' target='_blank'>tw93.github.io 修复RSS报错</a> - 2020-07-18
-* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1' target='_blank'>cz-emoji-chinese 完善使用文档</a> - 2020-07-18
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.1' target='_blank'>MiaoYan 第一个可用版本</a> - 2020-05-28
 <!-- recent_releases ends -->
 
@@ -39,12 +39,12 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript   2 hrs 33 mins  █████████████████░░░░░░░  56.4%
-JSON               57 mins  ████████▒░░░░░░░░░░░░░░░  21.0%
-Smarty             20 mins  █████▒░░░░░░░░░░░░░░░░░░   7.7%
-Markdown           15 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.7%
-YAML               14 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.2%
-JavaScript          5 mins  ████░░░░░░░░░░░░░░░░░░░░   2.1%
+JavaScript     1 hr 8 mins  ███████████░░░░░░░░░░░░░  31.8%
+TypeScript         55 mins  █████████▓░░░░░░░░░░░░░░  26.0%
+Markdown           52 mins  █████████▒░░░░░░░░░░░░░░  24.4%
+Smarty             20 mins  █████▓░░░░░░░░░░░░░░░░░░   9.5%
+JSON                9 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.3%
+Bash                4 mins  ████░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
 
 <!-- code_time ends -->
