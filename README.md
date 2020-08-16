@@ -55,11 +55,11 @@ Bash                2 mins  ███▓░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/1293422/' target='_blank'>看过监狱风云</a> - 2020-08-16
+* <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> - 2020-08-16
+* <a href='http://movie.douban.com/subject/30143333/' target='_blank'>看过我的一级兄弟</a> - 2020-08-16
 * <a href='http://movie.douban.com/subject/30402296/' target='_blank'>想看天气之子</a> - 2020-07-28
 * <a href='https://book.douban.com/subject/1449351/' target='_blank'>最近在读呐喊</a> - 2020-07-28
-* <a href='http://movie.douban.com/subject/1292213/' target='_blank'>看过大话西游之大圣娶亲</a> - 2020-07-25
-* <a href='https://book.douban.com/subject/26794026/' target='_blank'>最近在读超额收益</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/1054685/' target='_blank'>想读沉默的大多数</a> - 2020-07-19
 <!-- douban ends -->
 
 </td>
