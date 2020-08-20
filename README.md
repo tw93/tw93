@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" style="width:200px">
 
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
@@ -33,7 +33,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="300px">
+<td valign="top" style="width:200px">
 
 #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
