@@ -18,7 +18,7 @@
 <!-- recent_releases ends -->
 
 </td>
-<td valign="top" style="width:200px">
+<td valign="top" style="width:400px">
 
 #### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
@@ -51,7 +51,7 @@ YAML               13 mins  ████▒░░░░░░░░░░░░�
 <!-- code_time ends -->
 
 </td>
-<td valign="top" style="width:200px">
+<td valign="top" style="width:400px">
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
