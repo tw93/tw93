@@ -4,21 +4,20 @@
 
 <table>
 <tr>
-<td valign="top" style="width:200px">
+<td valign="top" width="50%">
 
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新文档和案例</a> - 2020-08-19
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 主题配置更新防止 github warning</a> - 2020-08-16
-* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11
 * <a href='https://github.com/alibaba/form-render/releases/tag/v0.6.0' target='_blank'>form-render 众多便利更新</a> - 2020-07-20
 * <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
+* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.1' target='_blank'>tw93.github.io 修复RSS报错</a> - 2020-07-18
+* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1' target='_blank'>cz-emoji-chinese 完善使用文档</a> - 2020-07-18
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.1' target='_blank'>MiaoYan 第一个可用版本</a> - 2020-05-28
 <!-- recent_releases ends -->
 
 </td>
-<td valign="top" style="width:400px">
+<td valign="top" width="50%">
 
 #### 🤹‍♀️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
@@ -33,34 +32,34 @@
 </td>
 </tr>
 <tr>
-<td valign="top" style="width:200px">
+<td valign="top" width="50%">
 
 #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
 
 ```text
-TypeScript   2 hrs 43 mins  ████████████▒░░░░░░░░░░░  37.2%
-JavaScript    1 hr 17 mins  ███████▓░░░░░░░░░░░░░░░░  17.6%
-JSON           1 hr 7 mins  ███████░░░░░░░░░░░░░░░░░  15.3%
-Markdown           46 mins  ██████░░░░░░░░░░░░░░░░░░  10.7%
-Smarty             21 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.0%
-YAML               13 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.2%
+Markdown     6 hrs 25 mins  ████████████░░░░░░░░  45.9%
+Python       2 hrs 17 mins  ██████░░░░░░░░░░░░░░  16.4%
+TypeScript    1 hr 14 mins  ████▓░░░░░░░░░░░░░░░   8.8%
+YAML                  1 hr  ████▒░░░░░░░░░░░░░░░   7.2%
+Swift              43 mins  ████░░░░░░░░░░░░░░░░   5.2%
+JSX                33 mins  ███▓░░░░░░░░░░░░░░░░   4.0%
 ```
 
 <!-- code_time ends -->
 
 </td>
-<td valign="top" style="width:400px">
+<td valign="top" width="50%">
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/1293422/' target='_blank'>看过监狱风云</a> - 2020-08-16
-* <a href='http://movie.douban.com/subject/1889243/' target='_blank'>看过星际穿越</a> - 2020-08-16
-* <a href='http://movie.douban.com/subject/30143333/' target='_blank'>看过我的一级兄弟</a> - 2020-08-16
-* <a href='http://movie.douban.com/subject/30402296/' target='_blank'>想看天气之子</a> - 2020-07-28
-* <a href='https://book.douban.com/subject/1449351/' target='_blank'>最近在读呐喊</a> - 2020-07-28
+* <a href='https://book.douban.com/subject/26794026/' target='_blank'>最近在读超额收益</a> - 2020-07-19
+* <a href='https://book.douban.com/subject/1449351/' target='_blank'>想读呐喊</a> - 2020-07-19
+* <a href='https://book.douban.com/subject/1054685/' target='_blank'>想读沉默的大多数</a> - 2020-07-19
+* <a href='https://book.douban.com/subject/10554308/' target='_blank'>想读白夜行</a> - 2020-07-19
+* <a href='http://movie.douban.com/subject/1294019/' target='_blank'>看过监狱风云2：逃犯</a> - 2020-07-19
 <!-- douban ends -->
 
 </td>
