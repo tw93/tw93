@@ -40,10 +40,7 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript    1 hr 41 mins  ██████████████████████▓░  79.5%
-JavaScript         18 mins  ███████░░░░░░░░░░░░░░░░░  14.8%
-JSON                7 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.7%
-LESS                0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.1%
+TypeScript          0 secs  ███▒░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->
