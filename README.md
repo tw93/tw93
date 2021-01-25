@@ -56,11 +56,11 @@ Java                0 secs  ███▓░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
+* <a href='https://book.douban.com/subject/35147504/' target='_blank'>最近在读结构性改革</a> - 2021-01-25
 * <a href='http://movie.douban.com/subject/1395776/' target='_blank'>看过逃出克隆岛</a> - 2020-09-06
 * <a href='http://movie.douban.com/subject/6011805/' target='_blank'>看过一九四二</a> - 2020-09-06
 * <a href='http://movie.douban.com/subject/34660591/' target='_blank'>在看乐队的夏天 第二季</a> - 2020-08-24
 * <a href='https://book.douban.com/subject/4822685/' target='_blank'>最近在读编码</a> - 2020-08-23
-* <a href='http://movie.douban.com/subject/26754233/' target='_blank'>看过八佰</a> - 2020-08-22
 <!-- douban ends -->
 
 </td>
