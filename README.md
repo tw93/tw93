@@ -56,11 +56,11 @@ Java                0 secs  ███▓░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/27619748/' target='_blank'>看过唐人街探案3</a> - 2021-02-16
+* <a href='https://book.douban.com/subject/4894345/' target='_blank'>读过黄金时代</a> - 2021-02-15
 * <a href='http://movie.douban.com/subject/30269016/' target='_blank'>看过半个喜剧</a> - 2021-02-14
 * <a href='https://book.douban.com/subject/1476651/' target='_blank'>想读社会心理学</a> - 2021-02-13
 * <a href='https://book.douban.com/subject/3406401/' target='_blank'>最近在读悉达多</a> - 2021-02-13
-* <a href='https://book.douban.com/subject/20427187/' target='_blank'>读过看见</a> - 2021-02-13
-* <a href='https://book.douban.com/subject/1089243/' target='_blank'>想读黄金时代</a> - 2021-02-13
 <!-- douban ends -->
 
 </td>
