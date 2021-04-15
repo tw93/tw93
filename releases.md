@@ -3,8 +3,8 @@
 All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[form-render](https://github.com/alibaba/form-render)**: [](https://github.com/alibaba/form-render/releases/tag/v0.6.1) - 2020-09-18
-<br>🚴‍♀️ 易用的跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面 
+* **[x-render](https://github.com/alibaba/x-render)**: [](https://github.com/alibaba/x-render/releases/tag/v0.6.1) - 2020-09-18
+<br>🚴‍♀️ 飞猪中后台开箱即用解决方案
 * **[umi-plugin-console](https://github.com/tw93/umi-plugin-console)**: [大幅度更新文档和案例](https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2) - 2020-08-19
 <br>☄️ 用于 umi 打包过程中配置各个钩子输出一些提示性的信息
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [主题配置更新防止 github warning](https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0) - 2020-08-16
