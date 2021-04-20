@@ -9,7 +9,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/alibaba/x-render/releases/tag/v0.6.1' target='_blank'>x-render </a> - 2020-09-18
+* <a href='https://github.com/alibaba/x-render/releases/tag/v1.1.0' target='_blank'>x-render form-render v1.1.0</a> - 2021-04-19
 * <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新文档和案例</a> - 2020-08-19
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 主题配置更新防止 github warning</a> - 2020-08-16
 * <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11

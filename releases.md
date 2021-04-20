@@ -3,7 +3,7 @@
 All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[x-render](https://github.com/alibaba/x-render)**: [](https://github.com/alibaba/x-render/releases/tag/v0.6.1) - 2020-09-18
+* **[x-render](https://github.com/alibaba/x-render)**: [form-render v1.1.0](https://github.com/alibaba/x-render/releases/tag/v1.1.0) - 2021-04-19
 <br>🚴‍♀️ 飞猪中后台开箱即用解决方案
 * **[umi-plugin-console](https://github.com/tw93/umi-plugin-console)**: [大幅度更新文档和案例](https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2) - 2020-08-19
 <br>☄️ 用于 umi 打包过程中配置各个钩子输出一些提示性的信息
