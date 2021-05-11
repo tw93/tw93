@@ -3,7 +3,7 @@
 All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[x-render](https://github.com/alibaba/x-render)**: [vscode-plugin-fr-schema v1.0.0](https://github.com/alibaba/x-render/releases/tag/vscode-plugin-fr-schema%401.0.0) - 2021-04-30
+* **[x-render](https://github.com/alibaba/x-render)**: [fr-generator v2.0.0](https://github.com/alibaba/x-render/releases/tag/fr-generator%402.0.0) - 2021-05-10
 <br>🚴‍♀️ 飞猪中后台「表单/表格/图表」开箱即用解决方案
 * **[umi-plugin-console](https://github.com/tw93/umi-plugin-console)**: [大幅度更新文档和案例](https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2) - 2020-08-19
 <br>☄️ 用于 umi 打包过程中配置各个钩子输出一些提示性的信息
