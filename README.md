@@ -56,11 +56,11 @@ PHP                11 mins  ████▓░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/27148168/' target='_blank'>在看赘婿</a> - 2021-02-28
+* <a href='http://movie.douban.com/subject/34660591/' target='_blank'>看过乐队的夏天 第二季</a> - 2021-06-26
+* <a href='http://movie.douban.com/subject/27148168/' target='_blank'>看过赘婿</a> - 2021-06-26
 * <a href='http://movie.douban.com/subject/34841067/' target='_blank'>看过你好，李焕英</a> - 2021-02-19
 * <a href='https://book.douban.com/subject/6974582/' target='_blank'>最近在读股票作手回忆录</a> - 2021-02-17
 * <a href='https://book.douban.com/subject/35025832/' target='_blank'>想读巴芒演义</a> - 2021-02-17
-* <a href='https://book.douban.com/subject/5243775/' target='_blank'>想读聪明的投资者</a> - 2021-02-17
 <!-- douban ends -->
 
 </td>
