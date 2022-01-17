@@ -56,11 +56,11 @@ PHP                11 mins  ████▓░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
+* <a href='http://movie.douban.com/subject/1300299/' target='_blank'>想看杀人回忆</a> - 2022-01-16
 * <a href='http://movie.douban.com/subject/1428175/' target='_blank'>想看血钻</a> - 2022-01-09
 * <a href='http://movie.douban.com/subject/25757187/' target='_blank'>想看我不是王毛</a> - 2021-12-12
 * <a href='http://movie.douban.com/subject/25823132/' target='_blank'>想看暗杀</a> - 2021-12-12
 * <a href='http://movie.douban.com/subject/27114240/' target='_blank'>想看冒牌上尉</a> - 2021-12-12
-* <a href='http://movie.douban.com/subject/35182804/' target='_blank'>看过启航：当风起时</a> - 2021-11-02
 <!-- douban ends -->
 
 </td>
