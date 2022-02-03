@@ -56,11 +56,11 @@ PHP                11 mins  ████▓░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/35033654/' target='_blank'>看过山海情</a> - 2022-02-02
-* <a href='http://movie.douban.com/subject/1300299/' target='_blank'>想看杀人回忆</a> - 2022-01-16
-* <a href='http://movie.douban.com/subject/1428175/' target='_blank'>想看血钻</a> - 2022-01-09
-* <a href='http://movie.douban.com/subject/25757187/' target='_blank'>想看我不是王毛</a> - 2021-12-12
-* <a href='http://movie.douban.com/subject/25823132/' target='_blank'>想看暗杀</a> - 2021-12-12
+* <a href='http://movie.douban.com/subject/27059130/' target='_blank'>想看大佛普拉斯</a> - 2022-02-02
+* <a href='http://movie.douban.com/subject/3793023/' target='_blank'>看过三傻大闹宝莱坞</a> - 2022-02-02
+* <a href='http://movie.douban.com/subject/1299398/' target='_blank'>看过大话西游之月光宝盒</a> - 2022-02-02
+* <a href='http://movie.douban.com/subject/1302425/' target='_blank'>看过喜剧之王</a> - 2022-02-02
+* <a href='http://movie.douban.com/subject/1306249/' target='_blank'>看过唐伯虎点秋香</a> - 2022-02-02
 <!-- douban ends -->
 
 </td>
