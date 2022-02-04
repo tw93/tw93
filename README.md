@@ -56,11 +56,7 @@ PHP                11 mins  ████▓░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://www.douban.com/people/tangwei93/" target="_blank">Funny Soul</a>
 
 <!-- douban starts -->
-* <a href='http://movie.douban.com/subject/27059130/' target='_blank'>想看大佛普拉斯</a> - 2022-02-02
-* <a href='http://movie.douban.com/subject/3793023/' target='_blank'>看过三傻大闹宝莱坞</a> - 2022-02-02
-* <a href='http://movie.douban.com/subject/1299398/' target='_blank'>看过大话西游之月光宝盒</a> - 2022-02-02
-* <a href='http://movie.douban.com/subject/1302425/' target='_blank'>看过喜剧之王</a> - 2022-02-02
-* <a href='http://movie.douban.com/subject/1306249/' target='_blank'>看过唐伯虎点秋香</a> - 2022-02-02
+
 <!-- douban ends -->
 
 </td>
