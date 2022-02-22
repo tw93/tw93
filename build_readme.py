@@ -29,7 +29,7 @@ def formatGMTime(timestamp):
     dateStr = datetime.datetime.strptime(timestamp, GMT_FORMAT) + datetime.timedelta(hours=8)
     return dateStr.date()
 
-def make_query(after_cursor=None):
+def repository_query(after_cursor=None):
     return """
 query {
   viewer {
@@ -68,7 +68,7 @@ def fetch_releases(oauth_token):
 
     while has_next_page:
         data = client.execute(
-            query=make_query(after_cursor),
+            query=repository_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
         print()
@@ -104,16 +104,21 @@ def fetch_code_time():
         "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/"
     )
 
-def fetch_douban():
-    entries = feedparser.parse("https://www.douban.com/feed/people/tangwei93/interests")["entries"]
-    return [
-        {
-            "title": item["title"],
-            "url": item["link"].split("#")[0],
-            "published": formatGMTime(item["published"])
-        }
-        for item in entries
-    ]
+def fetch_weekly():
+    return httpx.get(
+        "https://raw.githubusercontent.com/tw93/weekly/main/RECENT.md"
+    )
+
+# def fetch_douban():
+#     entries = feedparser.parse("https://www.douban.com/feed/people/tangwei93/interests")["entries"]
+#     return [
+#         {
+#             "title": item["title"],
+#             "url": item["link"].split("#")[0],
+#             "published": formatGMTime(item["published"])
+#         }
+#         for item in entries
+#     ]
 
 
 def fetch_blog_entries():
@@ -165,13 +170,13 @@ if __name__ == "__main__":
 
     rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
-    doubans = fetch_douban()[:5]
+    # doubans = fetch_douban()[:5]
 
-    doubans_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
-    )
+    # doubans_md = "\n".join(
+    #     ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
+    # )
 
-    rewritten = replace_chunk(rewritten, "douban", doubans_md)
+    # rewritten = replace_chunk(rewritten, "douban", doubans_md)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
