@@ -56,11 +56,11 @@ PHP                11 mins  ████▓░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://book.douban.com/subject/26794026/' target='_blank'>最近在读超额收益</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/1449351/' target='_blank'>想读呐喊</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/1054685/' target='_blank'>想读沉默的大多数</a> - 2020-07-19
-* <a href='https://book.douban.com/subject/10554308/' target='_blank'>想读白夜行</a> - 2020-07-19
-* <a href='http://movie.douban.com/subject/1294019/' target='_blank'>看过监狱风云2：逃犯</a> - 2020-07-19
+* <a href='https://tw93.github.io/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
+* <a href='https://tw93.github.io/2020-06-28/zaozaoliao.html' target='_blank'>早早聊微前端专题分享</a> - 2020-06-28
+* <a href='https://tw93.github.io/2020-05-27/good-app.html' target='_blank'>我的 2020 🔥软件分享</a> - 2020-05-27
+* <a href='https://tw93.github.io/2020-04-21/one.html' target='_blank'>飞猪统一运营工作台的解决方案</a> - 2020-04-21
+* <a href='https://tw93.github.io/2020-03-30/serverless-two.html' target='_blank'>飞猪 Serverless 体系建设（S2）</a> - 2020-03-30
 <!-- blog ends -->
 
 </td>
