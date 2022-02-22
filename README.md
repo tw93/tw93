@@ -9,10 +9,11 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/alibaba/form-render/releases/tag/v0.6.0' target='_blank'>form-render 众多便利更新</a> - 2020-07-20
+* <a href='https://github.com/alibaba/x-render/releases/tag/v1.9.0' target='_blank'>x-render v1.9.0</a> - 2022-01-27
+* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新文档和案例</a> - 2020-08-19
+* <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 主题配置更新防止 github warning</a> - 2020-08-16
+* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11
 * <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.1' target='_blank'>tw93.github.io 修复RSS报错</a> - 2020-07-18
-* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1' target='_blank'>cz-emoji-chinese 完善使用文档</a> - 2020-07-18
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.1' target='_blank'>MiaoYan 第一个可用版本</a> - 2020-05-28
 <!-- recent_releases ends -->
 
@@ -39,12 +40,12 @@
 <!-- code_time starts -->
 
 ```text
-Markdown     6 hrs 25 mins  ████████████░░░░░░░░  45.9%
-Python       2 hrs 17 mins  ██████░░░░░░░░░░░░░░  16.4%
-TypeScript    1 hr 14 mins  ████▓░░░░░░░░░░░░░░░   8.8%
-YAML                  1 hr  ████▒░░░░░░░░░░░░░░░   7.2%
-Swift              43 mins  ████░░░░░░░░░░░░░░░░   5.2%
-JSX                33 mins  ███▓░░░░░░░░░░░░░░░░   4.0%
+JavaScript    1 hr 58 mins  ██████████████▓░░░░░░░░░  46.3%
+Markdown           37 mins  ███████░░░░░░░░░░░░░░░░░  14.8%
+JSON               28 mins  ██████░░░░░░░░░░░░░░░░░░  11.1%
+Smarty             21 mins  █████▒░░░░░░░░░░░░░░░░░░   8.4%
+TypeScript         17 mins  █████░░░░░░░░░░░░░░░░░░░   6.9%
+PHP                11 mins  ████▓░░░░░░░░░░░░░░░░░░░   4.5%
 ```
 
 <!-- code_time ends -->
