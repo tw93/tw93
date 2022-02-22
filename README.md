@@ -20,7 +20,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://github.com/tw93/weekly" target="_blank">Trend Weekly</a>
+#### 🎉 <a href="https://github.com/tw93/weekly" target="_blank">Trend Weekly</a>
 
 <!-- weekly starts -->
 
