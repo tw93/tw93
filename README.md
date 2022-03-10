@@ -43,12 +43,12 @@
 <!-- code_time starts -->
 
 ```text
-Python        1 hr 34 mins  ██████████▓░░░░░░░░░░░░░  30.5%
-JavaScript    1 hr 30 mins  ██████████▒░░░░░░░░░░░░░  29.3%
-TypeScript    1 hr 18 mins  █████████▓░░░░░░░░░░░░░░  25.4%
-JSON               28 mins  █████▓░░░░░░░░░░░░░░░░░░   9.3%
-Markdown            6 mins  ████░░░░░░░░░░░░░░░░░░░░   2.1%
-GitIgnore file         6 mins  ████░░░░░░░░░░░░░░░░░░░░   2.0%
+Python        1 hr 34 mins  ███████████████▓░░░░░░░░  51.5%
+JavaScript         53 mins  ██████████▒░░░░░░░░░░░░░  29.3%
+TypeScript         21 mins  ██████▒░░░░░░░░░░░░░░░░░  11.8%
+Markdown            4 mins  ████░░░░░░░░░░░░░░░░░░░░   2.7%
+GitIgnore file         3 mins  ████░░░░░░░░░░░░░░░░░░░░   1.9%
+Text                3 mins  ████░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time ends -->
