@@ -9,7 +9,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/alibaba/x-render/releases/tag/v1.9.0' target='_blank'>x-render v1.9.0</a> - 2022-01-27
+* <a href='https://github.com/alibaba/x-render/releases/tag/v1.9.9' target='_blank'>x-render </a> - 2022-03-31
 * <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新文档和案例</a> - 2020-08-19
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 主题配置更新防止 github warning</a> - 2020-08-16
 * <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11
@@ -43,12 +43,12 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript   4 hrs 14 mins  ████████████░░░░░░░░░░░░  35.3%
-HTML         3 hrs 39 mins  ██████████▓░░░░░░░░░░░░░  30.3%
-Markdown       1 hr 8 mins  █████▓░░░░░░░░░░░░░░░░░░   9.5%
-Rust               48 mins  █████░░░░░░░░░░░░░░░░░░░   6.7%
-JSON               45 mins  █████░░░░░░░░░░░░░░░░░░░   6.3%
-Other              27 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.8%
+TypeScript   3 hrs 23 mins  ████████████▓░░░░░░░░░░░  39.0%
+JSON           1 hr 3 mins  ██████▒░░░░░░░░░░░░░░░░░  12.1%
+HTML           1 hr 3 mins  ██████▒░░░░░░░░░░░░░░░░░  12.1%
+Markdown       1 hr 2 mins  ██████▒░░░░░░░░░░░░░░░░░  12.0%
+Rust               48 mins  █████▓░░░░░░░░░░░░░░░░░░   9.2%
+Other              27 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.2%
 ```
 
 <!-- code_time ends -->
