@@ -43,7 +43,7 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript   5 hrs 28 mins  █████████████████████▓░░  75.4%
+JavaScript   5 hrs 27 mins  █████████████████████▓░░  75.3%
 Rust               55 mins  ██████▓░░░░░░░░░░░░░░░░░  12.8%
 CSS                24 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.6%
 Markdown           23 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.3%
