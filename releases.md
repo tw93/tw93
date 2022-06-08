@@ -3,6 +3,8 @@
 All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V0.2.0](https://github.com/tw93/MiaoYan/releases/tag/V0.2.0) - 2022-06-07
+<br>⛷  轻灵的 Mac Markdown 笔记本伴你写出妙言
 * **[x-render](https://github.com/alibaba/x-render)**: [](https://github.com/alibaba/x-render/releases/tag/v1.9.9) - 2022-03-31
 <br>🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 * **[umi-plugin-console](https://github.com/tw93/umi-plugin-console)**: [大幅度更新文档和案例](https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2) - 2020-08-19
@@ -13,6 +15,4 @@ All <!-- release_count starts -->6<!-- release_count ends --> of my released pro
 <br>🚴 炫酷的中文版本的 git commit emoji  🐛🎨✨ 🔥💄📝 🎉 命令行
 * **[tw93](https://github.com/tw93/tw93)**: [首页信息流优化完成](https://github.com/tw93/tw93/releases/tag/V1.0) - 2020-07-19
 <br>Github 首页自动信息工作流
-* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [第一个可用版本](https://github.com/tw93/MiaoYan/releases/tag/V0.1) - 2020-05-28
-<br>⛷  轻灵的 Mac Markdown 笔记本伴你写出妙言
 <!-- recent_releases ends -->
