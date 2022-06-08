@@ -1,6 +1,6 @@
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里飞猪写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**；
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**；
 
 <table width="960px">
 <tr>
@@ -70,4 +70,4 @@ JSON               25 mins  ████░░░░░░░░░░░░░�
   </tr>
   </table>
 
-📮 毕业以来，有幸在阿里飞猪负责过无障碍、Weex、互动、Serverless、微前端、新中后台、业务平台方向建设，目前带一个十多人的友爱团队，<span style="color:#EE722E">**很欢迎一起交流技术～</span>**
+📮 毕业以来，有幸在阿里飞猪负责过无障碍、Weex、互动、Serverless、微前端、新中后台、业务平台方向建设，目前带一个20人左右的友爱团队，<span style="color:#EE722E">**很欢迎一起交流技术～</span>**
