@@ -3,7 +3,7 @@
 All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V0.2.0](https://github.com/tw93/MiaoYan/releases/tag/V0.2.0) - 2022-06-07
+* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V0.3.0](https://github.com/tw93/MiaoYan/releases/tag/V0.3.0) - 2022-06-09
 <br>⛷  轻灵的 Markdown 笔记本伴你写出妙言
 * **[x-render](https://github.com/alibaba/x-render)**: [](https://github.com/alibaba/x-render/releases/tag/v1.9.9) - 2022-03-31
 <br>🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
