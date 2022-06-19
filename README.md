@@ -59,7 +59,7 @@ JSON          1 hr 19 mins  ████░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://tw93.fun/2022-06-13/a-good-markdown.html' target='_blank'>你是不是也在找一个好用的 Markdown 编辑器?</a> - 2022-06-13
+* <a href='https://tw93.fun/2022-06-13/a-good-markdown.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
 * <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
 * <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
 * <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
