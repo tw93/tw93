@@ -9,7 +9,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.5.0' target='_blank'>MiaoYan V0.5.0</a> - 2022-06-18
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.5.1' target='_blank'>MiaoYan V0.5.1</a> - 2022-06-19
 * <a href='https://github.com/alibaba/x-render/releases/tag/v1.9.9' target='_blank'>x-render </a> - 2022-03-31
 * <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新文档和案例</a> - 2020-08-19
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 防止 github warning</a> - 2020-08-16
@@ -59,11 +59,11 @@ JSON          1 hr 19 mins  ████░░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://tw93.github.io/2022-06-13/a-good-markdown.html' target='_blank'>你是不是也在找一个好用的 Markdown 编辑器?</a> - 2022-06-13
-* <a href='https://tw93.github.io/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
-* <a href='https://tw93.github.io/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
-* <a href='https://tw93.github.io/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
-* <a href='https://tw93.github.io/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
+* <a href='https://tw93.fun/2022-06-13/a-good-markdown.html' target='_blank'>你是不是也在找一个好用的 Markdown 编辑器?</a> - 2022-06-13
+* <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
+* <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
+* <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
+* <a href='https://tw93.fun/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
 <!-- blog ends -->
 
 </td>
