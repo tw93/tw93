@@ -6,19 +6,19 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
-<!-- blog starts -->
+<!-- recent_releases starts -->
 
-- <a href='https://tw93.fun/2022-06-13/a-good-markdown.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
-- <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
-- <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
-- <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
-- <a href='https://tw93.fun/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
-<!-- blog ends -->
+- <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.5.1' target='_blank'>MiaoYan V0.5.1</a> - 2022-06-19
+- <a href='https://github.com/alibaba/x-render/releases/tag/v1.9.9' target='_blank'>x-render </a> - 2022-03-31
+- <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新文档和案例</a> - 2020-08-19
+- <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 防止 github warning</a> - 2020-08-16
+- <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11
+- <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
+<!-- recent_releases ends -->
 
 </td>
-
 <td valign="top" width="50%">
 
 #### 🎉 <a href="https://github.com/tw93/weekly" target="_blank">Trend Weekly</a>
@@ -39,21 +39,6 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
-
-<!-- recent_releases starts -->
-
-- <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.5.1' target='_blank'>MiaoYan V0.5.1</a> - 2022-06-19
-- <a href='https://github.com/alibaba/x-render/releases/tag/v1.9.9' target='_blank'>x-render </a> - 2022-03-31
-- <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新文档和案例</a> - 2020-08-19
-- <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 防止 github warning</a> - 2020-08-16
-- <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11
-- <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
-<!-- recent_releases ends -->
-
-</td>
-<td valign="top" width="50%">
-
 #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
@@ -70,8 +55,19 @@ Markdown      1 hr 39 mins  ████▒░░░░░░░░░░░░�
 <!-- code_time ends -->
 
 </td>
+<td valign="top" width="50%">
 
+#### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+
+<!-- blog starts -->
+
+- <a href='https://tw93.fun/2022-06-13/a-good-markdown.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
+- <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
+- <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
+- <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
+- <a href='https://tw93.fun/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
+<!-- blog ends -->
+
+</td>
   </tr>
   </table>
-
-📮 毕业以来，有幸在阿里飞猪负责过无障碍、Weex、互动、Serverless、微前端、新中后台、业务平台方向建设，目前带一个 20 人左右的友爱团队，<span style="color:#EE722E">**很欢迎一起交流技术～</span>**
