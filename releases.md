@@ -11,7 +11,7 @@ All <!-- release_count starts -->6<!-- release_count ends --> of my released pro
 <br>☄️ 用于 umi 打包过程中配置各个钩子输出一些提示性的信息
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [防止 github warning](https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0) - 2020-08-16
 <br>🧗‍♂️ Tw93 的个人博客 / 形而上班
-* **[cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese)**: [增加 subjectMinLength 配置](https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1) - 2020-08-11
+* **[cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese)**: [增加配置](https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1) - 2020-08-11
 <br>🚴 炫酷的中文版本的 git commit emoji  🐛🎨✨ 🔥💄📝 🎉 命令行
 * **[tw93](https://github.com/tw93/tw93)**: [首页信息流优化完成](https://github.com/tw93/tw93/releases/tag/V1.0) - 2020-07-19
 <br>Github 首页自动信息工作流
