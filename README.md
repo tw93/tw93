@@ -1,18 +1,9 @@
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**。
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里写前端，空闲也折腾 macOS，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**。
 
 <table width="960px">
-<tr>
-<th align="center">
-<img width="441" height="1px">
 
-</th>
-<th align="center">
-<img width="441" height="1">
-
-</th>
-</tr>
 <tr>
 <td valign="top" width="50%">
 
@@ -44,40 +35,6 @@
 
 </td>
 </tr>
-<tr>
-<td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
-
-<!-- recent_releases starts -->
-* <a href='https://github.com/alibaba/x-render/releases/tag/v1.13.6' target='_blank'>x-render v1.13.6</a> - 2022-06-20
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.5.1' target='_blank'>MiaoYan V0.5.1</a> - 2022-06-19
-* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新文档和案例</a> - 2020-08-19
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 防止 github warning</a> - 2020-08-16
-* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11
-* <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
-<!-- recent_releases ends -->
-
-</td>
-
-<td valign="top" width="50%">
-
-#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
-
-<!-- code_time starts -->
-
-```text
-Swift       20 hrs 14 mins  ████████████▓░░░░░░░░░░░  39.1%
-Cocoa       10 hrs 13 mins  ████████▒░░░░░░░░░░░░░░░  19.8%
-HTML         8 hrs 57 mins  ███████▓░░░░░░░░░░░░░░░░  17.3%
-CSS          4 hrs 30 mins  █████▓░░░░░░░░░░░░░░░░░░   8.7%
-XML           2 hrs 9 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.2%
-Markdown      1 hr 39 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.2%
-```
-
-<!-- code_time ends -->
-</td>
-  </tr>
   </table>
 
-📮 毕业以来，有幸在阿里飞猪负责过无障碍、Weex、互动、Serverless、微前端、新中后台、业务平台方向建设，目前带一个 20 人左右的友爱团队，<span style="color:#EE722E">**很欢迎一起交流技术～</span>**
