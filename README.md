@@ -4,11 +4,19 @@
 
 <table width="960px">
 <tr>
+<th align="center">
+<img width="441" height="1px">
+
+</th>
+<th align="center">
+<img width="441" height="1">
+
+</th>
+</tr>
+<tr>
 <td valign="top" width="50%">
 
 #### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
-
-<img width="441" height="1">
 
 <!-- blog starts -->
 
@@ -22,10 +30,7 @@
 </td>
 <td valign="top" width="50%">
 
-
 #### 🎉 <a href="https://github.com/tw93/weekly" target="_blank">Trend Weekly</a>
-
-<img width="441" height="1">
 
 <!-- weekly starts -->
 
@@ -45,7 +50,6 @@
 
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
-<img width="441" height="1">
 <!-- recent_releases starts -->
 
 - <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.5.1' target='_blank'>MiaoYan V0.5.1</a> - 2022-06-19
@@ -61,8 +65,6 @@
 <td valign="top" width="50%">
 
 #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
-
-<img width="441" height="1">
 
 <!-- code_time starts -->
 
