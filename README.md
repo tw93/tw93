@@ -1,10 +1,10 @@
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**；
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**。
 
 <table width="960px">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
@@ -18,7 +18,7 @@
 <!-- recent_releases ends -->
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 #### 🎉 <a href="https://github.com/tw93/weekly" target="_blank">Trend Weekly</a>
 
@@ -36,7 +36,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
@@ -54,7 +54,7 @@ Markdown      1 hr 39 mins  ████▒░░░░░░░░░░░░�
 <!-- code_time ends -->
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="480px">
 
 #### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
