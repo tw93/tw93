@@ -1,6 +1,6 @@
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里写前端，空闲也折腾 macOS/iOS 开发，热爱开源分享，喜欢交流技术，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新：
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，是一个前端工程师，空闲也折腾 macOS/iOS 开发，热爱开源分享，喜欢交流技术，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新：
 
 <table width="960px">
 <tr>
