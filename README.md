@@ -2,10 +2,6 @@
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，在阿里写前端，空闲也折腾 iOS / Python ，喜欢开源分享，**以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 每日自动更新**。
 
-<table>
-<tr>
-<td valign="top">
-
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
@@ -17,10 +13,6 @@
 - <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加 subjectMinLength 配置</a> - 2020-08-11
 - <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
 <!-- recent_releases ends -->
-
-</td>
-<tr>
-<td valign="top">
 
 #### 🎉 <a href="https://github.com/tw93/weekly" target="_blank">Trend Weekly</a>
 
@@ -34,11 +26,6 @@
 - [#79-笼子里的鸟](https://github.com/tw93/weekly/tree/main/md/%2379-%E7%AC%BC%E5%AD%90%E9%87%8C%E7%9A%84%E9%B8%9F.md) - 2022-05-16
 
 <!-- weekly ends -->
-
-</td>
-</tr>
-<tr>
-<td valign="top">
 
 #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
@@ -55,11 +42,6 @@ Markdown      1 hr 39 mins  ████▒░░░░░░░░░░░░�
 
 <!-- code_time ends -->
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
 #### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
@@ -70,9 +52,5 @@ Markdown      1 hr 39 mins  ████▒░░░░░░░░░░░░�
 - <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
 - <a href='https://tw93.fun/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
 <!-- blog ends -->
-
-</td>
-  </tr>
-  </table>
 
 📮 毕业以来，有幸在阿里飞猪负责过无障碍、Weex、互动、Serverless、微前端、新中后台、业务平台方向建设，目前带一个 20 人左右的友爱团队，<span style="color:#EE722E">**很欢迎一起交流技术～</span>**
