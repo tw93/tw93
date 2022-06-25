@@ -168,7 +168,7 @@ if __name__ == "__main__":
 
     # code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
 
-    # rewritten = replace_chunk(rewritten, "code_time", code_time_text)
+    rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
     # doubans = fetch_douban()[:5]
 
