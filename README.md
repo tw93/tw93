@@ -59,11 +59,11 @@ XML           1 hr 56 mins  ████▒░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://tw93.fun/2022-06-13/a-good-markdown.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
+* <a href='https://tw93.fun/2022-06-25/mac.html' target='_blank'>2022 年我的 Mac 软件折腾之旅</a> - 2022-06-25
+* <a href='https://tw93.fun/2022-06-13/a-good-markdown-copy.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
 * <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
 * <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
 * <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
-* <a href='https://tw93.fun/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
 <!-- blog ends -->
 
 </td>
