@@ -9,7 +9,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.6.0' target='_blank'>MiaoYan V0.6.0</a> - 2022-06-21
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.6.1' target='_blank'>MiaoYan V0.6.1</a> - 2022-06-24
 * <a href='https://github.com/alibaba/x-render/releases/tag/v1.13.6' target='_blank'>x-render v1.13.6</a> - 2022-06-20
 * <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新</a> - 2020-08-19
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 防止 github warning</a> - 2020-08-16
@@ -43,12 +43,12 @@
 <!-- code_time starts -->
 
 ```text
-Swift       29 hrs 51 mins  ████████████████░░░░░░░░  51.7%
-HTML         10 hrs 4 mins  ███████▓░░░░░░░░░░░░░░░░  17.4%
-Cocoa        7 hrs 55 mins  ██████▓░░░░░░░░░░░░░░░░░  13.7%
-CSS          3 hrs 48 mins  █████░░░░░░░░░░░░░░░░░░░   6.6%
-Markdown     2 hrs 30 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.3%
-XML           1 hr 35 mins  ████░░░░░░░░░░░░░░░░░░░░   2.7%
+Swift       29 hrs 29 mins  ████████████████▒░░░░░░░  54.0%
+Cocoa        8 hrs 58 mins  ███████▒░░░░░░░░░░░░░░░░  16.4%
+HTML         6 hrs 28 mins  ██████▒░░░░░░░░░░░░░░░░░  11.8%
+CSS           3 hrs 5 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.7%
+Markdown     2 hrs 23 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.4%
+XML           1 hr 56 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time ends -->
