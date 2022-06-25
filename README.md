@@ -6,12 +6,14 @@
 <tr>
 <td valign="top" width="50%">
 
+#### 🏊‍♂️ Weekly Development Breakdown
+
 <img src=https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg>
 
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 * <a href='https://tw93.fun/2022-06-25/mac.html' target='_blank'>2022 年我的 Mac 软件折腾之旅</a> - 2022-06-25
