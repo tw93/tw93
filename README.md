@@ -6,6 +6,28 @@
 <tr>
 <td valign="top" width="50%">
 
+#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
+
+<img src=https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg>
+
+</td>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
+
+<!-- blog starts -->
+* <a href='https://tw93.fun/2022-06-25/mac.html' target='_blank'>2022 年我的 Mac 软件折腾之旅</a> - 2022-06-25
+* <a href='https://tw93.fun/2022-06-13/a-good-markdown-copy.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
+* <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
+* <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
+* <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
+<!-- blog ends -->
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
@@ -35,26 +57,5 @@
 
 </td>
 </tr>
-<tr>
-<td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
-
-<img src=https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg width="50%">
-
-</td>
-<td valign="top" width="50%">
-
-#### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
-
-<!-- blog starts -->
-* <a href='https://tw93.fun/2022-06-25/mac.html' target='_blank'>2022 年我的 Mac 软件折腾之旅</a> - 2022-06-25
-* <a href='https://tw93.fun/2022-06-13/a-good-markdown-copy.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
-* <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
-* <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
-* <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
-<!-- blog ends -->
-
-</td>
-</tr>
 </table>

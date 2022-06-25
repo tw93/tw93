@@ -99,10 +99,10 @@ def fetch_releases(oauth_token):
     return releases
 
 
-def fetch_code_time():
-    return httpx.get(
-        "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/"
-    )
+# def fetch_code_time():
+#     return httpx.get(
+#         "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/"
+#     )
 
 def fetch_weekly():
     return httpx.get(
@@ -166,9 +166,9 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-    code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
+    # code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
 
-    rewritten = replace_chunk(rewritten, "code_time", code_time_text)
+    # rewritten = replace_chunk(rewritten, "code_time", code_time_text)
 
     # doubans = fetch_douban()[:5]
 
