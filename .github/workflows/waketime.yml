@@ -1,9 +1,10 @@
 name: Wakatime Charts
 
 on:
+  push:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron:  '0 0 */1 * *'
 
 jobs:
   update-charts:
