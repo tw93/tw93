@@ -141,7 +141,7 @@ if __name__ == "__main__":
     md = "\n".join(
         [
             "* <a href='{url}' target='_blank'>{repo} {release}</a> - {published_at}".format(**release)
-            for release in releases[:8]
+            for release in releases[:5]
         ]
     )
     readme_contents = readme.open().read()
@@ -181,7 +181,7 @@ if __name__ == "__main__":
     weekly_text = "\n"+fetch_weekly().text
     rewritten = replace_chunk(rewritten, "weekly", weekly_text)
 
-    entries = fetch_blog_entries()[:6]
+    entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
         ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
     )
