@@ -8,7 +8,7 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-<img src=https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg>
+<img src=https://raw.githubusercontent.com/avinal/avinal/main/images/stat.svg />
 
 </td>
 <td valign="top" width="50%">
