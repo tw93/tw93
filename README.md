@@ -40,22 +40,8 @@
 
 #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
-<p style="max-width:50%">
+<img src=https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg width="50%">
 
-<!-- code_time starts -->
-
-```text
-Swift       29 hrs 29 mins  ████████████████▒░░░░░░░  54.0%
-Cocoa        8 hrs 58 mins  ███████▒░░░░░░░░░░░░░░░░  16.4%
-HTML         6 hrs 28 mins  ██████▒░░░░░░░░░░░░░░░░░  11.8%
-CSS           3 hrs 5 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.7%
-Markdown     2 hrs 23 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.4%
-XML           1 hr 56 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.5%
-```
-
-<!-- code_time ends -->
-
-</p>
 </td>
 <td valign="top" width="50%">
 
