@@ -21,7 +21,6 @@
 * <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新</a> - 2020-08-19
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 防止 github warning</a> - 2020-08-16
 * <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加配置</a> - 2020-08-11
-* <a href='https://github.com/tw93/tw93/releases/tag/V1.0' target='_blank'>tw93 首页信息流优化完成</a> - 2020-07-19
 <!-- recent_releases ends -->
 
 </td>
@@ -37,7 +36,6 @@
 * <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
 * <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
 * <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
-* <a href='https://tw93.fun/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
 <!-- blog ends -->
 
 </td>
