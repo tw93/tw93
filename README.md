@@ -40,7 +40,8 @@
 
 #### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
-<div style="max-width:50%">
+<p style="max-width:50%">
+
 <!-- code_time starts -->
 
 ```text
@@ -54,7 +55,7 @@ XML           1 hr 56 mins  ████▒░░░░░░░░░░░░�
 
 <!-- code_time ends -->
 
-</div>
+</p>
 </td>
 <td valign="top" width="50%">
 
