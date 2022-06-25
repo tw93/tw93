@@ -9,8 +9,8 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.6.1' target='_blank'>MiaoYan V0.6.1</a> - 2022-06-24
 * <a href='https://github.com/alibaba/x-render/releases/tag/v1.13.6' target='_blank'>x-render v1.13.6</a> - 2022-06-20
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.5.1' target='_blank'>MiaoYan V0.5.1</a> - 2022-06-19
 * <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新</a> - 2020-08-19
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 防止 github warning</a> - 2020-08-16
 * <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加配置</a> - 2020-08-11
@@ -44,12 +44,12 @@
 <!-- code_time starts -->
 
 ```text
-Swift       20 hrs 14 mins  ████████████▓░░░░░░░░░░░  39.1%
-Cocoa       10 hrs 13 mins  ████████▒░░░░░░░░░░░░░░░  19.8%
-HTML         8 hrs 57 mins  ███████▓░░░░░░░░░░░░░░░░  17.3%
-CSS          4 hrs 30 mins  █████▓░░░░░░░░░░░░░░░░░░   8.7%
-XML           2 hrs 9 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.2%
-Markdown      1 hr 39 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.2%
+Swift       29 hrs 29 mins  ████████████████▒░░░░░░░  54.0%
+Cocoa        8 hrs 58 mins  ███████▒░░░░░░░░░░░░░░░░  16.4%
+HTML         6 hrs 28 mins  ██████▒░░░░░░░░░░░░░░░░░  11.8%
+CSS           3 hrs 5 mins  ████▓░░░░░░░░░░░░░░░░░░░   5.7%
+Markdown     2 hrs 23 mins  ████▒░░░░░░░░░░░░░░░░░░░   4.4%
+XML           1 hr 56 mins  ████▒░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time ends -->
@@ -61,11 +61,11 @@ Markdown      1 hr 39 mins  ████▒░░░░░░░░░░░░�
 #### 🤾‍♂️ <a href="https://tw93.github.io/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://tw93.fun/2022-06-13/a-good-markdown.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
+* <a href='https://tw93.fun/2022-06-25/mac.html' target='_blank'>2022 年我的 Mac 软件折腾之旅</a> - 2022-06-25
+* <a href='https://tw93.fun/2022-06-13/a-good-markdown-copy.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
 * <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
 * <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
 * <a href='https://tw93.fun/2021-06-08/app.html' target='_blank'>为啥两年前的 APP 这么好用？</a> - 2021-06-08
-* <a href='https://tw93.fun/2020-07-17/markdown.html' target='_blank'>Github 居然可以这么玩</a> - 2020-07-17
 <!-- blog ends -->
 
 </td>
