@@ -6,8 +6,6 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
-
 <img src=https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg>
 
 </td>
