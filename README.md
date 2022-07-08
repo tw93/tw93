@@ -33,10 +33,10 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://tw93.fun/2022-07-09/code.html' target='_blank'>如何用你的代码讲故事</a> - 2022-07-09
 * <a href='https://tw93.fun/2022-07-01/gou.html' target='_blank'>大环境不好的情况下如何🐶着</a> - 2022-07-01
 * <a href='https://tw93.fun/2022-06-25/mac.html' target='_blank'>2022 年我的 Mac 软件折腾之旅</a> - 2022-06-25
 * <a href='https://tw93.fun/2022-06-13/a-good-markdown-copy.html' target='_blank'>妙言 Markdown 编辑器介绍</a> - 2022-06-13
-* <a href='https://tw93.fun/2021-09-08/code.html' target='_blank'>如何给你的代码祝寿</a> - 2021-09-08
 * <a href='https://tw93.fun/2021-07-09/webstorm.html' target='_blank'>你居然还在用 WebStorm ？</a> - 2021-07-09
 <!-- blog ends -->
 
