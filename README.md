@@ -1,6 +1,6 @@
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，是一个前端工程师，空闲时也写写 Swift/Rust，喜欢折腾新技术，热爱开源，以下通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 自动更新：
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，是一个前端工程师，空闲时也写写 Swift / Rust / Python，喜欢折腾各种新技术，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 自动更新：
 
 <table width="960px">
 <tr>
