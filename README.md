@@ -15,7 +15,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/main/releases.md" target="_blank">Product Releases</a>
+#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.1.0' target='_blank'>MiaoYan V1.1.0 Easy to use 🎉</a> - 2022-07-28
