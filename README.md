@@ -8,9 +8,15 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-![light](https://tw93-tw93.vercel.app/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+![light](#gh-light-mode-only)
 
-![dark](https://tw93-tw93.vercel.app/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+![dark](#gh-dark-mode-only)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://tw93-tw93.vercel.app/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://tw93-tw93.vercel.app/images/wakatime_weekly_language_stats.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://tw93-tw93.vercel.app/images/wakatime_weekly_language_stats.svg">
+</picture>
 
 </td>
 <td valign="top" width="50%">
