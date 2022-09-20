@@ -3,10 +3,10 @@
 All <!-- release_count starts -->6<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[x-render](https://github.com/alibaba/x-render)**: [v1.13.14](https://github.com/alibaba/x-render/releases/tag/v1.13.14) - 2022-09-20
+<br>🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 * **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.6.0 Better use 🧝‍♀️](https://github.com/tw93/MiaoYan/releases/tag/V1.6.0) - 2022-09-17
 <br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-* **[x-render](https://github.com/alibaba/x-render)**: [v1.13.6](https://github.com/alibaba/x-render/releases/tag/v1.13.6) - 2022-06-20
-<br>🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
 * **[umi-plugin-console](https://github.com/tw93/umi-plugin-console)**: [大幅度更新](https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2) - 2020-08-19
 <br>☄️ 用于 umi 打包过程中配置各个钩子输出一些提示性的信息
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [防止 github warning](https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0) - 2020-08-16
