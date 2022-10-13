@@ -18,11 +18,11 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/alibaba/x-render/releases/tag/v1.13.16' target='_blank'>x-render </a> - 2022-10-11
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.7.1' target='_blank'>MiaoYan V1.7.1 More happy 🎉</a> - 2022-10-01
-* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新</a> - 2020-08-19
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 防止 github warning</a> - 2020-08-16
-* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加配置</a> - 2020-08-11
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.8.0' target='_blank'>MiaoYan V0.8.0 值得更新</a> - 2022-07-11
+* <a href='https://github.com/alibaba/x-render/releases/tag/fr-generator%402.0.0' target='_blank'>x-render fr-generator v2.0.0</a> - 2021-05-10
+* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.0' target='_blank'>umi-plugin-console 兼容umi3的插件的使用</a> - 2020-08-19
+* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.1' target='_blank'>tw93.github.io 修复RSS报错</a> - 2020-07-18
+* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1' target='_blank'>cz-emoji-chinese 完善使用文档</a> - 2020-07-18
 <!-- recent_releases ends -->
 
 </td>
