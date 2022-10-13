@@ -43,7 +43,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🎉 <a href="https://weekly.tw93.fun/posts/99-%E8%87%AA%E9%A9%BE%E5%9B%9E%E5%AE%B6" target="_blank">Trend Weekly</a>
+#### 🎉 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
 
 <!-- weekly starts -->
 
