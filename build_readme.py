@@ -75,8 +75,6 @@ def fetch_releases(oauth_token):
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
-                print(">>>>>>>>")
-                print(repo["releases"])
                 releases.append(
                     {
                         "repo": repo["name"],
