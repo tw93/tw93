@@ -33,7 +33,7 @@ def repository_query(after_cursor=None):
     return """
 query {
   viewer {
-    repositories(first: 200, privacy: PUBLIC, after:AFTER) {
+    repositories(first: 100, privacy: PUBLIC, isFork:false, ownerAffiliations:OWNER, after:AFTER) {
       pageInfo {
         hasNextPage
         endCursor
