@@ -42,7 +42,7 @@ query {
         name
         description
         url
-        releases(last: 10, orderBy: { field: CREATED_AT, direction: DESC}) {
+        releases(last: 200, orderBy: { field: CREATED_AT, direction: DESC}) {
           totalCount
           nodes {
             name
