@@ -71,13 +71,12 @@ def fetch_releases(oauth_token):
             query=repository_query(after_cursor),
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
-        print()
-        print(json.dumps(data, indent=4))
-        print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
+                print(">>>>>>>>")
+                print(repo["releases"])
                 releases.append(
                     {
                         "repo": repo["name"],
