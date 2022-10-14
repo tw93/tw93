@@ -18,8 +18,8 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/tw93/pake/releases/tag/0.1.0' target='_blank'>pake 微信读书</a> - 2022-10-14
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.8.0' target='_blank'>MiaoYan V0.8.0 值得更新</a> - 2022-07-11
-* <a href='https://github.com/alibaba/x-render/releases/tag/fr-generator%402.0.0' target='_blank'>x-render fr-generator v2.0.0</a> - 2021-05-10
 * <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.0' target='_blank'>umi-plugin-console 兼容umi3的插件的使用</a> - 2020-08-19
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.1' target='_blank'>tw93.github.io 修复RSS报错</a> - 2020-07-18
 * <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1' target='_blank'>cz-emoji-chinese 完善使用文档</a> - 2020-07-18
