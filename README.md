@@ -19,10 +19,10 @@
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/tw93/pake/releases/tag/0.1.0' target='_blank'>pake 微信读书</a> - 2022-10-14
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.8.0' target='_blank'>MiaoYan V0.8.0 值得更新</a> - 2022-07-11
-* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.0' target='_blank'>umi-plugin-console 兼容umi3的插件的使用</a> - 2020-08-19
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.1' target='_blank'>tw93.github.io 修复RSS报错</a> - 2020-07-18
-* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/V0.2.1' target='_blank'>cz-emoji-chinese 完善使用文档</a> - 2020-07-18
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V0.6.1' target='_blank'>MiaoYan V0.6.1</a> - 2022-06-24
+* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新</a> - 2020-08-19
+* <a href='https://github.com/tw93/tw93.github.io/releases/tag/v0.2.0' target='_blank'>tw93.github.io 防止 github warning</a> - 2020-08-16
+* <a href='https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1' target='_blank'>cz-emoji-chinese 增加配置</a> - 2020-08-11
 <!-- recent_releases ends -->
 
 </td>
