@@ -3,7 +3,7 @@
 All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[pake](https://github.com/tw93/pake)**: [支持微信读书、Flomo](https://github.com/tw93/pake/releases/tag/V0.2.0) - 2022-10-15
+* **[Pake](https://github.com/tw93/Pake)**: [支持微信读书、Flomo](https://github.com/tw93/Pake/releases/tag/V0.2.0) - 2022-10-15
 <br>🤱🏻 很简单的用 Rust 来打包网页 Mac App
 * **[weekly](https://github.com/tw93/weekly)**: [终于有自己的展示网站了](https://github.com/tw93/weekly/releases/tag/V0.1) - 2022-10-14
 <br>🩴 潮流周刊，每周一早发布~
