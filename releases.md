@@ -3,7 +3,7 @@
 All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[Pake](https://github.com/tw93/Pake)**: [支持极简 Twitter](https://github.com/tw93/Pake/releases/tag/V0.8.0) - 2022-10-26
+* **[Pake](https://github.com/tw93/Pake)**: [Support Mini Twitter / YuQue](https://github.com/tw93/Pake/releases/tag/V0.8.0) - 2022-10-26
 <br>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
 * **[weekly](https://github.com/tw93/weekly)**: [终于有自己的展示网站了](https://github.com/tw93/weekly/releases/tag/V0.1) - 2022-10-14
 <br>🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
