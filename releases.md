@@ -3,7 +3,7 @@
 All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [New Font / Replace comment to giscus](https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0) - 2022-11-08
+* **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [翻新一下博客](https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0) - 2022-11-08
 <br>🧗‍♂️ Tw93 的个人博客 / 形而上班
 * **[Pake](https://github.com/tw93/Pake)**: [Support Youtube / Reference](https://github.com/tw93/Pake/releases/tag/V0.9.0) - 2022-10-26
 <br>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
