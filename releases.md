@@ -3,14 +3,14 @@
 All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.8.0 More ingenious 🐝](https://github.com/tw93/MiaoYan/releases/tag/V1.8.0) - 2022-11-14
+<br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [翻新一下博客](https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0) - 2022-11-08
 <br>🧗‍♂️ Tw93 的个人博客 / 形而上班
 * **[Pake](https://github.com/tw93/Pake)**: [Support Youtube / Reference](https://github.com/tw93/Pake/releases/tag/V0.9.0) - 2022-10-26
 <br>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
 * **[weekly](https://github.com/tw93/weekly)**: [终于有自己的展示网站了](https://github.com/tw93/weekly/releases/tag/V0.1) - 2022-10-14
 <br>🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
-* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.7.1 More happy 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.7.1) - 2022-10-01
-<br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 * **[umi-plugin-console](https://github.com/tw93/umi-plugin-console)**: [大幅度更新](https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2) - 2020-08-19
 <br>☄️ 用于 umi 打包过程中配置各个钩子输出一些提示性的信息
 * **[cz-emoji-chinese](https://github.com/tw93/cz-emoji-chinese)**: [增加配置](https://github.com/tw93/cz-emoji-chinese/releases/tag/v0.3.1) - 2020-08-11
