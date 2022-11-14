@@ -18,10 +18,10 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.8.0' target='_blank'>MiaoYan V1.8.0 More ingenious 🐝</a> - 2022-11-14
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0' target='_blank'>tw93.github.io 翻新一下博客</a> - 2022-11-08
 * <a href='https://github.com/tw93/Pake/releases/tag/V0.9.0' target='_blank'>Pake Support Youtube / Reference</a> - 2022-10-26
 * <a href='https://github.com/tw93/weekly/releases/tag/V0.1' target='_blank'>weekly 终于有自己的展示网站了</a> - 2022-10-14
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.7.1' target='_blank'>MiaoYan V1.7.1 More happy 🎉</a> - 2022-10-01
 * <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新</a> - 2020-08-19
 <!-- recent_releases ends -->
 
@@ -47,11 +47,11 @@
 
 <!-- weekly starts -->
 
+* [第 104 期 - 可爱松鼠](https://weekly.tw93.fun/posts/104-可爱松鼠) - 2022-11-14
 * [第 103 期 - 茶山的树](https://weekly.tw93.fun/posts/103-茶山的树) - 2022-11-07
 * [第 102 期 - 阳台烤肉](https://weekly.tw93.fun/posts/102-阳台烤肉) - 2022-10-31
 * [第 101 期 - 1024快乐](https://weekly.tw93.fun/posts/101-1024快乐) - 2022-10-24
 * [第 100 期 - 无忧孩童](https://weekly.tw93.fun/posts/100-无忧孩童) - 2022-10-17
-* [第 99 期 - 自驾回家](https://weekly.tw93.fun/posts/99-自驾回家) - 2022-10-10
 
 <!-- weekly ends -->
 
