@@ -8,7 +8,7 @@ All <!-- release_count starts -->7<!-- release_count ends --> of my released pro
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [翻新一下博客](https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0) - 2022-11-08
 <br>🧗‍♂️ Tw93 的个人博客 / 形而上班
 * **[Pake](https://github.com/tw93/Pake)**: [Support Youtube / Reference](https://github.com/tw93/Pake/releases/tag/V0.9.0) - 2022-10-26
-<br>🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
+<br>🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 * **[weekly](https://github.com/tw93/weekly)**: [终于有自己的展示网站了](https://github.com/tw93/weekly/releases/tag/V0.1) - 2022-10-14
 <br>🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 * **[umi-plugin-console](https://github.com/tw93/umi-plugin-console)**: [大幅度更新](https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2) - 2020-08-19
