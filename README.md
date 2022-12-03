@@ -1,6 +1,6 @@
 ## Hello, World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 [Tw93](https://tw93.fun/)，是一个前端工程师，也会一点 Swift / Rust / Python / Shell，是 [妙言](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [潮流周刊](https://weekly.tw93.fun/) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) 的作者，信长期主义，喜欢折腾和极简，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 自动更新：
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 [Tw93](https://tw93.fun/)，是一个前端工程师，也会一点 Swift / Rust / Python，是 [妙言](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [潮流周刊](https://weekly.tw93.fun/) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) 的作者，信长期主义，喜欢折腾和极简，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">tw93/actions</a> 自动更新：
 
 <table width="960px">
 <tr>
