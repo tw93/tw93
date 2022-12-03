@@ -3,7 +3,7 @@
 All <!-- release_count starts -->7<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[Pake](https://github.com/tw93/Pake)**: [马上到 1.0 了🎉](https://github.com/tw93/Pake/releases/tag/V0.9.15) - 2022-12-01
+* **[Pake](https://github.com/tw93/Pake)**: [V0.9.16](https://github.com/tw93/Pake/releases/tag/V0.9.16) - 2022-12-03
 <br>🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
 * **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.8.0 More ingenious 🐝](https://github.com/tw93/MiaoYan/releases/tag/V1.8.0) - 2022-11-14
 <br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
