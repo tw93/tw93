@@ -34,10 +34,10 @@
 
 <!-- blog starts -->
 * <a href='https://tw93.fun/2022-12-09/talk.html' target='_blank'>工程师如何明白的做事情</a> - 2022-12-09
-* <a href='https://tw93.fun/2022-12-09/talk-ppt.html' target='_blank'>工程师如何明白的做事情</a> - 2022-12-09
 * <a href='https://tw93.fun/2022-12-04/openai.html' target='_blank'>普通人如何不被 OpenAI 取代？</a> - 2022-12-04
 * <a href='https://tw93.fun/2022-11-05/pake.html' target='_blank'>用 Pake 打包了一个极简 Twitter</a> - 2022-11-05
 * <a href='https://tw93.fun/2022-10-22/weekly.html' target='_blank'>潮流周刊 100 期，做了个官网</a> - 2022-10-22
+* <a href='https://tw93.fun/2022-09-09/miaoyan.html' target='_blank'>妙言 - 更适合工程师用的笔记应用</a> - 2022-09-09
 <!-- blog ends -->
 
 </td>
