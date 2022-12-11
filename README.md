@@ -18,7 +18,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/tw93/Pake/releases/tag/V0.9.15' target='_blank'>Pake 马上到 1.0 了🎉</a> - 2022-12-01
+* <a href='https://github.com/tw93/Pake/releases/tag/V0.9.26' target='_blank'>Pake V0.9.26</a> - 2022-12-11
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.8.0' target='_blank'>MiaoYan V1.8.0 More ingenious 🐝</a> - 2022-11-14
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0' target='_blank'>tw93.github.io 翻新一下博客</a> - 2022-11-08
 * <a href='https://github.com/tw93/weekly/releases/tag/V0.1' target='_blank'>weekly 终于有自己的展示网站了</a> - 2022-10-14
@@ -33,11 +33,11 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://tw93.fun/2022-12-09/talk.html' target='_blank'>工程师如何明白的做事情</a> - 2022-12-09
+* <a href='https://tw93.fun/2022-12-04/openai.html' target='_blank'>普通人如何不被 OpenAI 取代？</a> - 2022-12-04
 * <a href='https://tw93.fun/2022-11-05/pake.html' target='_blank'>用 Pake 打包了一个极简 Twitter</a> - 2022-11-05
 * <a href='https://tw93.fun/2022-10-22/weekly.html' target='_blank'>潮流周刊 100 期，做了个官网</a> - 2022-10-22
 * <a href='https://tw93.fun/2022-09-09/miaoyan.html' target='_blank'>妙言 - 更适合工程师用的笔记应用</a> - 2022-09-09
-* <a href='https://tw93.fun/2022-07-29/pd-code.html' target='_blank'>如何做一个产品工程师？</a> - 2022-07-29
-* <a href='https://tw93.fun/2022-07-09/code.html' target='_blank'>如何给你的代码祝寿</a> - 2022-07-09
 <!-- blog ends -->
 
 </td>
@@ -47,11 +47,11 @@
 
 <!-- weekly starts -->
 
+* [第 107 期 - 居家做饭](https://weekly.tw93.fun/posts/107-居家做饭) - 2022-12-05
 * [第 106 期 - 海南度假](https://weekly.tw93.fun/posts/106-海南度假) - 2022-11-28
 * [第 105 期 - 西湖音乐节](https://weekly.tw93.fun/posts/105-西湖音乐节) - 2022-11-21
 * [第 104 期 - 可爱松鼠](https://weekly.tw93.fun/posts/104-可爱松鼠) - 2022-11-14
 * [第 103 期 - 茶山的树](https://weekly.tw93.fun/posts/103-茶山的树) - 2022-11-07
-* [第 102 期 - 阳台烤肉](https://weekly.tw93.fun/posts/102-阳台烤肉) - 2022-10-31
 
 <!-- weekly ends -->
 
