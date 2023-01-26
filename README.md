@@ -33,11 +33,11 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://tw93.fun/2023-01-25/my-2022.html' target='_blank'>2022 年总结 - 率性而活</a> - 2023-01-25
 * <a href='https://tw93.fun/2023-01-02/low-code.html' target='_blank'>什么是比较好的低代码产品</a> - 2023-01-02
 * <a href='https://tw93.fun/2022-12-09/talk.html' target='_blank'>工程师如何明白的做事情</a> - 2022-12-09
 * <a href='https://tw93.fun/2022-12-04/openai.html' target='_blank'>普通人如何不被 OpenAI 取代？</a> - 2022-12-04
 * <a href='https://tw93.fun/2022-11-05/pake.html' target='_blank'>用 Pake 打包了一个极简 Twitter</a> - 2022-11-05
-* <a href='https://tw93.fun/2022-10-22/weekly.html' target='_blank'>潮流周刊 100 期，做了个官网</a> - 2022-10-22
 <!-- blog ends -->
 
 </td>
