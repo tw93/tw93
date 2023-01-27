@@ -8,7 +8,7 @@ All <!-- release_count starts -->7<!-- release_count ends --> of my released pro
 * **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.8.0 More ingenious 🐝](https://github.com/tw93/MiaoYan/releases/tag/V1.8.0) - 2022-11-14
 <br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [翻新一下博客](https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0) - 2022-11-08
-<br>🧗‍♂️ Tw93 的个人博客 / 形而上班
+<br>🧗‍♂️ Tw93 的个人博客
 * **[weekly](https://github.com/tw93/weekly)**: [终于有自己的展示网站了](https://github.com/tw93/weekly/releases/tag/V0.1) - 2022-10-14
 <br>🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 * **[umi-plugin-console](https://github.com/tw93/umi-plugin-console)**: [大幅度更新](https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2) - 2020-08-19
