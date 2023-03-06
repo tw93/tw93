@@ -18,8 +18,8 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/tw93/Pake/releases/tag/V1.0.6' target='_blank'>Pake Release build (V1.0.6)</a> - 2023-03-06
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.9.0' target='_blank'>MiaoYan 久等了 ❤️</a> - 2023-03-05
-* <a href='https://github.com/tw93/Pake/releases/tag/V1.0.5' target='_blank'>Pake Daily updates</a> - 2023-03-05
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0' target='_blank'>tw93.github.io 翻新一下博客</a> - 2022-11-08
 * <a href='https://github.com/tw93/weekly/releases/tag/V0.1' target='_blank'>weekly 终于有自己的展示网站了</a> - 2022-10-14
 * <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新</a> - 2020-08-19
