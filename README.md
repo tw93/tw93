@@ -18,7 +18,7 @@
 #### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/tw93/Pake/releases/tag/V2.0.6' target='_blank'>Pake V2.0.6</a> - 2023-06-04
+* <a href='https://github.com/tw93/Pake/releases/tag/V2.0.6' target='_blank'>Pake V2.0.6 更兼容</a> - 2023-06-04
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.10.1' target='_blank'>MiaoYan 更妙了 🎉</a> - 2023-03-30
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0' target='_blank'>tw93.github.io 翻新一下博客</a> - 2022-11-08
 * <a href='https://github.com/tw93/weekly/releases/tag/V0.1' target='_blank'>weekly 终于有自己的展示网站了</a> - 2022-10-14
