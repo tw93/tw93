@@ -15,7 +15,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
+#### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/tw93/Pake/releases/tag/V2.0.6' target='_blank'>Pake V2.0.6 更兼容</a> - 2023-06-04
