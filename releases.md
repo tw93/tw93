@@ -4,7 +4,7 @@ All <!-- release_count starts -->7<!-- release_count ends --> of my released pro
 
 <!-- recent_releases starts -->
 * **[Pake](https://github.com/tw93/Pake)**: [V2.2.0 More Awesome](https://github.com/tw93/Pake/releases/tag/V2.2.0) - 2023-07-20
-<br>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+<br>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级跨端桌面应用
 * **[MiaoYan](https://github.com/tw93/MiaoYan)**: [Faster Now 🏂](https://github.com/tw93/MiaoYan/releases/tag/V1.11.0) - 2023-07-12
 <br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [翻新一下博客](https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0) - 2022-11-08
