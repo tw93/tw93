@@ -18,7 +18,7 @@
 #### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.12.0' target='_blank'>MiaoYan 证书更新，请更新 App</a> - 2023-07-30
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.12.1' target='_blank'>MiaoYan 证书更新，请更新 App</a> - 2023-07-30
 * <a href='https://github.com/tw93/Maple/releases/tag/V0.1.0' target='_blank'>Maple 新朋友见面</a> - 2023-07-29
 * <a href='https://github.com/tw93/Pake/releases/tag/V2.2.0' target='_blank'>Pake V2.2.0 More Awesome</a> - 2023-07-20
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0' target='_blank'>tw93.github.io 翻新一下博客</a> - 2022-11-08
