@@ -3,10 +3,10 @@
 All <!-- release_count starts -->8<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[Maple](https://github.com/tw93/Maple)**: [大大大大大更新](https://github.com/tw93/Maple/releases/tag/V1.3) - 2023-08-05
+<br>🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
 * **[MiaoYan](https://github.com/tw93/MiaoYan)**: [证书更新，请更新 App](https://github.com/tw93/MiaoYan/releases/tag/V1.12.1) - 2023-07-30
 <br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
-* **[Maple](https://github.com/tw93/Maple)**: [新朋友见面](https://github.com/tw93/Maple/releases/tag/V0.1.0) - 2023-07-29
-<br>🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
 * **[Pake](https://github.com/tw93/Pake)**: [V2.2.0 More Awesome](https://github.com/tw93/Pake/releases/tag/V2.2.0) - 2023-07-20
 <br>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [翻新一下博客](https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0) - 2022-11-08
