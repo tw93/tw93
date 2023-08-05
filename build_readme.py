@@ -119,7 +119,7 @@ def fetch_weekly():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://tw93.github.io/feed.xml")["entries"]
+    entries = feedparser.parse("https://tw93.fun/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
