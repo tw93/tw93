@@ -3,7 +3,7 @@
 All <!-- release_count starts -->8<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[Pake](https://github.com/tw93/Pake)**: [V2.3.0](https://github.com/tw93/Pake/releases/tag/V2.3.0) - 2023-08-08
+* **[Pake](https://github.com/tw93/Pake)**: [V2.3.0 More Comprehensive](https://github.com/tw93/Pake/releases/tag/V2.3.0) - 2023-08-08
 <br>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * **[Maple](https://github.com/tw93/Maple)**: [大大大大大更新](https://github.com/tw93/Maple/releases/tag/V1.3) - 2023-08-05
 <br>🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
