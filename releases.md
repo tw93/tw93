@@ -5,7 +5,7 @@ All <!-- release_count starts -->8<!-- release_count ends --> of my released pro
 <!-- recent_releases starts -->
 * **[Maple](https://github.com/tw93/Maple)**: [V1.10 More Comprehensive](https://github.com/tw93/Maple/releases/tag/V1.10) - 2023-09-13
 <br>🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
-* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V2.2.0 Comfort Improved](https://github.com/tw93/MiaoYan/releases/tag/V1.13.0) - 2023-09-12
+* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.13 Comfort Improved](https://github.com/tw93/MiaoYan/releases/tag/V1.13.0) - 2023-09-12
 <br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 * **[Pake](https://github.com/tw93/Pake)**: [V2.3.2 更 OK](https://github.com/tw93/Pake/releases/tag/V2.3.2) - 2023-08-28
 <br>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
