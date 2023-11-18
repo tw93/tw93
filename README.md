@@ -1,6 +1,6 @@
 ## Hello, World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 Tw93，前端工程师，也会一些 Swift / Rust / Python / Sketch，是 [妙言](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [潮流周刊](https://weekly.tw93.fun/) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) 的作者，信长期主义，喜欢开源，也很喜欢折腾，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a> 自动更新：
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Tw93, a Frontend Engineer with skills in Swift, Rust, Python, and Sketch. I'm the creator of [Miaoyan](https://miaoyan.app/), [Pake](https://github.com/tw93/pake), [Trendy Weekly](https://weekly.tw93.fun/), [XRender](https://xrender.fun/), and [WeexUi](https://apache.github.io/incubator-weex-ui/). I believe in long-termism, have a passion for open source, and love tinkering with new ideas. The content below is automatically updated via <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a>:
 
 <table width="960px">
 <tr>
