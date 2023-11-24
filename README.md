@@ -33,11 +33,7 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://tw93.fun/2023-09-18/open.html' target='_blank'>该以一种怎么样的心态来对待开源</a> - 2023-09-18
-* <a href='https://tw93.fun/2023-08-20/edge.html' target='_blank'>2023 我的浏览器折腾之旅</a> - 2023-08-20
-* <a href='https://tw93.fun/2023-08-03/pake.html' target='_blank'>Pake - 利用 Rust 轻松构建轻量级应用</a> - 2023-08-03
-* <a href='https://tw93.fun/2023-07-20/great.html' target='_blank'>译·如何做出伟大的工作</a> - 2023-07-20
-* <a href='https://tw93.fun/2023-07-02/hongkong.html' target='_blank'>香港和想象中不一样的地方</a> - 2023-07-02
+
 <!-- blog ends -->
 
 </td>
