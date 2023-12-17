@@ -33,7 +33,7 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://tw93.fun/2023-12-17/jp.html' target='_blank'>日本游记</a> - 2023-12-17
+* <a href='https://tw93.fun/2023-12-17/jp.html' target='_blank'>日本东京&大阪游记</a> - 2023-12-17
 * <a href='https://tw93.fun/2023-10-25/new-fe.html' target='_blank'>新一代前端发展的困境与破局</a> - 2023-10-25
 * <a href='https://tw93.fun/2023-09-18/open.html' target='_blank'>该以一种怎么样的心态来对待开源</a> - 2023-09-18
 * <a href='https://tw93.fun/2023-08-20/edge.html' target='_blank'>2023 我的浏览器折腾之旅</a> - 2023-08-20
@@ -47,11 +47,11 @@
 
 <!-- weekly starts -->
 
+* [第 157 期 - 引力剧场](https://weekly.tw93.fun/posts/157-引力剧场) - 2023-12-17
 * [第 156 期 - 富士山下](https://weekly.tw93.fun/posts/156-富士山下) - 2023-12-17
-* [第 155 期 - 东京夜景](https://weekly.tw93.fun/posts/155-东京夜景) - 2023-12-07
-* [第 154 期 - 玉鸟集美](https://weekly.tw93.fun/posts/154-玉鸟集美) - 2023-11-20
+* [第 155 期 - 东京夜景](https://weekly.tw93.fun/posts/155-东京夜景) - 2023-12-17
+* [第 154 期 - 玉鸟集美](https://weekly.tw93.fun/posts/154-玉鸟集美) - 2023-12-17
 * [第 153 期 - 高空画家](https://weekly.tw93.fun/posts/153-高空画家) - 2023-11-13
-* [第 152 期 - 赛博红桥](https://weekly.tw93.fun/posts/152-赛博红桥) - 2023-11-06
 
 <!-- weekly ends -->
 
