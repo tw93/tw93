@@ -1,7 +1,5 @@
 from python_graphql_client import GraphqlClient
 import feedparser
-import httpx
-import json
 import pathlib
 import re
 import os
@@ -99,13 +97,6 @@ def fetch_releases(oauth_token):
         after_cursor = data["data"]["viewer"]["repositories"]["pageInfo"]["endCursor"]
     return releases
 
-
-# def fetch_code_time():
-#     return httpx.get(
-#         "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/"
-#     )
-
-
 def fetch_weekly():
     content = feedparser.parse("https://weekly.tw93.fun/rss.xml")["entries"]
 
@@ -121,18 +112,6 @@ def fetch_weekly():
     ]
 
     return "\n".join(entries[:5])
-
-
-# def fetch_douban():
-#     entries = feedparser.parse("https://www.douban.com/feed/people/tangwei93/interests")["entries"]
-#     return [
-#         {
-#             "title": item["title"],
-#             "url": item["link"].split("#")[0],
-#             "published": formatGMTime(item["published"])
-#         }
-#         for item in entries
-#     ]
 
 
 def fetch_blog_entries():
@@ -182,19 +161,9 @@ if __name__ == "__main__":
     )
     project_releases.open("w").write(project_releases_content)
 
-    # code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
+    print("fetch_weekly>>>>>>",fetch_weekly())
 
-    # rewritten = replace_chunk(rewritten, "code_time", code_time_text)
-
-    # doubans = fetch_douban()[:5]
-
-    # doubans_md = "\n".join(
-    #     ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**item) for item in doubans]
-    # )
-
-    # rewritten = replace_chunk(rewritten, "douban", doubans_md)
-
-    weekly_text = "\n" + fetch_weekly().text
+    weekly_text = "\n" + fetch_weekly()
     rewritten = replace_chunk(rewritten, "weekly", weekly_text)
 
     entries = fetch_blog_entries()[:5]
