@@ -24,10 +24,14 @@ def replace_chunk(content, marker, chunk, inline=False):
     chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
     return r.sub(chunk, content)
 
+
 def formatGMTime(timestamp):
-    GMT_FORMAT = '%a, %d %b %Y %H:%M:%S GMT'
-    dateStr = datetime.datetime.strptime(timestamp, GMT_FORMAT) + datetime.timedelta(hours=8)
+    GMT_FORMAT = "%a, %d %b %Y %H:%M:%S GMT"
+    dateStr = datetime.datetime.strptime(timestamp, GMT_FORMAT) + datetime.timedelta(
+        hours=8
+    )
     return dateStr.date()
+
 
 def repository_query(after_cursor=None):
     return """
@@ -101,10 +105,23 @@ def fetch_releases(oauth_token):
 #         "https://gist.githubusercontent.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6/raw/"
 #     )
 
+
 def fetch_weekly():
-    return httpx.get(
-        "https://raw.githubusercontent.com/tw93/weekly/main/RECENT.md"
-    )
+    content = feedparser.parse("https://weekly.tw93.fun/rss.xml")["entries"]
+
+    entries = [
+        "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
+            title=entry["title"],
+            url=entry["link"].split("#")[0],
+            published=datetime.datetime.strptime(
+                entry["published"], "%a, %d %b %Y %H:%M:%S %Z"
+            ).strftime("%Y-%m-%d"),
+        )
+        for entry in content
+    ]
+
+    return "\n".join(entries[:5])
+
 
 # def fetch_douban():
 #     entries = feedparser.parse("https://www.douban.com/feed/people/tangwei93/interests")["entries"]
@@ -137,7 +154,9 @@ if __name__ == "__main__":
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "\n".join(
         [
-            "* <a href='{url}' target='_blank'>{repo} {release}</a> - {published_at}".format(**release)
+            "* <a href='{url}' target='_blank'>{repo} {release}</a> - {published_at}".format(
+                **release
+            )
             for release in releases[:5]
         ]
     )
@@ -175,12 +194,17 @@ if __name__ == "__main__":
 
     # rewritten = replace_chunk(rewritten, "douban", doubans_md)
 
-    weekly_text = "\n"+fetch_weekly().text
+    weekly_text = "\n" + fetch_weekly().text
     rewritten = replace_chunk(rewritten, "weekly", weekly_text)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
-        ["* <a href='{url}' target='_blank'>{title}</a> - {published}".format(**entry) for entry in entries]
+        [
+            "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
+                **entry
+            )
+            for entry in entries
+        ]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
