@@ -33,11 +33,11 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://tw93.fun/2023-12-30/30.html' target='_blank'>我居然 30 岁了</a> - 2023-12-30
+* <a href='https://tw93.fun/2023-12-26/fe.html' target='_blank'>不喜欢前端娱乐圈这种氛围</a> - 2023-12-26
 * <a href='https://tw93.fun/2023-12-17/jp.html' target='_blank'>日本东京&大阪游记</a> - 2023-12-17
 * <a href='https://tw93.fun/2023-10-25/new-fe.html' target='_blank'>新一代前端发展的困境与破局</a> - 2023-10-25
-* <a href='https://tw93.fun/2023-09-18/open.html' target='_blank'>该以一种怎么样的心态来对待开源</a> - 2023-09-18
-* <a href='https://tw93.fun/2023-08-20/edge.html' target='_blank'>2023 我的浏览器折腾之旅</a> - 2023-08-20
-* <a href='https://tw93.fun/2023-08-03/pake.html' target='_blank'>Pake - 利用 Rust 轻松构建轻量级应用</a> - 2023-08-03
+* <a href='https://tw93.fun/2023-10-06/dahang.html' target='_blank'>我的自行车入门实践</a> - 2023-10-06
 <!-- blog ends -->
 
 </td>
