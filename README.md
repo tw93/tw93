@@ -47,11 +47,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/162-%E6%99%B4%E7%A9%BA%E5%A1%94%E7%BE%8E/' target='_blank'>第162期 - 晴空塔美</a> - 2024-01-21
 * <a href='https://weekly.tw93.fun/posts/161-%E6%9E%81%E7%AE%80%E5%8F%B0%E7%81%AF/' target='_blank'>第161期 - 极简台灯</a> - 2024-01-14
 * <a href='https://weekly.tw93.fun/posts/160-%E7%88%B1%E5%90%83%E7%82%92%E9%A5%AD/' target='_blank'>第160期 - 爱吃炒饭</a> - 2024-01-08
 * <a href='https://weekly.tw93.fun/posts/159-%E8%87%AA%E5%88%B6%E5%92%96%E5%95%A1/' target='_blank'>第159期 - 自制咖啡</a> - 2024-01-02
 * <a href='https://weekly.tw93.fun/posts/158-%E5%9C%A3%E8%AF%9E%E6%B2%99%E6%8B%89/' target='_blank'>第158期 - 圣诞沙拉</a> - 2023-12-25
-* <a href='https://weekly.tw93.fun/posts/157-%E5%BC%95%E5%8A%9B%E5%89%A7%E5%9C%BA/' target='_blank'>第157期 - 引力剧场</a> - 2023-12-18
 <!-- weekly ends -->
 
 </td>
