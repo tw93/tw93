@@ -18,11 +18,11 @@
 #### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.5.0' target='_blank'>tw93.github.io English version blog</a> - 2024-03-01
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.14.0' target='_blank'>MiaoYan V1.14 More Accurate 🍇</a> - 2023-12-12
 * <a href='https://github.com/tw93/weekly/releases/tag/V0.5.0' target='_blank'>weekly V0.5 Supported Search</a> - 2023-12-09
 * <a href='https://github.com/tw93/Pake/releases/tag/V2.3.5' target='_blank'>Pake V2.3.5 More Rigorous</a> - 2023-11-18
 * <a href='https://github.com/tw93/Maple/releases/tag/V1.10' target='_blank'>Maple V1.10 More Comprehensive</a> - 2023-09-13
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0' target='_blank'>tw93.github.io 翻新一下博客</a> - 2022-11-08
 <!-- recent_releases ends -->
 
 </td>
