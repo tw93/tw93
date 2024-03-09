@@ -11,11 +11,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://d.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://d.tw93.fun/images/wakatime_weekly_language_stats.svg">
+  <img src="https://d.tw93.fun/images/wakatime_weekly_language_stats.svg">
 </picture>
-
-![light](#gh-light-mode-only)
-
-![dark](#gh-dark-mode-only)
 
 </td>
 <td valign="top" width="50%">
