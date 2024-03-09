@@ -1,6 +1,6 @@
 ## Hello, World
 
-<img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="24"/> Hi, I'm Tw93, a Frontend Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. I'm the creator of [MiaoYan](https://miaoyan.app/), [Pake](https://github.com/tw93/pake), [Trendy Weekly](https://weekly.tw93.fun/), [XRender](https://xrender.fun/), and [WeexUi](https://apache.github.io/incubator-weex-ui/). Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a>:
+<img src='https://d.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Tw93, a Frontend Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. I'm the creator of [MiaoYan](https://miaoyan.app/), [Pake](https://github.com/tw93/pake), [Trendy Weekly](https://weekly.tw93.fun/), [XRender](https://xrender.fun/), and [WeexUi](https://apache.github.io/incubator-weex-ui/). Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a>:
 
 <table width="960px">
 <tr>
@@ -8,9 +8,14 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
-![light](https://d.tw93.fun/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://d.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://d.tw93.fun/images/wakatime_weekly_language_stats.svg">
+</picture>
 
-![dark](https://d.tw93.fun/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+![light](#gh-light-mode-only)
+
+![dark](#gh-dark-mode-only)
 
 </td>
 <td valign="top" width="50%">
