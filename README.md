@@ -49,7 +49,11 @@
 
 <!-- weekly starts -->
 
-
+* <a href='https://weekly.tw93.fun/posts/167-%E7%A2%A7%E7%A9%BA%E9%9B%AA%E6%B6%9B/' target='_blank'>第167期 - 碧空雪涛</a> - 2024-03-11
+* <a href='https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/' target='_blank'>第166期 - 猫晒太阳</a> - 2024-03-04
+* <a href='https://weekly.tw93.fun/posts/165-%E5%B9%B4%E5%BA%A6%E6%A6%9C%E5%8D%95/' target='_blank'>第165期 - 年度榜单</a> - 2024-02-26
+* <a href='https://weekly.tw93.fun/posts/164-%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4/' target='_blank'>第164期 - 又是一年</a> - 2024-02-19
+* <a href='https://weekly.tw93.fun/posts/163-%E4%B9%B0%E4%BA%86%E9%BA%BB%E5%B0%86/' target='_blank'>第163期 - 买了麻将</a> - 2024-01-29
 <!-- weekly ends -->
 
 </td>
