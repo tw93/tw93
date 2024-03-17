@@ -49,7 +49,7 @@
 
 <!-- weekly starts -->
 
-* <a href='https://weekly.tw93.fun/posts/168-%E6%83%B3%E5%8E%BB%E7%8E%B0%E5%9C%BA/' target='_blank'>第168期 - 想去现场</a> - 2024-03-17
+* <a href='https://weekly.tw93.fun/posts/168-%E6%83%B3%E5%8E%BB%E7%8E%B0%E5%9C%BA/' target='_blank'>第168期 - 想去现场</a> - 2024-03-18
 * <a href='https://weekly.tw93.fun/posts/167-%E7%A2%A7%E7%A9%BA%E9%9B%AA%E6%B6%9B/' target='_blank'>第167期 - 碧空雪涛</a> - 2024-03-11
 * <a href='https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/' target='_blank'>第166期 - 猫晒太阳</a> - 2024-03-04
 * <a href='https://weekly.tw93.fun/posts/165-%E5%B9%B4%E5%BA%A6%E6%A6%9C%E5%8D%95/' target='_blank'>第165期 - 年度榜单</a> - 2024-02-26
