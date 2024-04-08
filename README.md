@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/171-%E7%9C%8B%E8%99%9E%E7%BE%8E%E4%BA%BA/' target='_blank'>第171期 - 看虞美人</a> - 2023-04-08
 * <a href='https://weekly.tw93.fun/posts/170-%E6%9D%AD%E5%B7%9E%E7%BF%A0%E7%BB%BF/' target='_blank'>第170期 - 杭州翠绿</a> - 2024-04-01
 * <a href='https://weekly.tw93.fun/posts/169-%E8%B7%AF%E8%BE%B9%E7%B9%81%E8%8A%B1/' target='_blank'>第169期 - 路边繁花</a> - 2024-03-25
 * <a href='https://weekly.tw93.fun/posts/168-%E6%83%B3%E5%8E%BB%E7%8E%B0%E5%9C%BA/' target='_blank'>第168期 - 想去现场</a> - 2024-03-18
 * <a href='https://weekly.tw93.fun/posts/167-%E7%A2%A7%E7%A9%BA%E9%9B%AA%E6%B6%9B/' target='_blank'>第167期 - 碧空雪涛</a> - 2024-03-11
-* <a href='https://weekly.tw93.fun/posts/166-%E7%8C%AB%E6%99%92%E5%A4%AA%E9%98%B3/' target='_blank'>第166期 - 猫晒太阳</a> - 2024-03-04
 <!-- weekly ends -->
 
 </td>
