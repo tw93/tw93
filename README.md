@@ -35,11 +35,11 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://tw93.fun/2024-04-14/musk.html' target='_blank'>埃隆·马斯克传 - 读书笔记</a> - 2024-04-14
+* <a href='https://tw93.fun/2024-03-03/simple.html' target='_blank'>我的极简生活经验</a> - 2024-03-03
 * <a href='https://tw93.fun/2024-02-13/my-2023.html' target='_blank'>2023年总结 - 随心而行</a> - 2024-02-13
 * <a href='https://tw93.fun/2024-02-09/tools.html' target='_blank'>我的年度工具折腾之旅</a> - 2024-02-09
 * <a href='https://tw93.fun/2024-01-12/open.html' target='_blank'>我的开源成长之旅</a> - 2024-01-12
-* <a href='https://tw93.fun/2023-12-30/30.html' target='_blank'>我居然 30 岁了</a> - 2023-12-30
-* <a href='https://tw93.fun/2023-12-26/fe.html' target='_blank'>不喜欢前端娱乐圈这种氛围</a> - 2023-12-26
 <!-- blog ends -->
 
 </td>
