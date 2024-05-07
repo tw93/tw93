@@ -5,7 +5,7 @@ All <!-- release_count starts -->8<!-- release_count ends --> of my released pro
 <!-- recent_releases starts -->
 * **[weekly](https://github.com/tw93/weekly)**: [Faster and Lighter ✈️](https://github.com/tw93/weekly/releases/tag/V0.6.0) - 2024-05-07
 <br>🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
-* **[Pake](https://github.com/tw93/Pake)**: [V2.3.6](https://github.com/tw93/Pake/releases/tag/V2.3.6) - 2024-05-07
+* **[Pake](https://github.com/tw93/Pake)**: [V2.3.6 More simplified](https://github.com/tw93/Pake/releases/tag/V2.3.6) - 2024-05-07
 <br>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [English version blog](https://github.com/tw93/tw93.github.io/releases/tag/V0.5.0) - 2024-03-01
 <br>🧗‍♂️ Tw93 的个人博客
