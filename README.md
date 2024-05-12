@@ -20,7 +20,7 @@
 #### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
-* <a href='https://github.com/tw93/Pake/releases/tag/V2.5.1' target='_blank'>Pake V2.5.1</a> - 2024-05-12
+* <a href='https://github.com/tw93/Pake/releases/tag/V2.5.1' target='_blank'>Pake V2.5.1 Better understand</a> - 2024-05-12
 * <a href='https://github.com/tw93/weekly/releases/tag/V0.6.0' target='_blank'>weekly Faster and Lighter ✈️</a> - 2024-05-07
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.5.0' target='_blank'>tw93.github.io English version blog</a> - 2024-03-01
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.14.0' target='_blank'>MiaoYan V1.14 More Accurate 🍇</a> - 2023-12-12
@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/176-%E8%BD%A6%E5%A4%96%E9%A3%8E%E6%99%AF/' target='_blank'>第176期 - 车外风景</a> - 2024-05-13
 * <a href='https://weekly.tw93.fun/posts/175-%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA/' target='_blank'>第175期 - 有线耳机</a> - 2024-05-06
 * <a href='https://weekly.tw93.fun/posts/174-%E6%96%B0%E7%9A%84%E5%9B%AD%E5%8C%BA/' target='_blank'>第174期 - 新的园区</a> - 2024-04-29
 * <a href='https://weekly.tw93.fun/posts/173-%E5%B8%83%E9%9D%A2%E6%B2%B9%E7%94%BB/' target='_blank'>第173期 - 布面油画</a> - 2024-04-22
 * <a href='https://weekly.tw93.fun/posts/172-%E9%AA%91%E9%9D%92%E5%B1%B1%E6%B9%96/' target='_blank'>第172期 - 骑青山湖</a> - 2024-04-15
-* <a href='https://weekly.tw93.fun/posts/171-%E7%9C%8B%E8%99%9E%E7%BE%8E%E4%BA%BA/' target='_blank'>第171期 - 看虞美人</a> - 2024-04-08
 <!-- weekly ends -->
 
 </td>
