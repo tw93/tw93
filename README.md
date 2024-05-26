@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/178-%E8%9C%97%E7%89%9B%E8%9C%97%E7%89%9B/' target='_blank'>第178期 - 蜗牛蜗牛</a> - 2024-05-27
 * <a href='https://weekly.tw93.fun/posts/177-%E4%BA%94%E5%BD%A9%E8%8A%B1%E6%B5%B7/' target='_blank'>第177期 - 五彩花海</a> - 2024-05-20
 * <a href='https://weekly.tw93.fun/posts/176-%E8%BD%A6%E5%A4%96%E9%A3%8E%E6%99%AF/' target='_blank'>第176期 - 车外风景</a> - 2024-05-13
 * <a href='https://weekly.tw93.fun/posts/175-%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA/' target='_blank'>第175期 - 有线耳机</a> - 2024-05-06
 * <a href='https://weekly.tw93.fun/posts/174-%E6%96%B0%E7%9A%84%E5%9B%AD%E5%8C%BA/' target='_blank'>第174期 - 新的园区</a> - 2024-04-29
-* <a href='https://weekly.tw93.fun/posts/173-%E5%B8%83%E9%9D%A2%E6%B2%B9%E7%94%BB/' target='_blank'>第173期 - 布面油画</a> - 2024-04-22
 <!-- weekly ends -->
 
 </td>
