@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/182-%E7%85%8E%E4%B8%AA%E7%89%9B%E6%8E%92/' target='_blank'>第182期 - 煎个牛排</a> - 2024-06-24
 * <a href='https://weekly.tw93.fun/posts/181-%E6%B0%B4%E5%9F%B9%E8%96%84%E8%8D%B7/' target='_blank'>第181期 - 水培薄荷</a> - 2024-06-17
 * <a href='https://weekly.tw93.fun/posts/180-%E7%94%B0%E5%9B%AD%E4%B8%80%E8%A7%92/' target='_blank'>第180期 - 田园一角</a> - 2024-06-10
 * <a href='https://weekly.tw93.fun/posts/179-%E5%96%9C%E8%B4%A1%E7%88%86%E7%82%92/' target='_blank'>第179期 - 喜贡爆炒</a> - 2024-06-03
 * <a href='https://weekly.tw93.fun/posts/178-%E8%9C%97%E7%89%9B%E8%9C%97%E7%89%9B/' target='_blank'>第178期 - 蜗牛蜗牛</a> - 2024-05-27
-* <a href='https://weekly.tw93.fun/posts/177-%E4%BA%94%E5%BD%A9%E8%8A%B1%E6%B5%B7/' target='_blank'>第177期 - 五彩花海</a> - 2024-05-20
 <!-- weekly ends -->
 
 </td>
