@@ -36,7 +36,7 @@
 
 <!-- blog starts -->
 * <a href='https://tw93.fun/2024-06-30/china.html' target='_blank'>置身事内 - 读书笔记</a> - 2024-06-30
-* <a href='https://tw93.fun/2024-05-08/sony.html' target='_blank'>我居然用回有线耳机了 - 索尼 MV1</a> - 2024-05-08
+* <a href='https://tw93.fun/2024-05-08/sony.html' target='_blank'>我居然用回有线耳机了</a> - 2024-05-08
 * <a href='https://tw93.fun/2024-04-14/musk.html' target='_blank'>埃隆·马斯克传 - 读书笔记</a> - 2024-04-14
 * <a href='https://tw93.fun/2024-03-03/simple.html' target='_blank'>我的极简生活经验</a> - 2024-03-03
 * <a href='https://tw93.fun/2024-02-13/my-2023.html' target='_blank'>2023年总结 - 随心而行</a> - 2024-02-13
