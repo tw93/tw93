@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/186-%E9%9D%92%E6%9F%A0%E5%86%B7%E9%A5%AE/' target='_blank'>第186期 - 青柠冷饮</a> - 2024-07-22
 * <a href='https://weekly.tw93.fun/posts/185-%E5%85%89%E7%85%A7%E4%B9%8B%E7%BE%8E/' target='_blank'>第185期 - 光照之美</a> - 2024-07-15
 * <a href='https://weekly.tw93.fun/posts/184-mamala/' target='_blank'>第184期 - mamala</a> - 2024-07-08
 * <a href='https://weekly.tw93.fun/posts/183-%E9%A3%9E%E7%BF%94%E7%9A%84%E9%B8%9F/' target='_blank'>第183期 - 飞翔的鸟</a> - 2024-07-01
 * <a href='https://weekly.tw93.fun/posts/182-%E7%85%8E%E4%B8%AA%E7%89%9B%E6%8E%92/' target='_blank'>第182期 - 煎个牛排</a> - 2024-06-24
-* <a href='https://weekly.tw93.fun/posts/181-%E6%B0%B4%E5%9F%B9%E8%96%84%E8%8D%B7/' target='_blank'>第181期 - 水培薄荷</a> - 2024-06-17
 <!-- weekly ends -->
 
 </td>
