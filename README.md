@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/192-%E9%9D%92%E7%9A%AE%E6%A9%98%E5%AD%90/' target='_blank'>第192期 - 青皮橘子</a> - 2024-09-02
 * <a href='https://weekly.tw93.fun/posts/191-%E4%B8%80%E7%BB%BF%E5%B1%B1%E5%A2%99/' target='_blank'>第191期 - 一绿山墙</a> - 2024-08-26
 * <a href='https://weekly.tw93.fun/posts/190-%E8%9E%83%E8%9F%B9%E8%9E%83%E8%9F%B9/' target='_blank'>第190期 - 螃蟹螃蟹</a> - 2024-08-19
 * <a href='https://weekly.tw93.fun/posts/189-%E6%97%A0%E5%8D%B0%E8%89%AF%E5%93%81/' target='_blank'>第189期 - 无印良品</a> - 2024-08-12
 * <a href='https://weekly.tw93.fun/posts/188-%E6%B0%B4%E5%A2%A8%E8%93%9D%E5%A4%A9/' target='_blank'>第188期 - 水墨蓝天</a> - 2024-08-05
-* <a href='https://weekly.tw93.fun/posts/187-%E6%88%91%E6%83%B3%E5%BC%80%E4%BA%86/' target='_blank'>第187期 - 我想开了</a> - 2024-07-29
 <!-- weekly ends -->
 
 </td>
