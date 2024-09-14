@@ -20,8 +20,8 @@
 #### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/tw93/Pake/releases/tag/V2.6.0' target='_blank'>Pake V2.6.0</a> - 2024-09-14
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.15.0' target='_blank'>MiaoYan V1.15 Long time no see 🥂</a> - 2024-05-26
-* <a href='https://github.com/tw93/Pake/releases/tag/V2.5.1' target='_blank'>Pake V2.5.1 Better understand</a> - 2024-05-12
 * <a href='https://github.com/tw93/weekly/releases/tag/V0.6.0' target='_blank'>weekly Faster and Lighter ✈️</a> - 2024-05-07
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.5.0' target='_blank'>tw93.github.io English version blog</a> - 2024-03-01
 * <a href='https://github.com/tw93/Maple/releases/tag/V1.10' target='_blank'>Maple V1.10 More Comprehensive</a> - 2023-09-13
