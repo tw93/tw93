@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/200-%E4%BA%91%E6%B5%B7%E6%97%A5%E8%90%BD/' target='_blank'>第200期 - 云海日落</a> - 2024-11-18
 * <a href='https://weekly.tw93.fun/posts/199-%E9%94%AE%E7%9B%98%E9%BC%A0%E6%A0%87/' target='_blank'>第199期 - 键盘鼠标</a> - 2024-11-11
 * <a href='https://weekly.tw93.fun/posts/198-%E5%8D%83%E5%B1%82%E9%87%91%E6%A0%91/' target='_blank'>第198期 - 千层金树</a> - 2024-11-04
 * <a href='https://weekly.tw93.fun/posts/197-%E5%96%82%E6%B5%81%E6%B5%AA%E7%8C%AB/' target='_blank'>第197期 - 喂流浪猫</a> - 2024-10-28
 * <a href='https://weekly.tw93.fun/posts/196-%E6%96%B0%E6%98%BE%E7%A4%BA%E5%99%A8/' target='_blank'>第196期 - 新显示器</a> - 2024-10-21
-* <a href='https://weekly.tw93.fun/posts/195-BELLOCO/' target='_blank'>第195期 - BELLOCO</a> - 2024-10-14
 <!-- weekly ends -->
 
 </td>
