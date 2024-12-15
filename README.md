@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/204-%E8%82%89%E6%A1%82%E6%8B%BF%E9%93%81/' target='_blank'>第204期 - 肉桂拿铁</a> - 2024-12-16
 * <a href='https://weekly.tw93.fun/posts/203-%E9%93%B6%E6%9D%8F%E5%AD%A3%E8%8A%82/' target='_blank'>第203期 - 银杏季节</a> - 2024-12-09
 * <a href='https://weekly.tw93.fun/posts/202-%E5%A4%95%E9%98%B3%E8%A5%BF%E4%B8%8B/' target='_blank'>第202期 - 夕阳西下</a> - 2024-12-02
 * <a href='https://weekly.tw93.fun/posts/201-%E5%B1%B1%E9%87%8C%E6%9C%A8%E5%B1%8B/' target='_blank'>第201期 - 山里木屋</a> - 2024-11-25
 * <a href='https://weekly.tw93.fun/posts/200-%E4%BA%91%E6%B5%B7%E6%97%A5%E8%90%BD/' target='_blank'>第200期 - 云海日落</a> - 2024-11-18
-* <a href='https://weekly.tw93.fun/posts/199-%E9%94%AE%E7%9B%98%E9%BC%A0%E6%A0%87/' target='_blank'>第199期 - 键盘鼠标</a> - 2024-11-11
 <!-- weekly ends -->
 
 </td>
