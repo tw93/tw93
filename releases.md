@@ -3,7 +3,7 @@
 All <!-- release_count starts -->8<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[Pake](https://github.com/tw93/Pake)**: [V3.0.0-beta](https://github.com/tw93/Pake/releases/tag/V3.0.0-beta) - 2024-12-19
+* **[Pake](https://github.com/tw93/Pake)**: [V2.6.1 Always there](https://github.com/tw93/Pake/releases/tag/V2.6.0) - 2024-09-14
 <br>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 * **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.15 Long time no see 🥂](https://github.com/tw93/MiaoYan/releases/tag/V1.15.0) - 2024-05-26
 <br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
