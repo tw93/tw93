@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/208-%E9%85%8D%E6%96%B0%E7%94%B5%E8%84%91/' target='_blank'>第208期 - 配新电脑</a> - 2025-01-12
 * <a href='https://weekly.tw93.fun/posts/207-%E6%B0%B4%E5%9F%B9%E7%BA%A2%E8%96%AF/' target='_blank'>第207期 - 水培红薯</a> - 2025-01-06
 * <a href='https://weekly.tw93.fun/posts/206-%E6%A0%87%E8%87%B4%E7%9A%84%E7%8B%97/' target='_blank'>第206期 - 标致的狗</a> - 2024-12-30
 * <a href='https://weekly.tw93.fun/posts/205-%E5%90%AC%E5%BC%A0%E4%BF%A1%E5%93%B2/' target='_blank'>第205期 - 听张信哲</a> - 2024-12-23
 * <a href='https://weekly.tw93.fun/posts/204-%E8%82%89%E6%A1%82%E6%8B%BF%E9%93%81/' target='_blank'>第204期 - 肉桂拿铁</a> - 2024-12-16
-* <a href='https://weekly.tw93.fun/posts/203-%E9%93%B6%E6%9D%8F%E5%AD%A3%E8%8A%82/' target='_blank'>第203期 - 银杏季节</a> - 2024-12-09
 <!-- weekly ends -->
 
 </td>
