@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/222-%E7%88%B1%E7%A3%81%E5%B8%A6%E6%9C%BA/' target='_blank'>第222期 - 爱磁带机</a> - 2025-05-19
 * <a href='https://weekly.tw93.fun/posts/221-%E4%B9%8C%E9%BE%9F%E5%B0%8F%E5%B2%9B/' target='_blank'>第221期 - 乌龟小岛</a> - 2025-05-12
 * <a href='https://weekly.tw93.fun/posts/220-%E4%B8%80%E9%A2%97%E5%BF%83%E6%A0%91/' target='_blank'>第220期 - 一颗心树</a> - 2025-04-28
 * <a href='https://weekly.tw93.fun/posts/219-%E4%B8%80%E8%89%98%E6%B4%BB%E8%88%B9/' target='_blank'>第219期 - 一艘活船</a> - 2025-04-21
 * <a href='https://weekly.tw93.fun/posts/218-%E5%8B%BE%E7%8B%97%E5%8F%AF%E7%88%B1/' target='_blank'>第218期 - 勾狗可爱</a> - 2025-04-14
-* <a href='https://weekly.tw93.fun/posts/217-%E5%8E%BB%E9%9C%B2%E4%B8%AA%E8%90%A5/' target='_blank'>第217期 - 去露个营</a> - 2025-04-07
 <!-- weekly ends -->
 
 </td>
