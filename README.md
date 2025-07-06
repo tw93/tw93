@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/228-%E5%BD%A9%E8%89%B2%E5%A4%A9%E7%A9%BA/' target='_blank'>第228期 - 彩色天空</a> - 2025-07-07
 * <a href='https://weekly.tw93.fun/posts/227-%E6%80%80%E5%BF%B5%E4%BA%94%E6%9C%88/' target='_blank'>第227期 - 怀念五月</a> - 2025-06-30
 * <a href='https://weekly.tw93.fun/posts/226-%E6%88%91%E7%88%B1%E5%8D%97%E4%BA%AC/' target='_blank'>第226期 - 我爱南京</a> - 2025-06-23
 * <a href='https://weekly.tw93.fun/posts/225-%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%99%A2/' target='_blank'>第225期 - 中国美院</a> - 2025-06-16
 * <a href='https://weekly.tw93.fun/posts/224-%E5%88%9D%E8%A7%81%E6%9D%A8%E6%A2%85/' target='_blank'>第224期 - 初见杨梅</a> - 2025-06-09
-* <a href='https://weekly.tw93.fun/posts/223-%E5%AD%A4%E7%8B%AC%E8%BA%AB%E5%BD%B1/' target='_blank'>第223期 - 孤独身影</a> - 2025-05-26
 <!-- weekly ends -->
 
 </td>
