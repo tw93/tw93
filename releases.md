@@ -3,10 +3,10 @@
 All <!-- release_count starts -->8<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.16 Small delight 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.16.0) - 2025-07-18
+<br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 * **[Pake](https://github.com/tw93/Pake)**: [V3.1.1 Happy New Year](https://github.com/tw93/Pake/releases/tag/V3.1.1) - 2025-01-06
 <br>🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.15 Long time no see 🥂](https://github.com/tw93/MiaoYan/releases/tag/V1.15.0) - 2024-05-26
-<br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 * **[weekly](https://github.com/tw93/weekly)**: [Faster and Lighter ✈️](https://github.com/tw93/weekly/releases/tag/V0.6.0) - 2024-05-07
 <br>🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [English version blog](https://github.com/tw93/tw93.github.io/releases/tag/V0.5.0) - 2024-03-01
