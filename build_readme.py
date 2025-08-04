@@ -64,7 +64,6 @@ query {
 def fetch_releases(oauth_token):
     repos = []
     releases = []
-    repo_names = set()
     has_next_page = True
     after_cursor = None
 
@@ -74,23 +73,22 @@ def fetch_releases(oauth_token):
             headers={"Authorization": "Bearer {}".format(oauth_token)},
         )
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
-            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
+            if repo["releases"]["totalCount"]:
                 repos.append(repo)
-                repo_names.add(repo["name"])
-                releases.append(
-                    {
-                        "repo": repo["name"],
-                        "repo_url": repo["url"],
-                        "description": repo["description"],
-                        "release": repo["releases"]["nodes"][0]["name"]
-                        .replace(repo["name"], "")
-                        .strip(),
-                        "published_at": repo["releases"]["nodes"][0][
-                            "publishedAt"
-                        ].split("T")[0],
-                        "url": repo["releases"]["nodes"][0]["url"],
-                    }
-                )
+                # 为每个仓库的所有发布记录创建条目
+                for release_node in repo["releases"]["nodes"]:
+                    releases.append(
+                        {
+                            "repo": repo["name"],
+                            "repo_url": repo["url"],
+                            "description": repo["description"],
+                            "release": release_node["name"]
+                            .replace(repo["name"], "")
+                            .strip(),
+                            "published_at": release_node["publishedAt"].split("T")[0],
+                            "url": release_node["url"],
+                        }
+                    )
         has_next_page = data["data"]["viewer"]["repositories"]["pageInfo"][
             "hasNextPage"
         ]
