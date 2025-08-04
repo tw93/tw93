@@ -20,11 +20,11 @@
 #### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.17.0' target='_blank'>MiaoYan V1.17 New Changes 🎉</a> - 2025-08-04
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.16.0' target='_blank'>MiaoYan V1.16 Small delight 🎉</a> - 2025-07-18
 * <a href='https://github.com/tw93/Pake/releases/tag/V3.1.1' target='_blank'>Pake V3.1.1 Happy New Year</a> - 2025-01-06
-* <a href='https://github.com/tw93/weekly/releases/tag/V0.6.0' target='_blank'>weekly Faster and Lighter ✈️</a> - 2024-05-07
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.5.0' target='_blank'>tw93.github.io English version blog</a> - 2024-03-01
-* <a href='https://github.com/tw93/Maple/releases/tag/V1.10' target='_blank'>Maple V1.10 More Comprehensive</a> - 2023-09-13
+* <a href='https://github.com/tw93/Pake/releases/tag/V3.0.3' target='_blank'>Pake V3.0.3 Major update</a> - 2024-12-21
+* <a href='https://github.com/tw93/Pake/releases/tag/V2.6.0' target='_blank'>Pake V2.6.1 Always there</a> - 2024-09-14
 <!-- recent_releases ends -->
 
 </td>
