@@ -20,11 +20,11 @@
 #### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
+* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.18.0' target='_blank'>MiaoYan V1.18  Big Updates 🎉</a> - 2025-08-10
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.6.0' target='_blank'>tw93.github.io V0.6 Better looking 🍓</a> - 2025-08-04
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.17.0' target='_blank'>MiaoYan V1.17 New Changes 🎉</a> - 2025-08-04
 * <a href='https://github.com/tw93/weekly/releases/tag/V0.7.0' target='_blank'>weekly V 0.7 Better looking 🏕️</a> - 2025-08-04
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.16.0' target='_blank'>MiaoYan V1.16 Small delight 🎉</a> - 2025-07-18
-* <a href='https://github.com/tw93/Pake/releases/tag/V3.1.1' target='_blank'>Pake V3.1.1 Happy New Year</a> - 2025-01-06
 <!-- recent_releases ends -->
 
 </td>
