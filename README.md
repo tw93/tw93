@@ -49,11 +49,11 @@
 
 <!-- weekly starts -->
 
+* <a href='https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/' target='_blank'>第233期 - 树上有鸟</a> - 2025-08-11
 * <a href='https://weekly.tw93.fun/posts/232-%E5%B0%8F%E9%B1%BC%E5%B0%8F%E8%99%BE/' target='_blank'>第232期 - 小鱼小虾</a> - 2025-08-04
 * <a href='https://weekly.tw93.fun/posts/231-%E4%B8%80%E6%A0%91%E6%A9%98%E5%AD%90/' target='_blank'>第231期 - 一树橘子</a> - 2025-07-28
 * <a href='https://weekly.tw93.fun/posts/230-%E8%93%9D%E8%89%B2%E5%A4%9C%E6%99%9A/' target='_blank'>第230期 - 蓝色夜晚</a> - 2025-07-21
 * <a href='https://weekly.tw93.fun/posts/229-%E6%8D%A2%E5%88%B0%E5%AE%89%E5%8D%93/' target='_blank'>第229期 - 换到安卓</a> - 2025-07-14
-* <a href='https://weekly.tw93.fun/posts/228-%E5%BD%A9%E8%89%B2%E5%A4%A9%E7%A9%BA/' target='_blank'>第228期 - 彩色天空</a> - 2025-07-07
 <!-- weekly ends -->
 
 </td>
