@@ -3,7 +3,7 @@
 All <!-- release_count starts -->84<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.18  Big Updates 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.18.0) - 2025-08-10
+* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.18.1  Big Updates 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.18.1) - 2025-08-10
 <br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [V0.6 Better looking 🍓](https://github.com/tw93/tw93.github.io/releases/tag/V0.6.0) - 2025-08-04
 <br>🧗‍♂️ Tw93 的个人博客
