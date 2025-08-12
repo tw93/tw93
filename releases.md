@@ -5,7 +5,7 @@ All <!-- release_count starts -->85<!-- release_count ends --> of my released pr
 <!-- recent_releases starts -->
 * **[Maple](https://github.com/tw93/Maple)**: [V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11
 <br>🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
-* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.18.2  Big Updates 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.18.2) - 2025-08-10
+* **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.18.3  Big Updates 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.18.3) - 2025-08-10
 <br>⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 * **[tw93.github.io](https://github.com/tw93/tw93.github.io)**: [V0.6 Better looking 🍓](https://github.com/tw93/tw93.github.io/releases/tag/V0.6.0) - 2025-08-04
 <br>🧗‍♂️ Tw93 的个人博客
