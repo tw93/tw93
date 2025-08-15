@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->85<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->86<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[Maple](https://github.com/tw93/Maple)**: [Auto Release](https://github.com/tw93/Maple/releases/tag/V1.12) - 2025-08-15
+<br>🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
 * **[Maple](https://github.com/tw93/Maple)**: [V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11
 <br>🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  🍁 隐藏书签栏，使用枫叶书签让你行云流水。
 * **[MiaoYan](https://github.com/tw93/MiaoYan)**: [V1.18.3  Big Updates 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.18.3) - 2025-08-10
