@@ -35,11 +35,7 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://tw93.fun/2025-07-17/money.html' target='_blank'>工程师如何更好投资</a> - 2025-07-17
-* <a href='https://tw93.fun/2025-07-10/android.html' target='_blank'>从 iPhone 换到 Android 的体验</a> - 2025-07-10
-* <a href='https://tw93.fun/2025-02-02/my-2024.html' target='_blank'>2024 年总结 - 持续迭代</a> - 2025-02-02
-* <a href='https://tw93.fun/2024-10-13/intuition.html' target='_blank'>别相信直觉 - 读书笔记</a> - 2024-10-13
-* <a href='https://tw93.fun/2024-09-09/future.html' target='_blank'>聊聊未来技术趋势</a> - 2024-09-09
+
 <!-- blog ends -->
 
 </td>
