@@ -35,7 +35,11 @@
 #### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-
+* <a href='https://tw93.fun/2025-08-17/ai-coding.html' target='_blank'>我感觉到的 AI Coding 对于程序员的影响</a> - 2025-08-17
+* <a href='https://tw93.fun/2025-07-17/money.html' target='_blank'>工程师如何更好投资</a> - 2025-07-17
+* <a href='https://tw93.fun/2025-07-10/android.html' target='_blank'>从 iPhone 换到 Android 的体验</a> - 2025-07-10
+* <a href='https://tw93.fun/2025-02-02/my-2024.html' target='_blank'>2024 年总结 - 持续迭代</a> - 2025-02-02
+* <a href='https://tw93.fun/2024-10-13/intuition.html' target='_blank'>别相信直觉 - 读书笔记</a> - 2024-10-13
 <!-- blog ends -->
 
 </td>
@@ -45,7 +49,11 @@
 
 <!-- weekly starts -->
 
-
+* <a href='https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/' target='_blank'>第234期 - 有富士咯</a> - 2025-08-18
+* <a href='https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/' target='_blank'>第233期 - 树上有鸟</a> - 2025-08-11
+* <a href='https://weekly.tw93.fun/posts/232-%E5%B0%8F%E9%B1%BC%E5%B0%8F%E8%99%BE/' target='_blank'>第232期 - 小鱼小虾</a> - 2025-08-04
+* <a href='https://weekly.tw93.fun/posts/231-%E4%B8%80%E6%A0%91%E6%A9%98%E5%AD%90/' target='_blank'>第231期 - 一树橘子</a> - 2025-07-28
+* <a href='https://weekly.tw93.fun/posts/230-%E8%93%9D%E8%89%B2%E5%A4%9C%E6%99%9A/' target='_blank'>第230期 - 蓝色夜晚</a> - 2025-07-21
 <!-- weekly ends -->
 
 </td>
