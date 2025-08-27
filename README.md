@@ -12,18 +12,19 @@ I've created [Pake](https://github.com/tw93/pake), [MiaoYan](https://github.com/
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.18.3' target='_blank'>MiaoYan V1.18.3  Big Updates 🎉</a> - 2025-08-10
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.6.0' target='_blank'>tw93.github.io V0.6 Better looking 🍓</a> - 2025-08-04
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.17.0' target='_blank'>MiaoYan V1.17 New Changes 🎉</a> - 2025-08-04
-* <a href='https://github.com/tw93/Pake/releases/tag/V3.2.15' target='_blank'>Pake V3.2.15 Bug fixes 🐛</a> - 2025-08-01
+* <a href='https://github.com/tw93/weekly/releases/tag/V0.7.0' target='_blank'>weekly V 0.7 Better looking 🏕️</a> - 2025-08-04
 <!-- recent_releases ends -->
 
 </td>
 <td valign="top" width="50%">
 
 <!-- blog starts -->
-* <a href='https://tw93.fun/2025-08-17/ai-coding.html' target='_blank'>AI Coding 对程序员的影响</a> - 2025-08-17
+* <a href='https://tw93.fun/2025-08-17/ai-coding.html' target='_blank'>我感觉到的 AI Coding 对于程序员的影响</a> - 2025-08-17
 * <a href='https://tw93.fun/2025-07-17/money.html' target='_blank'>工程师如何更好投资</a> - 2025-07-17
-* <a href='https://tw93.fun/2025-07-10/android.html' target='_blank'>iPhone 换到 Android 的体验</a> - 2025-07-10
+* <a href='https://tw93.fun/2025-07-10/android.html' target='_blank'>从 iPhone 换到 Android 的体验</a> - 2025-07-10
 <!-- blog ends -->
 <!-- weekly starts -->
+
 * <a href='https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/' target='_blank'>第235期 - 拍美术馆</a> - 2025-08-25
 * <a href='https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/' target='_blank'>第234期 - 有富士咯</a> - 2025-08-18
 * <a href='https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/' target='_blank'>第233期 - 树上有鸟</a> - 2025-08-11
