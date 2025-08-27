@@ -1,10 +1,10 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> **Hello World!** I'm Tw93, a **Product Engineer**. Creator of [Pake](https://github.com/tw93/pake), [MiaoYan](https://miaoyan.app/), [XRender](https://xrender.fun/), [Weekly](https://weekly.tw93.fun/). Good at using AI, JS, Swift, Rust to build beautiful, useful products.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> **Hello World!** I'm Tw93, a **Product Engineer** who loves to **Code · Write · Share**. 
 
-<table width="960px">
+I've created [Pake](https://github.com/tw93/pake), [MiaoYan](https://github.com/tw93/MiaoYan), [Weekly](https://github.com/tw93/weekly), [XRender](https://github.com/alibaba/xrender) using JS, Swift, Rust to build easy-to-use products. Value investing in AI.
+
+<table width="1200px">
 <tr>
 <td valign="top" width="50%">
-
-#### Code for leverage
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/tw93/Pake/releases/tag/V3.2.16' target='_blank'>Pake V3.2.16 Cheeky 🐝</a> - 2025-08-22
@@ -17,8 +17,6 @@
 
 </td>
 <td valign="top" width="50%">
-
-#### Write for scale
 
 <!-- blog starts -->
 * <a href='https://tw93.fun/2025-08-17/ai-coding.html' target='_blank'>AI Coding 对程序员的影响</a> - 2025-08-17
