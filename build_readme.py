@@ -86,41 +86,65 @@ def fetch_blog_entries():
         print(f"Error fetching blog entries: {e}")
         return []
 
-def fetch_github_stats(oauth_token):
+def extract_current_stats(readme_content):
+    """Extract current stats from README for fallback"""
+    import re
+    match = re.search(r'(\d{1,3}(?:,\d{3})*) followers, (\d{1,3}(?:,\d{3})*) stars, (\d{1,3}(?:,\d{3})*) forks', readme_content)
+    if match:
+        return {
+            'followers': int(match.group(1).replace(',', '')),
+            'stars': int(match.group(2).replace(',', '')),
+            'forks': int(match.group(3).replace(',', ''))
+        }
+    return {'followers': 6000, 'stars': 62000, 'forks': 10000}
+
+def fetch_github_stats(oauth_token, current_stats=None):
     try:
         g = Github(oauth_token)
         user = g.get_user()
         
         total_stars = 0
         total_forks = 0
-        project_count = 0
         
-        # Get stats for all owned repos
+        # Get stats for all owned repos (tw93 projects)
         for repo in user.get_repos(type='owner'):
             if not repo.fork:  # Skip forked repositories
                 total_stars += repo.stargazers_count
                 total_forks += repo.forks_count
-                project_count += 1
+        
+        # Add contributed projects: weex-ui and x-render
+        try:
+            weexui_repo = g.get_repo("apache/incubator-weex-ui")
+            total_stars += weexui_repo.stargazers_count
+            total_forks += weexui_repo.forks_count
+        except Exception as e:
+            print(f"Error fetching weex-ui stats: {e}")
+        
+        try:
+            xrender_repo = g.get_repo("alibaba/x-render")
+            total_stars += xrender_repo.stargazers_count
+            total_forks += xrender_repo.forks_count
+        except Exception as e:
+            print(f"Error fetching x-render stats: {e}")
         
         return {
             'stars': total_stars,
             'forks': total_forks, 
-            'followers': user.followers,
-            'projects': project_count
+            'followers': user.followers
         }
     except Exception as e:
         print(f"Error fetching GitHub stats: {e}")
-        # Fallback values if API calls fail
-        return {
-            'stars': 62000,
-            'forks': 10000, 
-            'followers': 6000,
-            'projects': 50
-        }
+        # Use current stats as fallback
+        return current_stats or {'stars': 62000, 'forks': 10000, 'followers': 6000}
 
 
 if __name__ == "__main__":
     readme = root / "README.md"
+    readme_contents = readme.open().read()
+    
+    # Extract current stats for fallback
+    current_stats = extract_current_stats(readme_contents)
+    
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
     md = "<br>".join(
@@ -131,11 +155,10 @@ if __name__ == "__main__":
             for release in releases[:6]
         ]
     )
-    readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
     
-    # Get GitHub stats
-    stats = fetch_github_stats(TOKEN)
+    # Get GitHub stats with fallback to current values
+    stats = fetch_github_stats(TOKEN, current_stats)
     
     stats_text = f"{stats['followers']:,} followers, {stats['stars']:,} stars, {stats['forks']:,} forks"
     rewritten = replace_chunk(rewritten, "github_stats", stats_text, inline=True)
