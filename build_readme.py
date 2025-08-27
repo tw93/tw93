@@ -208,8 +208,9 @@ if __name__ == "__main__":
 
     print("fetch_weekly>>>>>>",fetch_weekly())
 
+    # Combine blog and weekly into one content block
     entries = fetch_blog_entries()[:3]
-    entries_md = "<br>".join(
+    blog_md = "<br>".join(
         [
             "• [{title}]({url}) - {published}".format(
                 **entry
@@ -217,9 +218,13 @@ if __name__ == "__main__":
             for entry in entries
         ]
     )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
     
-    weekly_text = "<br>" + fetch_weekly()
-    rewritten = replace_chunk(rewritten, "weekly", weekly_text)
+    weekly_md = fetch_weekly()
+    
+    # Combine both contents
+    combined_content = blog_md + "<br>" + weekly_md
+    
+    rewritten = replace_chunk(rewritten, "blog", combined_content)
+    rewritten = replace_chunk(rewritten, "weekly", "")
 
     readme.open("w").write(rewritten)
