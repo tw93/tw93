@@ -219,7 +219,7 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
     
-    weekly_text = "<br>" + fetch_weekly()
+    weekly_text = fetch_weekly()
     rewritten = replace_chunk(rewritten, "weekly", weekly_text)
 
     readme.open("w").write(rewritten)
