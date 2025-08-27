@@ -208,9 +208,6 @@ if __name__ == "__main__":
 
     print("fetch_weekly>>>>>>",fetch_weekly())
 
-    weekly_text = fetch_weekly()
-    rewritten = replace_chunk(rewritten, "weekly", weekly_text)
-
     entries = fetch_blog_entries()[:3]
     entries_md = "<br>".join(
         [
@@ -221,5 +218,8 @@ if __name__ == "__main__":
         ]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
+    
+    weekly_text = "<br>" + fetch_weekly()
+    rewritten = replace_chunk(rewritten, "weekly", weekly_text)
 
     readme.open("w").write(rewritten)
