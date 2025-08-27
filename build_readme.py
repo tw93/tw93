@@ -34,15 +34,17 @@ def fetch_releases(oauth_token):
             if not repo.fork:  # Skip forked repositories
                 try:
                     # Get releases for this repository
-                    for release in repo.get_releases()[:10]:  # Limit to 10 releases per repo
-                        releases.append({
-                            "repo": repo.name,
-                            "repo_url": repo.html_url,
-                            "description": repo.description or "",
-                            "release": release.title.replace(repo.name, "").strip(),
-                            "published_at": release.published_at.strftime("%Y-%m-%d"),
-                            "url": release.html_url,
-                        })
+                    repo_releases = list(repo.get_releases())
+                    if repo_releases:  # Only process if there are releases
+                        for release in repo_releases[:10]:  # Limit to 10 releases per repo
+                            releases.append({
+                                "repo": repo.name,
+                                "repo_url": repo.html_url,
+                                "description": repo.description or "",
+                                "release": release.title.replace(repo.name, "").strip(),
+                                "published_at": release.published_at.strftime("%Y-%m-%d"),
+                                "url": release.html_url,
+                            })
                 except Exception as e:
                     print(f"Error fetching releases for {repo.name}: {e}")
                     continue
@@ -103,29 +105,60 @@ def fetch_github_stats(oauth_token, current_stats=None):
         g = Github(oauth_token)
         user = g.get_user()
         
+        print("=== DETAILED STARS CALCULATION ===")
+        print(f"User: {user.login}")
+        print(f"Followers: {user.followers:,}")
+        print()
+        
         total_stars = 0
         total_forks = 0
         
         # Get stats for all owned repos (tw93 projects)
+        print("TW93 Owned Repositories:")
+        tw93_repos = []
         for repo in user.get_repos(type='owner'):
             if not repo.fork:  # Skip forked repositories
+                tw93_repos.append((repo.name, repo.stargazers_count, repo.forks_count))
                 total_stars += repo.stargazers_count
                 total_forks += repo.forks_count
         
+        # Sort by stars descending for better readability
+        tw93_repos.sort(key=lambda x: x[1], reverse=True)
+        
+        for name, stars, forks in tw93_repos:
+            print(f"  {name:25} {stars:6,} stars, {forks:5,} forks")
+        
+        tw93_stars = total_stars
+        tw93_forks = total_forks
+        print(f"\nTW93 subtotal: {tw93_stars:,} stars, {tw93_forks:,} forks")
+        
         # Add contributed projects: weex-ui and x-render
+        print("\nContributed Projects:")
         try:
             weexui_repo = g.get_repo("apache/incubator-weex-ui")
+            print(f"  {'weex-ui':25} {weexui_repo.stargazers_count:6,} stars, {weexui_repo.forks_count:5,} forks")
             total_stars += weexui_repo.stargazers_count
             total_forks += weexui_repo.forks_count
         except Exception as e:
-            print(f"Error fetching weex-ui stats: {e}")
+            print(f"  weex-ui: Error - {e}")
         
         try:
             xrender_repo = g.get_repo("alibaba/x-render")
+            print(f"  {'x-render':25} {xrender_repo.stargazers_count:6,} stars, {xrender_repo.forks_count:5,} forks")
             total_stars += xrender_repo.stargazers_count
             total_forks += xrender_repo.forks_count
         except Exception as e:
-            print(f"Error fetching x-render stats: {e}")
+            print(f"  x-render: Error - {e}")
+        
+        contrib_stars = total_stars - tw93_stars
+        contrib_forks = total_forks - tw93_forks
+        print(f"\nContributed subtotal: {contrib_stars:,} stars, {contrib_forks:,} forks")
+        
+        print(f"\n=== FINAL TOTALS ===")
+        print(f"Total followers: {user.followers:,}")
+        print(f"Total stars:     {total_stars:,}")
+        print(f"Total forks:     {total_forks:,}")
+        print("=" * 35)
         
         return {
             'stars': total_stars,
@@ -135,6 +168,7 @@ def fetch_github_stats(oauth_token, current_stats=None):
     except Exception as e:
         print(f"Error fetching GitHub stats: {e}")
         # Use current stats as fallback
+        print(f"Using fallback stats: {current_stats}")
         return current_stats or {'stars': 62000, 'forks': 10000, 'followers': 6000}
 
 
