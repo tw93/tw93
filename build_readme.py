@@ -152,10 +152,17 @@ def fetch_github_stats(oauth_token):
     except:
         pass
     
-    # Note: XRender seems to be moved or renamed, skip for now
+    try:
+        xrender_result = subprocess.run(['gh', 'api', 'repos/alibaba/x-render'], 
+                                      capture_output=True, text=True)
+        xrender_data = json.loads(xrender_result.stdout)
+        total_stars += xrender_data['stargazers_count']
+        total_forks += xrender_data['forks_count']
+    except:
+        pass
     
     followers = user_data['followers']
-    project_count = len(tw93_repos) + 1  # +1 for WeexUI
+    project_count = len(tw93_repos) + 2  # +2 for WeexUI and XRender
     
     return {
         'stars': total_stars,
