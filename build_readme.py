@@ -99,7 +99,7 @@ def fetch_weekly():
     content = feedparser.parse("https://weekly.tw93.fun/rss.xml")["entries"]
 
     entries = [
-        "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
+        "• [{title}]({url}) - {published}".format(
             title=entry["title"],
             url=entry["link"].split("#")[0],
             published=datetime.datetime.strptime(
@@ -109,7 +109,7 @@ def fetch_weekly():
         for entry in content
     ]
 
-    return "\n".join(entries[:3])
+    return "<br>".join(entries[:3])
 
 
 def fetch_blog_entries():
@@ -170,9 +170,9 @@ if __name__ == "__main__":
     project_releases = root / "releases.md"
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
-    md = "\n".join(
+    md = "<br>".join(
         [
-            "* <a href='{url}' target='_blank'>{repo} {release}</a> - {published_at}".format(
+            "• [{repo} {release}]({url}) - {published_at}".format(
                 **release
             )
             for release in releases[:6]
@@ -208,13 +208,13 @@ if __name__ == "__main__":
 
     print("fetch_weekly>>>>>>",fetch_weekly())
 
-    weekly_text = "\n" + fetch_weekly()
+    weekly_text = fetch_weekly()
     rewritten = replace_chunk(rewritten, "weekly", weekly_text)
 
     entries = fetch_blog_entries()[:3]
-    entries_md = "\n".join(
+    entries_md = "<br>".join(
         [
-            "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
+            "• [{title}]({url}) - {published}".format(
                 **entry
             )
             for entry in entries
