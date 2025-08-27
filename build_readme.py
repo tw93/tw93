@@ -123,6 +123,47 @@ def fetch_blog_entries():
         for entry in entries
     ]
 
+def fetch_github_stats(oauth_token):
+    import json
+    import subprocess
+    
+    # Get user info
+    user_result = subprocess.run(['gh', 'api', 'user'], 
+                                capture_output=True, text=True)
+    user_data = json.loads(user_result.stdout)
+    
+    # Get tw93 owned repos only
+    repos_result = subprocess.run(['gh', 'api', 'user/repos', '--paginate'], 
+                                 capture_output=True, text=True)
+    repos_data = json.loads(repos_result.stdout)
+    
+    # Filter only tw93 owned repos (not organization repos)
+    tw93_repos = [repo for repo in repos_data if not repo['fork'] and repo['owner']['login'] == 'tw93']
+    total_stars = sum(repo['stargazers_count'] for repo in tw93_repos)
+    total_forks = sum(repo['forks_count'] for repo in tw93_repos)
+    
+    # Add contributed projects: XRender and WeexUI
+    try:
+        weexui_result = subprocess.run(['gh', 'api', 'repos/apache/incubator-weex-ui'], 
+                                     capture_output=True, text=True)
+        weexui_data = json.loads(weexui_result.stdout)
+        total_stars += weexui_data['stargazers_count']
+        total_forks += weexui_data['forks_count']
+    except:
+        pass
+    
+    # Note: XRender seems to be moved or renamed, skip for now
+    
+    followers = user_data['followers']
+    project_count = len(tw93_repos) + 1  # +1 for WeexUI
+    
+    return {
+        'stars': total_stars,
+        'forks': total_forks, 
+        'followers': followers,
+        'projects': project_count
+    }
+
 
 if __name__ == "__main__":
     readme = root / "README.md"
@@ -139,6 +180,12 @@ if __name__ == "__main__":
     )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
+    
+    # Get GitHub stats
+    stats = fetch_github_stats(TOKEN)
+    
+    stats_text = f"{stats['followers']:,} followers, {stats['stars']:,} stars, {stats['forks']:,} forks"
+    rewritten = replace_chunk(rewritten, "github_stats", stats_text, inline=True)
 
     # Write out full project-releases.md file
     project_releases_md = "\n".join(

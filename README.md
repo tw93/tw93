@@ -1,6 +1,6 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> **Hello World!** I'm Tw93, a **Product Engineer** who loves to **Code · Write · Share**. 
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> **Hello World!** I'm Tw93, a **Product Engineer** who loves to **Code · Write · Share**, Value investing in AI.
 
-I've created [Pake](https://github.com/tw93/pake), [MiaoYan](https://github.com/tw93/MiaoYan), [Weekly](https://github.com/tw93/weekly), [XRender](https://github.com/alibaba/xrender) using JS, Swift, Rust to build easy-to-use products. Value investing in AI.
+I've created [Pake](https://github.com/tw93/pake), [MiaoYan](https://github.com/tw93/MiaoYan), [Weekly](https://github.com/tw93/weekly), [XRender](https://github.com/alibaba/xrender) using JS, Swift, Rust to build easy-to-use products. <!-- github_stats starts -->6,057 followers, 54,473 stars, 9,383 forks<!-- github_stats ends --> across all works.
 
 <table width="1200px">
 <tr>
