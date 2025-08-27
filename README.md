@@ -1,8 +1,8 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm Tw93, a Product Engineer who loves to **Code · Write · Share · Investing**. I've created Pake, MiaoYan, Weekly, XRender using JS, Swift, Rust to build easy-to-use products. <!-- github_stats starts -->6,057 followers, 54,486 stars, 9,384 forks<!-- github_stats ends --> across all works.
 
-<table width="100%">
+<table width="1200px">
 <tr>
-<td width="50%" valign="top">
+<td width="600px" valign="top">
 
 **Code for leverage**
 
@@ -11,13 +11,14 @@
 <!-- recent_releases ends -->
 
 </td>
-<td width="50%" valign="top">
+<td width="600px" valign="top">
 
 **Write for scale**
 
 <!-- blog starts -->
 • [AI Coding 对于程序员的影响](https://tw93.fun/2025-08-17/ai-coding.html) - 2025-08-17<br>• [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) - 2025-07-17<br>• [从 iPhone 换到 Android 的体验](https://tw93.fun/2025-07-10/android.html) - 2025-07-10
-<!-- blog ends --><br><!-- weekly starts -->
+<!-- blog ends -->
+<!-- weekly starts -->
 • [第235期 - 拍美术馆](https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/) - 2025-08-25<br>• [第234期 - 有富士咯](https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/) - 2025-08-18<br>• [第233期 - 树上有鸟](https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/) - 2025-08-11
 <!-- weekly ends -->
 
