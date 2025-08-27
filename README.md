@@ -1,7 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> **Hello World! I'm Tw93**
-
-Product Engineer who created Pake, MiaoYan, Weekly, XRender with JS, Swift, Rust. Into investing & AI.  
-<!-- github_stats starts -->6,057 followers, 54,500 stars, 9,386 forks<!-- github_stats ends --> across all works.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm Tw93, a Product Engineer. I created Pake, MiaoYan, Weekly, XRender using JS, Swift, Rust to build easy-to-use products. Into investing & AI. <!-- github_stats starts -->6,057 followers, 54,500 stars, 9,386 forks<!-- github_stats ends --> across all works.
 
 **Code · Write · Share**
 
