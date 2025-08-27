@@ -1,23 +1,10 @@
-## Hello, World
-
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Tw93, a Frontend Engineer from China, also dabbling a bit in Swift, Rust, Python, and Sketch. I'm the creator of [MiaoYan](https://miaoyan.app/), [Pake](https://github.com/tw93/pake), [Trendy Weekly](https://weekly.tw93.fun/), [XRender](https://xrender.fun/), and [WeexUi](https://apache.github.io/incubator-weex-ui/). Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a>:
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> **Hello World!** I'm Tw93, a **Product Engineer**. Creator of [Pake](https://github.com/tw93/pake), [MiaoYan](https://miaoyan.app/), [XRender](https://xrender.fun/), [Weekly](https://weekly.tw93.fun/). Good at using AI, JS, Swift, Rust to build beautiful, useful products.
 
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ Weekly Development Breakdown
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
-  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
-</picture>
-
-</td>
-<td valign="top" width="50%">
-
-#### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
+#### Code for leverage
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/tw93/Pake/releases/tag/V3.2.16' target='_blank'>Pake V3.2.16 Cheeky 🐝</a> - 2025-08-22
@@ -25,35 +12,23 @@
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.18.3' target='_blank'>MiaoYan V1.18.3  Big Updates 🎉</a> - 2025-08-10
 * <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.6.0' target='_blank'>tw93.github.io V0.6 Better looking 🍓</a> - 2025-08-04
 * <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.17.0' target='_blank'>MiaoYan V1.17 New Changes 🎉</a> - 2025-08-04
+* <a href='https://github.com/tw93/Pake/releases/tag/V3.2.15' target='_blank'>Pake V3.2.15 Bug fixes 🐛</a> - 2025-08-01
 <!-- recent_releases ends -->
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
+#### Write for scale
 
 <!-- blog starts -->
-* <a href='https://tw93.fun/2025-08-17/ai-coding.html' target='_blank'>我感觉到的 AI Coding 对于程序员的影响</a> - 2025-08-17
+* <a href='https://tw93.fun/2025-08-17/ai-coding.html' target='_blank'>AI Coding 对程序员的影响</a> - 2025-08-17
 * <a href='https://tw93.fun/2025-07-17/money.html' target='_blank'>工程师如何更好投资</a> - 2025-07-17
-* <a href='https://tw93.fun/2025-07-10/android.html' target='_blank'>从 iPhone 换到 Android 的体验</a> - 2025-07-10
-* <a href='https://tw93.fun/2025-02-02/my-2024.html' target='_blank'>2024 年总结 - 持续迭代</a> - 2025-02-02
-* <a href='https://tw93.fun/2024-10-13/intuition.html' target='_blank'>别相信直觉 - 读书笔记</a> - 2024-10-13
+* <a href='https://tw93.fun/2025-07-10/android.html' target='_blank'>iPhone 换到 Android 的体验</a> - 2025-07-10
 <!-- blog ends -->
-
-</td>
-<td valign="top" width="50%">
-
-#### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
-
 <!-- weekly starts -->
-
 * <a href='https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/' target='_blank'>第235期 - 拍美术馆</a> - 2025-08-25
 * <a href='https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/' target='_blank'>第234期 - 有富士咯</a> - 2025-08-18
 * <a href='https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/' target='_blank'>第233期 - 树上有鸟</a> - 2025-08-11
-* <a href='https://weekly.tw93.fun/posts/232-%E5%B0%8F%E9%B1%BC%E5%B0%8F%E8%99%BE/' target='_blank'>第232期 - 小鱼小虾</a> - 2025-08-04
-* <a href='https://weekly.tw93.fun/posts/231-%E4%B8%80%E6%A0%91%E6%A9%98%E5%AD%90/' target='_blank'>第231期 - 一树橘子</a> - 2025-07-28
 <!-- weekly ends -->
 
 </td>

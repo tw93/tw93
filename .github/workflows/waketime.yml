@@ -14,4 +14,9 @@ jobs:
       - uses: tw93/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # only required if using the action in repository other than profile
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TITLE: false
+          SHOW_DAYS: false
+          SHOW_TIME: true
+          SHOW_LANGUAGE: true
+          BARS_COUNT: 5

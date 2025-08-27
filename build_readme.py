@@ -109,7 +109,7 @@ def fetch_weekly():
         for entry in content
     ]
 
-    return "\n".join(entries[:5])
+    return "\n".join(entries[:3])
 
 
 def fetch_blog_entries():
@@ -134,7 +134,7 @@ if __name__ == "__main__":
             "* <a href='{url}' target='_blank'>{repo} {release}</a> - {published_at}".format(
                 **release
             )
-            for release in releases[:5]
+            for release in releases[:6]
         ]
     )
     readme_contents = readme.open().read()
@@ -164,7 +164,7 @@ if __name__ == "__main__":
     weekly_text = "\n" + fetch_weekly()
     rewritten = replace_chunk(rewritten, "weekly", weekly_text)
 
-    entries = fetch_blog_entries()[:5]
+    entries = fetch_blog_entries()[:3]
     entries_md = "\n".join(
         [
             "* <a href='{url}' target='_blank'>{title}</a> - {published}".format(
