@@ -1,8 +1,11 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> **Hello World!** I'm Tw93, a **Product Engineer** who loves to **Code · Write · Share**, Value investing in AI. I've created [Pake](https://github.com/tw93/pake), [MiaoYan](https://github.com/tw93/MiaoYan), [Weekly](https://github.com/tw93/weekly), [XRender](https://github.com/alibaba/xrender) using JS, Swift, Rust to build easy-to-use products. <!-- github_stats starts -->6,057 followers, 54,480 stars, 9,383 forks<!-- github_stats ends --> across all works.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> **Hello World!** I'm Tw93, a **Product Engineer** who loves to **Code · Write · Share**, Value investing in AI.
 
-<table width="1500px">
+I've created [Pake](https://github.com/tw93/pake), [MiaoYan](https://github.com/tw93/MiaoYan), [Weekly](https://github.com/tw93/weekly), [XRender](https://github.com/alibaba/xrender) using JS, Swift, Rust to build easy-to-use products. <!-- github_stats starts -->6,057 followers, 54,480 stars, 9,383 forks<!-- github_stats ends --> across all works.
+
+<div>
+<table>
 <tr>
-<td valign="top" width="50%">
+<td width="400px" valign="top">
 
 <!-- recent_releases starts -->
 * <a href='https://github.com/tw93/Pake/releases/tag/V3.2.16' target='_blank'>Pake V3.2.16 Cheeky 🐝</a> - 2025-08-22
@@ -14,21 +17,20 @@
 <!-- recent_releases ends -->
 
 </td>
-<td valign="top" width="50%">
+<td width="400px" valign="top">
 
-<!-- weekly starts -->
-
-* <a href='https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/' target='_blank'>第235期 - 拍美术馆</a> - 2025-08-25
-* <a href='https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/' target='_blank'>第234期 - 有富士咯</a> - 2025-08-18
-* <a href='https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/' target='_blank'>第233期 - 树上有鸟</a> - 2025-08-11
-<!-- weekly ends -->
 <!-- blog starts -->
 * <a href='https://tw93.fun/2025-08-17/ai-coding.html' target='_blank'>AI Coding 对于程序员的影响</a> - 2025-08-17
 * <a href='https://tw93.fun/2025-07-17/money.html' target='_blank'>工程师如何更好投资</a> - 2025-07-17
 * <a href='https://tw93.fun/2025-07-10/android.html' target='_blank'>从 iPhone 换到 Android 的体验</a> - 2025-07-10
 <!-- blog ends -->
+<!-- weekly starts -->
+* <a href='https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/' target='_blank'>第235期 - 拍美术馆</a> - 2025-08-25
+* <a href='https://weekly.tw93.fun/posts/234-%E6%9C%89%E5%AF%8C%E5%A3%AB%E5%92%AF/' target='_blank'>第234期 - 有富士咯</a> - 2025-08-18
+* <a href='https://weekly.tw93.fun/posts/233-%E6%A0%91%E4%B8%8A%E6%9C%89%E9%B8%9F/' target='_blank'>第233期 - 树上有鸟</a> - 2025-08-11
+<!-- weekly ends -->
 
 </td>
 </tr>
-
 </table>
+</div>
