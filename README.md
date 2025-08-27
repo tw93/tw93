@@ -1,6 +1,6 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm Tw93, a Product Engineer passionate about building intuitive solutions. I've built Pake, MiaoYan, Weekly, XRender using JS, Swift, and Rust. <!-- github_stats starts -->6,057 followers, 54,500 stars, 9,386 forks<!-- github_stats ends --> across all works.
 
-**Code · Write · Share**
+**Code · Write · Invest · Share**
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
