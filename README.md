@@ -1,8 +1,8 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm Tw93, a Product Engineer who loves to **Code · Write · Share · Investing**. I've created Pake, MiaoYan, Weekly, XRender using JS, Swift, Rust to build easy-to-use products. <!-- github_stats starts -->6,057 followers, 54,489 stars, 9,384 forks<!-- github_stats ends --> across all works.
 
-<table width="1200px">
+<table width="1200px" cellspacing="0" cellpadding="0" style="border: none;">
 <tr>
-<td width="600px" valign="top">
+<td width="600px" valign="top" style="border: none; padding-right: 40px;">
 
 **Code for leverage**
 
@@ -11,7 +11,7 @@
 <!-- recent_releases ends -->
 
 </td>
-<td width="600px" valign="top">
+<td width="600px" valign="top" style="border: none; padding-left: 40px;">
 
 **Write for scale**
 
