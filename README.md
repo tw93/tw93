@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm **Tw93**, a Product Engineer passionate about **Code, Write & Share**. I build user-friendly solutions like Pake, MiaoYan, Maple, Weekly, XRender, WeexUI using JS, Swift, and Rust. <!-- github_stats starts -->6,123 followers, 62,946 stars, 10,604 forks<!-- github_stats ends --> across all works.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm **Tw93**, a Product Engineer passionate about **Code, Write & Share**. I build user-friendly solutions like Pake, MiaoYan, Maple, Weekly, XRender, WeexUI using JS, Swift, and Rust. <!-- github_stats starts -->6,123 followers, 62,951 stars, 10,606 forks<!-- github_stats ends --> across all works.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **📝 Recent Posts**
 
 <!-- blog starts -->
-• [AI Coding 对于程序员的影响](https://tw93.fun/2025-08-17/ai-coding.html) - 2025-08-17<br>• [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) - 2025-07-17<br>• [从 iPhone 换到 Android 的体验](https://tw93.fun/2025-07-10/android.html) - 2025-07-10<br>• [第237期 - 西湖落日](https://weekly.tw93.fun/posts/237-%E8%A5%BF%E6%B9%96%E8%90%BD%E6%97%A5/) - 2025-09-08<br>• [第236期 - 蓝色天空](https://weekly.tw93.fun/posts/236-%E8%93%9D%E8%89%B2%E5%A4%A9%E7%A9%BA/) - 2025-09-01<br>• [第235期 - 拍美术馆](https://weekly.tw93.fun/posts/235-%E6%8B%8D%E7%BE%8E%E6%9C%AF%E9%A6%86/) - 2025-08-25
+• [AI Coding 对于程序员的影响](https://tw93.fun/2025-08-17/ai-coding.html) - 2025-08-17<br>• [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) - 2025-07-17<br>• [从 iPhone 换到 Android 的体验](https://tw93.fun/2025-07-10/android.html) - 2025-07-10<br>• [第238期 - 湘厨小炒](https://weekly.tw93.fun/posts/238-%E6%B9%98%E5%8E%A8%E5%B0%8F%E7%82%92/) - 2025-09-15<br>• [第237期 - 西湖落日](https://weekly.tw93.fun/posts/237-%E8%A5%BF%E6%B9%96%E8%90%BD%E6%97%A5/) - 2025-09-08<br>• [第236期 - 蓝色天空](https://weekly.tw93.fun/posts/236-%E8%93%9D%E8%89%B2%E5%A4%A9%E7%A9%BA/) - 2025-09-01
 <!-- blog ends -->
 </td>
 </tr>
