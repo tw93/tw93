@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm **Tw93**, a Product Engineer passionate about **Code, Write & Share**. I build user-friendly solutions like Pake, MiaoYan, Maple, Weekly, XRender, WeexUI using JS, Swift, and Rust. <!-- github_stats starts -->6,132 followers, 63,108 stars, 10,662 forks<!-- github_stats ends --> across all works.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm **Tw93**, a Product Engineer passionate about **Code, Write & Share**. I build user-friendly solutions like Pake, MiaoYan, Maple, Weekly, XRender, WeexUI using JS, Swift, and Rust. <!-- github_stats starts -->6,133 followers, 63,109 stars, 10,661 forks<!-- github_stats ends --> across all works.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **⭐ Latest Releases**
 
 <!-- recent_releases starts -->
-• [Pake V3.3.5 Smooth😊](https://github.com/tw93/Pake/releases/tag/V3.3.5) - 2025-09-06<br>• [Pake V3.2.16 Cheeky 🐝](https://github.com/tw93/Pake/releases/tag/V3.2.16) - 2025-08-22<br>• [Maple V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11<br>• [MiaoYan V1.18.3  Big Updates 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.18.3) - 2025-08-10<br>• [MiaoYan V1.17 New Changes 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.17.0) - 2025-08-04<br>• [tw93.github.io V0.6 Better looking 🍓](https://github.com/tw93/tw93.github.io/releases/tag/V0.6.0) - 2025-08-04
+• [MiaoYan V2.0 New Face 🎉](https://github.com/tw93/MiaoYan/releases/tag/V2.0.0) - 2025-09-21<br>• [Pake V3.3.5 Smooth😊](https://github.com/tw93/Pake/releases/tag/V3.3.5) - 2025-09-06<br>• [Pake V3.2.16 Cheeky 🐝](https://github.com/tw93/Pake/releases/tag/V3.2.16) - 2025-08-22<br>• [Maple V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11<br>• [MiaoYan V1.18.3  Big Updates 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.18.3) - 2025-08-10<br>• [MiaoYan V1.17 New Changes 🎉](https://github.com/tw93/MiaoYan/releases/tag/V1.17.0) - 2025-08-04
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
