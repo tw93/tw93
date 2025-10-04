@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm **Tw93**, a Product Engineer passionate about **Code, Write & Share**. I build user-friendly solutions like Pake, MiaoYan, Maple, Weekly, XRender, WeexUI using JS, Swift, and Rust. <!-- github_stats starts -->6,180 followers, 64,339 stars, 10,800 forks<!-- github_stats ends --> across all works.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello World! I'm **Tw93**, a Product Engineer passionate about **Code, Write & Share**. I build user-friendly solutions like Pake, MiaoYan, Maple, Weekly, XRender, WeexUI using JS, Swift, and Rust. <!-- github_stats starts -->6,185 followers, 64,482 stars, 10,805 forks<!-- github_stats ends --> across all works.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **⭐ Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole V1.3 More lively 👻](https://github.com/tw93/Mole/releases/tag/V1.3.3) - 2025-10-03<br>• [Mole V1.2 New Born 🐣](https://github.com/tw93/Mole/releases/tag/V1.2.0) - 2025-09-28<br>• [MiaoYan V2.0 New Face 🌓](https://github.com/tw93/MiaoYan/releases/tag/V2.0.0) - 2025-09-21<br>• [Pake V3.3.5 Smooth😊](https://github.com/tw93/Pake/releases/tag/V3.3.5) - 2025-09-06<br>• [Pake V3.2.16 Cheeky 🐝](https://github.com/tw93/Pake/releases/tag/V3.2.16) - 2025-08-22<br>• [Maple V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11
+• [Mole V1.4 More lively 👻](https://github.com/tw93/Mole/releases/tag/V1.4.1) - 2025-10-03<br>• [Mole V1.2 New Born 🐣](https://github.com/tw93/Mole/releases/tag/V1.2.0) - 2025-09-28<br>• [MiaoYan V2.0 New Face 🌓](https://github.com/tw93/MiaoYan/releases/tag/V2.0.0) - 2025-09-21<br>• [Pake V3.3.5 Smooth😊](https://github.com/tw93/Pake/releases/tag/V3.3.5) - 2025-09-06<br>• [Pake V3.2.16 Cheeky 🐝](https://github.com/tw93/Pake/releases/tag/V3.2.16) - 2025-08-22<br>• [Maple V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
