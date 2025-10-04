@@ -146,12 +146,21 @@ if __name__ == "__main__":
     
     releases = fetch_releases(TOKEN)
     releases.sort(key=lambda r: r["published_at"], reverse=True)
+
+    # Keep only the latest release for each repo
+    seen_repos = set()
+    unique_releases = []
+    for release in releases:
+        if release["repo"] not in seen_repos:
+            seen_repos.add(release["repo"])
+            unique_releases.append(release)
+
     md = "<br>".join(
         [
             "• [{repo} {release}]({url}) - {published_at}".format(
                 **release
             )
-            for release in releases[:6]
+            for release in unique_releases[:6]
         ]
     )
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
