@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->6,269 followers, 66,638 stars, 10,907 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->6,271 followers, 66,672 stars, 10,908 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [AI Coding 对于程序员的影响](https://tw93.fun/2025-08-17/ai-coding.html) - 2025-08-17<br>• [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) - 2025-07-17<br>• [从 iPhone 换到 Android 的体验](https://tw93.fun/2025-07-10/android.html) - 2025-07-10<br>• [第239期 - 山顶咖啡](https://weekly.tw93.fun/posts/239-%E5%B1%B1%E9%A1%B6%E5%92%96%E5%95%A1/) - 2025-09-22<br>• [第238期 - 湘厨小炒](https://weekly.tw93.fun/posts/238-%E6%B9%98%E5%8E%A8%E5%B0%8F%E7%82%92/) - 2025-09-15<br>• [第237期 - 西湖落日](https://weekly.tw93.fun/posts/237-%E8%A5%BF%E6%B9%96%E8%90%BD%E6%97%A5/) - 2025-09-08
+• [AI Coding 对于程序员的影响](https://tw93.fun/2025-08-17/ai-coding.html) - 2025-08-17<br>• [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) - 2025-07-17<br>• [从 iPhone 换到 Android 的体验](https://tw93.fun/2025-07-10/android.html) - 2025-07-10<br>• [第240期 - 带娃三亚](https://weekly.tw93.fun/posts/240-%E5%B8%A6%E5%A8%83%E4%B8%89%E4%BA%9A/) - 2025-10-13<br>• [第239期 - 山顶咖啡](https://weekly.tw93.fun/posts/239-%E5%B1%B1%E9%A1%B6%E5%92%96%E5%95%A1/) - 2025-09-22<br>• [第238期 - 湘厨小炒](https://weekly.tw93.fun/posts/238-%E6%B9%98%E5%8E%A8%E5%B0%8F%E7%82%92/) - 2025-09-15
 <!-- blog ends -->
 </td>
 </tr>
