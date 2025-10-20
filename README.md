@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->6,304 followers, 67,325 stars, 10,972 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->6,311 followers, 67,371 stars, 10,980 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Weekly V0.8 Smarter 😊](https://github.com/tw93/Weekly/releases/tag/V0.8) - 2025-10-19<br>• [Pake V3.4 Panda Magic 🐼](https://github.com/tw93/Pake/releases/tag/V3.4.0) - 2025-10-16<br>• [Mole V1.7 More realistic 🐥](https://github.com/tw93/Mole/releases/tag/V1.7.17) - 2025-10-15<br>• [MiaoYan V2.1 New Discoveries 🥜](https://github.com/tw93/MiaoYan/releases/tag/V2.1.4) - 2025-10-11<br>• [Maple V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11<br>• [tw93.github.io V0.6 Better looking 🍓](https://github.com/tw93/tw93.github.io/releases/tag/V0.6.0) - 2025-08-04
+• [Pake V3.4.2](https://github.com/tw93/Pake/releases/tag/V3.4.2) - 2025-10-20<br>• [Weekly V0.8 Smarter 😊](https://github.com/tw93/Weekly/releases/tag/V0.8) - 2025-10-19<br>• [Mole V1.7 More realistic 🐥](https://github.com/tw93/Mole/releases/tag/V1.7.17) - 2025-10-15<br>• [MiaoYan V2.1 New Discoveries 🥜](https://github.com/tw93/MiaoYan/releases/tag/V2.1.5) - 2025-10-11<br>• [Maple V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11<br>• [tw93.github.io V0.6 Better looking 🍓](https://github.com/tw93/tw93.github.io/releases/tag/V0.6.0) - 2025-08-04
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
