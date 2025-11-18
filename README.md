@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->6,451 followers, 69,991 stars, 11,253 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->6,453 followers, 70,003 stars, 11,255 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [AI Coding 对于程序员的影响](https://tw93.fun/2025-08-17/ai-coding.html) - 2025-08-17<br>• [工程师如何更好投资](https://tw93.fun/2025-07-17/money.html) - 2025-07-17<br>• [从 iPhone 换到 Android 的体验](https://tw93.fun/2025-07-10/android.html) - 2025-07-10<br>• [第245期 - 秋天出租](https://weekly.tw93.fun/posts/245/) - 2025-11-17<br>• [第244期 - 飞机飞过](https://weekly.tw93.fun/posts/244/) - 2025-11-10<br>• [第243期 - 森泊不错](https://weekly.tw93.fun/posts/243/) - 2025-11-03
+• No recent posts available
 <!-- blog ends -->
 </td>
 </tr>
