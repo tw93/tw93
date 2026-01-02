@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,064 followers, 90,353 stars, 12,094 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,067 followers, 90,439 stars, 12,095 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole V1.17.0 Better 🧤](https://github.com/tw93/Mole/releases/tag/V1.17.0) - 2025-12-30<br>• [Pake V3.7.2 Easier 🎄](https://github.com/tw93/Pake/releases/tag/V3.7.2) - 2025-12-25<br>• [MiaoYan V2.3.1 Big change🎄](https://github.com/tw93/MiaoYan/releases/tag/V2.3.0) - 2025-12-16<br>• [MiaoYan-NetNewsWire-Theme V1.1.1](https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/tag/V1.1.1) - 2025-11-23<br>• [Weekly V0.8 Smarter 😊](https://github.com/tw93/Weekly/releases/tag/V0.8) - 2025-10-19<br>• [Maple V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11
+• [Mole V1.18.0 Robustness 🍘](https://github.com/tw93/Mole/releases/tag/V1.18.0) - 2026-01-02<br>• [Pake V3.7.2 Easier 🎄](https://github.com/tw93/Pake/releases/tag/V3.7.2) - 2025-12-25<br>• [MiaoYan V2.3.1 Big change🎄](https://github.com/tw93/MiaoYan/releases/tag/V2.3.0) - 2025-12-16<br>• [MiaoYan-NetNewsWire-Theme V1.1.1](https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/tag/V1.1.1) - 2025-11-23<br>• [Weekly V0.8 Smarter 😊](https://github.com/tw93/Weekly/releases/tag/V0.8) - 2025-10-19<br>• [Maple V1.11 Miss you 🍇](https://github.com/tw93/Maple/releases/tag/V1.11) - 2025-08-11
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
