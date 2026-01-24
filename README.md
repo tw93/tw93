@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,367 followers, 98,631 stars, 12,504 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,368 followers, 98,669 stars, 12,505 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [2025 大语言模型年度回顾](https://tw93.fun/2026-01-14/llm.html) - 2026-01-14<br>• [新一代工程师的破局与发展](https://tw93.fun/2025-12-22/engineer.html) - 2025-12-22<br>• [AI Coding 对于程序员的影响](https://tw93.fun/2025-08-17/ai-coding.html) - 2025-08-17<br>• [第254期 - 二零二六](https://weekly.tw93.fun/posts/254/) - 2026-01-19<br>• [第253期 - 爱无人机](https://weekly.tw93.fun/posts/253/) - 2026-01-12<br>• [第252期 - 大兴机场](https://weekly.tw93.fun/posts/252/) - 2026-01-05
+• [243 个工程师最近一年买到的好东西](https://tw93.fun/2026-01-24/good.html) - 2026-01-24<br>• [2025 大语言模型年度回顾](https://tw93.fun/2026-01-14/llm.html) - 2026-01-14<br>• [新一代工程师的破局与发展](https://tw93.fun/2025-12-22/engineer.html) - 2025-12-22<br>• [第254期 - 二零二六](https://weekly.tw93.fun/posts/254/) - 2026-01-19<br>• [第253期 - 爱无人机](https://weekly.tw93.fun/posts/253/) - 2026-01-12<br>• [第252期 - 大兴机场](https://weekly.tw93.fun/posts/252/) - 2026-01-05
 <!-- blog ends -->
 </td>
 </tr>
