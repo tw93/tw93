@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,646 followers, 103,817 stars, 12,801 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Pake | MiaoYan | Mole | XRender** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,647 followers, 103,879 stars, 12,803 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kaku V0.2.0 Craft 🍺](https://github.com/tw93/Kaku/releases/tag/V0.2.0) - 2026-02-13<br>• [MiaoYan V2.5.2 More exquisite 🪿](https://github.com/tw93/MiaoYan/releases/tag/V2.5.0) - 2026-02-07<br>• [Mole V1.25.0 Velvet ✨](https://github.com/tw93/Mole/releases/tag/V1.25.0) - 2026-02-07<br>• [Pake V3.8.1 Magical 🦧](https://github.com/tw93/Pake/releases/tag/V3.8.1) - 2026-01-23<br>• [MiaoYan-NetNewsWire-Theme V1.1.1](https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/tag/V1.1.1) - 2025-11-23<br>• [Weekly V0.8 Smarter 😊](https://github.com/tw93/Weekly/releases/tag/V0.8) - 2025-10-19
+• [Mole V1.26.0 Happy 🐨](https://github.com/tw93/Mole/releases/tag/V1.26.0) - 2026-02-15<br>• [Kaku V0.2.0 Craft 🍺](https://github.com/tw93/Kaku/releases/tag/V0.2.0) - 2026-02-13<br>• [MiaoYan V2.5.2 More exquisite 🪿](https://github.com/tw93/MiaoYan/releases/tag/V2.5.0) - 2026-02-07<br>• [Pake V3.8.1 Magical 🦧](https://github.com/tw93/Pake/releases/tag/V3.8.1) - 2026-01-23<br>• [MiaoYan-NetNewsWire-Theme V1.1.1](https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/tag/V1.1.1) - 2025-11-23<br>• [Weekly V0.8 Smarter 😊](https://github.com/tw93/Weekly/releases/tag/V0.8) - 2025-10-19
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
