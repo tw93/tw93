@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,832 followers, 107,638 stars, 12,966 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,838 followers, 107,696 stars, 12,965 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
