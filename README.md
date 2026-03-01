@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,864 followers, 108,064 stars, 12,977 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->7,876 followers, 108,127 stars, 12,982 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [比特币下跌时，我重新理解了大教堂与赌场](https://tw93.fun/2026-02-01/money.html) - 2026-02-01<br>• [243 个工程师，最近一年买到的好东西](https://tw93.fun/2026-01-24/good.html) - 2026-01-24<br>• [2025 大语言模型年度回顾](https://tw93.fun/2026-01-14/llm.html) - 2026-01-14<br>• [第257期 - 春节快乐](https://weekly.tw93.fun/posts/257/) - 2026-02-19<br>• [第256期 - 上野天空](https://weekly.tw93.fun/posts/256/) - 2026-02-02<br>• [第255期 - 好吃鸡翅](https://weekly.tw93.fun/posts/255/) - 2026-01-26
+• [比特币下跌时，我重新理解了大教堂与赌场](https://tw93.fun/2026-02-01/money.html) - 2026-02-01<br>• [243 个工程师，最近一年买到的好东西](https://tw93.fun/2026-01-24/good.html) - 2026-01-24<br>• [2025 大语言模型年度回顾](https://tw93.fun/2026-01-14/llm.html) - 2026-01-14<br>• [第258期 - 赛博充电](https://weekly.tw93.fun/posts/258/) - 2026-03-02<br>• [第257期 - 春节快乐](https://weekly.tw93.fun/posts/257/) - 2026-02-19<br>• [第256期 - 上野天空](https://weekly.tw93.fun/posts/256/) - 2026-02-02
 <!-- blog ends -->
 </td>
 </tr>
