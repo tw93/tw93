@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,020 followers, 109,916 stars, 13,081 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,021 followers, 109,950 stars, 13,085 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole V1.29.0 Rathalos 🐉](https://github.com/tw93/Mole/releases/tag/v1.29.0-windows) - 2026-03-06<br>• [Maple V1.17 Velvet 🍁](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02<br>• [Kaku V0.5.1 Kindness 🌴](https://github.com/tw93/Kaku/releases/tag/V0.5.1) - 2026-02-28<br>• [MiaoYan V2.7.0 Zinogre 🍝](https://github.com/tw93/MiaoYan/releases/tag/V2.7.0) - 2026-02-28<br>• [Pake V3.10.0 Eleven 🎃](https://github.com/tw93/Pake/releases/tag/V3.10.0) - 2026-02-28<br>• [MiaoYan-NetNewsWire-Theme V1.1.1](https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/tag/V1.1.1) - 2025-11-23
+• [Mole V1.29.0 Rathalos](https://github.com/tw93/Mole/releases/tag/v1.29.0-windows) - 2026-03-06<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02<br>• [Kaku V0.5.1 Kindness](https://github.com/tw93/Kaku/releases/tag/V0.5.1) - 2026-02-28<br>• [MiaoYan V2.7.0 Zinogre](https://github.com/tw93/MiaoYan/releases/tag/V2.7.0) - 2026-02-28<br>• [Pake V3.10.0 Eleven](https://github.com/tw93/Pake/releases/tag/V3.10.0) - 2026-02-28<br>• [MiaoYan-NetNewsWire-Theme V1.1.1](https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/tag/V1.1.1) - 2025-11-23
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [连龙虾都不会装的人，怎么会用龙虾呢?](https://tw93.fun/2026-03-07/openclaw.html) - 2026-03-07<br>• [比特币下跌时，我重新理解了大教堂与赌场](https://tw93.fun/2026-02-01/money.html) - 2026-02-01<br>• [243 个工程师，最近一年买到的好东西](https://tw93.fun/2026-01-24/good.html) - 2026-01-24<br>• [第258期 - 赛博充电](https://weekly.tw93.fun/posts/258/) - 2026-03-02<br>• [第257期 - 春节快乐](https://weekly.tw93.fun/posts/257/) - 2026-02-19<br>• [第256期 - 上野天空](https://weekly.tw93.fun/posts/256/) - 2026-02-02
+• [Installing OpenClaw Isn't the Same as Using It](https://tw93.fun/en/2026-03-07/openclaw.html) - 2026-03-07<br>• [Best Purchases from 24...eers in the Past Year](https://tw93.fun/en/2026-01-24/good.html) - 2026-01-24<br>• [The Impact of AI Coding on Programmers](https://tw93.fun/en/2025-08-17/ai-coding.html) - 2025-08-17<br>• [258. Cyber Charging](https://weekly.tw93.fun/en/posts/258/) - 2026-03-02<br>• [257. Happy Chinese New Year](https://weekly.tw93.fun/en/posts/257/) - 2026-02-19<br>• [256. Ueno Sky](https://weekly.tw93.fun/en/posts/256/) - 2026-02-02
 <!-- blog ends -->
 </td>
 </tr>
