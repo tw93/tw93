@@ -9,7 +9,7 @@ root = pathlib.Path(__file__).parent.resolve()
 
 
 TOKEN = os.environ.get("GH_TOKEN", "")
-TITLE_MAX_LEN = 46
+TITLE_MAX_LEN = 42
 
 
 def replace_chunk(content, marker, chunk, inline=False):
