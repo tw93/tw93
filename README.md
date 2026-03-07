@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,021 followers, 109,950 stars, 13,085 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,022 followers, 109,950 stars, 13,085 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [Installing OpenClaw Isn't the Same as Using It](https://tw93.fun/en/2026-03-07/openclaw.html) - 2026-03-07<br>• [Best Purchases from 24...eers in the Past Year](https://tw93.fun/en/2026-01-24/good.html) - 2026-01-24<br>• [The Impact of AI Coding on Programmers](https://tw93.fun/en/2025-08-17/ai-coding.html) - 2025-08-17<br>• [258. Cyber Charging](https://weekly.tw93.fun/en/posts/258/) - 2026-03-02<br>• [257. Happy Chinese New Year](https://weekly.tw93.fun/en/posts/257/) - 2026-02-19<br>• [256. Ueno Sky](https://weekly.tw93.fun/en/posts/256/) - 2026-02-02
+• [Installing OpenClaw ...he Same as Using It](https://tw93.fun/en/2026-03-07/openclaw.html) - 2026-03-07<br>• [Best Purchases from ...rs in the Past Year](https://tw93.fun/en/2026-01-24/good.html) - 2026-01-24<br>• [The Impact of AI Coding on Programmers](https://tw93.fun/en/2025-08-17/ai-coding.html) - 2025-08-17<br>• [258. Cyber Charging](https://weekly.tw93.fun/en/posts/258/) - 2026-03-02<br>• [257. Happy Chinese New Year](https://weekly.tw93.fun/en/posts/257/) - 2026-02-19<br>• [256. Ueno Sky](https://weekly.tw93.fun/en/posts/256/) - 2026-02-02
 <!-- blog ends -->
 </td>
 </tr>
