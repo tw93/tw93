@@ -9,6 +9,7 @@ root = pathlib.Path(__file__).parent.resolve()
 
 
 TOKEN = os.environ.get("GH_TOKEN", "")
+TITLE_MAX_LEN = 46
 
 
 def replace_chunk(content, marker, chunk, inline=False):
@@ -20,6 +21,81 @@ def replace_chunk(content, marker, chunk, inline=False):
         chunk = "\n{}\n".format(chunk)
     chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
     return r.sub(chunk, content)
+
+
+EMOJI_RE = re.compile(
+    "["
+    "\U0001F1E0-\U0001F1FF"  # flags
+    "\U0001F300-\U0001F5FF"  # symbols & pictographs
+    "\U0001F600-\U0001F64F"  # emoticons
+    "\U0001F680-\U0001F6FF"  # transport & map symbols
+    "\U0001F700-\U0001F77F"  # alchemical symbols
+    "\U0001F780-\U0001F7FF"  # geometric shapes extended
+    "\U0001F800-\U0001F8FF"  # supplemental arrows-c
+    "\U0001F900-\U0001F9FF"  # supplemental symbols and pictographs
+    "\U0001FA00-\U0001FAFF"  # symbols and pictographs extended-a
+    "\u2600-\u26FF"          # misc symbols
+    "\u2700-\u27BF"          # dingbats
+    "\uFE0F"                 # variation selector-16
+    "\u200D"                 # zero width joiner
+    "]+",
+    flags=re.UNICODE,
+)
+
+
+def strip_emoji(text):
+    if not text:
+        return ""
+    cleaned = EMOJI_RE.sub("", text)
+    return re.sub(r"\s+", " ", cleaned).strip()
+
+
+def truncate_middle(text, max_len=TITLE_MAX_LEN):
+    text = re.sub(r"\s+", " ", (text or "")).strip()
+    if len(text) <= max_len:
+        return text
+
+    ellipsis = "..."
+    keep_len = max_len - len(ellipsis)
+    if keep_len <= 1:
+        return text[:max_len]
+
+    left_len = (keep_len + 1) // 2
+    right_len = keep_len // 2
+    return f"{text[:left_len]}{ellipsis}{text[-right_len:]}"
+
+
+def parse_entry_date(entry):
+    for key in ("published_parsed", "updated_parsed", "created_parsed"):
+        parsed = entry.get(key)
+        if parsed:
+            return datetime.datetime(*parsed[:6]).strftime("%Y-%m-%d")
+
+    for key in ("published", "updated", "date"):
+        value = entry.get(key, "")
+        if not value:
+            continue
+
+        match = re.search(r"\d{4}-\d{2}-\d{2}", value)
+        if match:
+            return match.group(0)
+
+        try:
+            return datetime.datetime.strptime(
+                value, "%a, %d %b %Y %H:%M:%S %Z"
+            ).strftime("%Y-%m-%d")
+        except Exception:
+            continue
+
+    return ""
+
+
+def normalize_release_title(repo_name, release):
+    title = (release.title or "").replace(repo_name, "").strip()
+    title = strip_emoji(title)
+    if not title:
+        title = strip_emoji(release.tag_name or "").strip()
+    return title or "Release"
 
 
 
@@ -41,7 +117,7 @@ def fetch_releases(oauth_token):
                                 "repo": repo.name,
                                 "repo_url": repo.html_url,
                                 "description": repo.description or "",
-                                "release": release.title.replace(repo.name, "").strip(),
+                                "release": normalize_release_title(repo.name, release),
                                 "published_at": release.published_at.strftime("%Y-%m-%d"),
                                 "url": release.html_url,
                             })
@@ -56,17 +132,21 @@ def fetch_releases(oauth_token):
 
 def fetch_weekly():
     try:
-        content = feedparser.parse("https://weekly.tw93.fun/rss.xml")["entries"]
-        entries = [
-            "• [{title}]({url}) - {published}".format(
-                title=entry["title"],
-                url=entry["link"].split("#")[0],
-                published=datetime.datetime.strptime(
-                    entry["published"], "%a, %d %b %Y %H:%M:%S %Z"
-                ).strftime("%Y-%m-%d"),
+        content = feedparser.parse("https://weekly.tw93.fun/en/rss.xml")["entries"]
+        entries = []
+        for entry in content:
+            title = truncate_middle(entry.get("title", ""))
+            url = entry.get("link", "").split("#")[0]
+            published = parse_entry_date(entry)
+            if not (title and url and published):
+                continue
+            entries.append(
+                "• [{title}]({url}) - {published}".format(
+                    title=title, url=url, published=published
+                )
             )
-            for entry in content
-        ]
+            if len(entries) >= 3:
+                break
         return "<br>".join(entries[:3])
     except Exception as e:
         print(f"Error fetching weekly: {e}")
@@ -75,15 +155,16 @@ def fetch_weekly():
 
 def fetch_blog_entries():
     try:
-        entries = feedparser.parse("https://tw93.fun/feed.xml")["entries"]
-        return [
-            {
-                "title": entry["title"],
-                "url": entry["link"].split("#")[0],
-                "published": entry["published"].split("T")[0],
-            }
-            for entry in entries
-        ]
+        entries = feedparser.parse("https://tw93.fun/en/feed.xml")["entries"]
+        results = []
+        for entry in entries:
+            title = truncate_middle(entry.get("title", ""))
+            url = entry.get("link", "").split("#")[0]
+            published = parse_entry_date(entry)
+            if not (title and url and published):
+                continue
+            results.append({"title": title, "url": url, "published": published})
+        return results
     except Exception as e:
         print(f"Error fetching blog entries: {e}")
         return []
