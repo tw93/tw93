@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,214 followers, 112,066 stars, 13,203 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,230 followers, 112,253 stars, 13,210 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [Claude Code Deep Div...gineering Practices](https://tw93.fun/en/2026-03-12/claude.html) - 2026-03-12<br>• [Installing OpenClaw ...he Same as Using It](https://tw93.fun/en/2026-03-07/openclaw.html) - 2026-03-07<br>• [Bitcoin's Fall: Cathedral vs Casino](https://tw93.fun/en/2026-02-01/money.html) - 2026-02-01<br>• [259. Jingshan from Above](https://weekly.tw93.fun/en/posts/259/) - 2026-03-09<br>• [258. Cyber Charging](https://weekly.tw93.fun/en/posts/258/) - 2026-03-02<br>• [257. Happy Chinese New Year](https://weekly.tw93.fun/en/posts/257/) - 2026-02-19
+• [Claude Code Deep Div...gineering Practices](https://tw93.fun/en/2026-03-12/claude.html) - 2026-03-12<br>• [Installing OpenClaw ...he Same as Using It](https://tw93.fun/en/2026-03-07/openclaw.html) - 2026-03-07<br>• [Bitcoin's Fall: Cathedral vs Casino](https://tw93.fun/en/2026-02-01/money.html) - 2026-02-01<br>• [260. Prince Bay](https://weekly.tw93.fun/en/posts/260/) - 2026-03-16<br>• [259. Jingshan from Above](https://weekly.tw93.fun/en/posts/259/) - 2026-03-09<br>• [258. Cyber Charging](https://weekly.tw93.fun/en/posts/258/) - 2026-03-02
 <!-- blog ends -->
 </td>
 </tr>
