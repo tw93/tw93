@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,347 followers, 114,219 stars, 13,303 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,358 followers, 114,369 stars, 13,316 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [claude-health V1.5.0 Calibrate](https://github.com/tw93/claude-health/releases/tag/v1.5.0) - 2026-03-14<br>• [Kaku V0.7.1 Flow](https://github.com/tw93/Kaku/releases/tag/V0.7.1) - 2026-03-13<br>• [MiaoYan V3.1.1 Astalos](https://github.com/tw93/MiaoYan/releases/tag/V3.1.1) - 2026-03-12<br>• [Mole V1.29.0 Rathalos](https://github.com/tw93/Mole/releases/tag/v1.29.0-windows) - 2026-03-08<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02<br>• [Pake V3.10.0 Eleven](https://github.com/tw93/Pake/releases/tag/V3.10.0) - 2026-02-28
+• [claude-health V1.5.1 Anchor](https://github.com/tw93/claude-health/releases/tag/v1.5.1) - 2026-03-19<br>• [Kaku V0.7.1 Flow](https://github.com/tw93/Kaku/releases/tag/V0.7.1) - 2026-03-13<br>• [MiaoYan V3.1.1 Astalos](https://github.com/tw93/MiaoYan/releases/tag/V3.1.1) - 2026-03-12<br>• [Mole V1.29.0 Rathalos](https://github.com/tw93/Mole/releases/tag/v1.29.0-windows) - 2026-03-08<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02<br>• [Pake V3.10.0 Eleven](https://github.com/tw93/Pake/releases/tag/V3.10.0) - 2026-02-28
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
