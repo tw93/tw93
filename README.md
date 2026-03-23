@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,483 followers, 116,401 stars, 13,492 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,502 followers, 116,557 stars, 13,505 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole v1.29.1-windows](https://github.com/tw93/Mole/releases/tag/v1.29.1-windows) - 2026-03-22<br>• [claude-health V1.5.1 Anchor](https://github.com/tw93/claude-health/releases/tag/v1.5.1) - 2026-03-19<br>• [Kaku V0.7.1 Flow](https://github.com/tw93/Kaku/releases/tag/V0.7.1) - 2026-03-13<br>• [MiaoYan V3.1.1 Astalos](https://github.com/tw93/MiaoYan/releases/tag/V3.1.1) - 2026-03-12<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02<br>• [Pake V3.10.0 Eleven](https://github.com/tw93/Pake/releases/tag/V3.10.0) - 2026-02-28
+• [Kaku V0.8.0 Fish](https://github.com/tw93/Kaku/releases/tag/V0.8.0) - 2026-03-23<br>• [Mole v1.29.1-windows](https://github.com/tw93/Mole/releases/tag/v1.29.1-windows) - 2026-03-22<br>• [claude-health V1.5.1 Anchor](https://github.com/tw93/claude-health/releases/tag/v1.5.1) - 2026-03-19<br>• [MiaoYan V3.1.1 Astalos](https://github.com/tw93/MiaoYan/releases/tag/V3.1.1) - 2026-03-12<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02<br>• [Pake V3.10.0 Eleven](https://github.com/tw93/Pake/releases/tag/V3.10.0) - 2026-02-28
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
