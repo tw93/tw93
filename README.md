@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,696 followers, 118,705 stars, 13,700 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,704 followers, 118,756 stars, 13,704 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [You Don't Know AI Ag...gineering Practices](https://tw93.fun/en/2026-03-21/agent.html) - 2026-03-21<br>• [Claude Code Deep Div...gineering Practices](https://tw93.fun/en/2026-03-12/claude.html) - 2026-03-12<br>• [Installing OpenClaw ...he Same as Using It](https://tw93.fun/en/2026-03-07/openclaw.html) - 2026-03-07<br>• [261. miss spring](https://weekly.tw93.fun/en/posts/261/) - 2026-03-23<br>• [260. Prince Bay](https://weekly.tw93.fun/en/posts/260/) - 2026-03-16<br>• [259. Jingshan from Above](https://weekly.tw93.fun/en/posts/259/) - 2026-03-09
+• [You Don't Know AI Ag...gineering Practices](https://tw93.fun/en/2026-03-21/agent.html) - 2026-03-21<br>• [Claude Code Deep Div...gineering Practices](https://tw93.fun/en/2026-03-12/claude.html) - 2026-03-12<br>• [Installing OpenClaw ...he Same as Using It](https://tw93.fun/en/2026-03-07/openclaw.html) - 2026-03-07<br>• [262. Lost My Drone](https://weekly.tw93.fun/en/posts/262/) - 2026-03-30<br>• [261. miss spring](https://weekly.tw93.fun/en/posts/261/) - 2026-03-23<br>• [260. Prince Bay](https://weekly.tw93.fun/en/posts/260/) - 2026-03-16
 <!-- blog ends -->
 </td>
 </tr>
