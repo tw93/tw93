@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,844 followers, 120,216 stars, 13,859 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->8,862 followers, 120,456 stars, 13,868 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Waza V2.0.0](https://github.com/tw93/Waza/releases/tag/v2.0.0) - 2026-04-06<br>• [Kaku V0.9.0 Spark](https://github.com/tw93/Kaku/releases/tag/V0.9.0) - 2026-04-04<br>• [Mole V1.33.0 Lynx](https://github.com/tw93/Mole/releases/tag/V1.33.0) - 2026-04-02<br>• [Pake V3.11.0 Evolve](https://github.com/tw93/Pake/releases/tag/V3.11.0) - 2026-03-27<br>• [MiaoYan V3.1.1 Astalos](https://github.com/tw93/MiaoYan/releases/tag/V3.1.1) - 2026-03-12<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02
+• [Waza V3.0.0 Forge](https://github.com/tw93/Waza/releases/tag/v3.0.0) - 2026-04-06<br>• [Kaku V0.9.0 Spark](https://github.com/tw93/Kaku/releases/tag/V0.9.0) - 2026-04-04<br>• [Mole V1.33.0 Lynx](https://github.com/tw93/Mole/releases/tag/V1.33.0) - 2026-04-02<br>• [Pake V3.11.0 Evolve](https://github.com/tw93/Pake/releases/tag/V3.11.0) - 2026-03-27<br>• [MiaoYan V3.1.1 Astalos](https://github.com/tw93/MiaoYan/releases/tag/V3.1.1) - 2026-03-12<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [LLM Training Demysti..., and New Practices](https://tw93.fun/en/2026-04-03/llm.html) - 2026-04-03<br>• [The Death of the Manual Programmer](https://tw93.fun/en/2026-03-30/kill.html) - 2026-03-30<br>• [You Don't Know AI Ag...gineering Practices](https://tw93.fun/en/2026-03-21/agent.html) - 2026-03-21<br>• [262. Lost My Drone](https://weekly.tw93.fun/en/posts/262/) - 2026-03-30<br>• [261. miss spring](https://weekly.tw93.fun/en/posts/261/) - 2026-03-23<br>• [260. Prince Bay](https://weekly.tw93.fun/en/posts/260/) - 2026-03-16
+• [How I Turn Learning ...kflow in the AI Era](https://tw93.fun/en/2026-04-06/learn.html) - 2026-04-06<br>• [You Don't Know LLM T..., and New Practices](https://tw93.fun/en/2026-04-03/llm.html) - 2026-04-03<br>• [The Death of the Manual Programmer](https://tw93.fun/en/2026-03-30/kill.html) - 2026-03-30<br>• [262. Lost My Drone](https://weekly.tw93.fun/en/posts/262/) - 2026-03-30<br>• [261. miss spring](https://weekly.tw93.fun/en/posts/261/) - 2026-03-23<br>• [260. Prince Bay](https://weekly.tw93.fun/en/posts/260/) - 2026-03-16
 <!-- blog ends -->
 </td>
 </tr>
