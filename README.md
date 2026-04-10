@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->9,002 followers, 122,026 stars, 13,996 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->9,008 followers, 122,168 stars, 14,004 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Waza V3.4.0 Distill](https://github.com/tw93/Waza/releases/tag/v3.4.0) - 2026-04-09<br>• [Kaku V0.9.0 Spark](https://github.com/tw93/Kaku/releases/tag/V0.9.0) - 2026-04-04<br>• [Mole V1.33.0 Lynx](https://github.com/tw93/Mole/releases/tag/V1.33.0) - 2026-04-02<br>• [Pake V3.11.0 Evolve](https://github.com/tw93/Pake/releases/tag/V3.11.0) - 2026-03-27<br>• [MiaoYan V3.1.1 Astalos](https://github.com/tw93/MiaoYan/releases/tag/V3.1.1) - 2026-03-12<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02
+• [Kaku Nightly (20def25)](https://github.com/tw93/Kaku/releases/tag/nightly) - 2026-04-10<br>• [Waza V3.4.0 Distill](https://github.com/tw93/Waza/releases/tag/v3.4.0) - 2026-04-09<br>• [Mole V1.33.0 Lynx](https://github.com/tw93/Mole/releases/tag/V1.33.0) - 2026-04-02<br>• [Pake V3.11.0 Evolve](https://github.com/tw93/Pake/releases/tag/V3.11.0) - 2026-03-27<br>• [MiaoYan V3.1.1 Astalos](https://github.com/tw93/MiaoYan/releases/tag/V3.1.1) - 2026-03-12<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
