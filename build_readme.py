@@ -113,6 +113,8 @@ def fetch_releases(oauth_token):
                     repo_releases = list(repo.get_releases())
                     if repo_releases:  # Only process if there are releases
                         for release in repo_releases[:10]:  # Limit to 10 releases per repo
+                            if release.prerelease or (release.tag_name or "").lower() == "nightly":
+                                continue
                             releases.append({
                                 "repo": repo.name,
                                 "repo_url": repo.html_url,
