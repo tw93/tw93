@@ -107,25 +107,26 @@ def fetch_releases(oauth_token):
         
         # Get all repositories owned by the user
         for repo in user.get_repos(type='owner'):
-            if not repo.fork:  # Skip forked repositories
-                try:
-                    # Get releases for this repository
-                    repo_releases = list(repo.get_releases())
-                    if repo_releases:  # Only process if there are releases
-                        for release in repo_releases[:10]:  # Limit to 10 releases per repo
-                            if release.prerelease or (release.tag_name or "").lower() == "nightly":
-                                continue
-                            releases.append({
-                                "repo": repo.name,
-                                "repo_url": repo.html_url,
-                                "description": repo.description or "",
-                                "release": normalize_release_title(repo.name, release),
-                                "published_at": release.published_at.strftime("%Y-%m-%d"),
-                                "url": release.html_url,
-                            })
-                except Exception as e:
-                    print(f"Error fetching releases for {repo.name}: {e}")
-                    continue
+            if repo.fork or repo.private:  # Skip forks and private repos
+                continue
+            try:
+                # Get releases for this repository
+                repo_releases = list(repo.get_releases())
+                if repo_releases:  # Only process if there are releases
+                    for release in repo_releases[:10]:  # Limit to 10 releases per repo
+                        if release.prerelease or (release.tag_name or "").lower() == "nightly":
+                            continue
+                        releases.append({
+                            "repo": repo.name,
+                            "repo_url": repo.html_url,
+                            "description": repo.description or "",
+                            "release": normalize_release_title(repo.name, release),
+                            "published_at": release.published_at.strftime("%Y-%m-%d"),
+                            "url": release.html_url,
+                        })
+            except Exception as e:
+                print(f"Error fetching releases for {repo.name}: {e}")
+                continue
         
         return releases
     except Exception as e:
