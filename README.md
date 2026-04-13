@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->9,091 followers, 123,691 stars, 14,086 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->9,095 followers, 123,886 stars, 14,104 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [How I Turn Learning ...kflow in the AI Era](https://tw93.fun/en/2026-04-06/learn.html) - 2026-04-06<br>• [You Don't Know LLM T..., and New Practices](https://tw93.fun/en/2026-04-03/llm.html) - 2026-04-03<br>• [The Death of the Manual Programmer](https://tw93.fun/en/2026-03-30/kill.html) - 2026-03-30<br>• [263. Hardware Beauty](https://weekly.tw93.fun/en/posts/263/) - 2026-04-06<br>• [262. Lost My Drone](https://weekly.tw93.fun/en/posts/262/) - 2026-03-30<br>• [261. miss spring](https://weekly.tw93.fun/en/posts/261/) - 2026-03-23
+• [How I Turn Learning ...kflow in the AI Era](https://tw93.fun/en/2026-04-06/learn.html) - 2026-04-06<br>• [You Don't Know LLM T..., and New Practices](https://tw93.fun/en/2026-04-03/llm.html) - 2026-04-03<br>• [The Death of the Manual Programmer](https://tw93.fun/en/2026-03-30/kill.html) - 2026-03-30<br>• [264. Finally Done](https://weekly.tw93.fun/en/posts/264/) - 2026-04-06<br>• [263. Hardware Beauty](https://weekly.tw93.fun/en/posts/263/) - 2026-04-06<br>• [262. Lost My Drone](https://weekly.tw93.fun/en/posts/262/) - 2026-03-30
 <!-- blog ends -->
 </td>
 </tr>
