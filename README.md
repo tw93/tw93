@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->9,674 followers, 132,517 stars, 14,657 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->9,682 followers, 132,672 stars, 14,665 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole V1.36.1 Beaver](https://github.com/tw93/Mole/releases/tag/V1.36.0) - 2026-04-26<br>• [Kami V1.2.0 Fewer Decisions](https://github.com/tw93/Kami/releases/tag/V1.2.0) - 2026-04-24<br>• [Waza V3.10.1 Quiet](https://github.com/tw93/Waza/releases/tag/v3.10.1) - 2026-04-18<br>• [MiaoYan V3.2.0 Nargacuga](https://github.com/tw93/MiaoYan/releases/tag/V3.2.0) - 2026-04-12<br>• [Kaku V0.9.0 Spark](https://github.com/tw93/Kaku/releases/tag/V0.9.0) - 2026-04-04<br>• [Pake V3.11.0 Evolve](https://github.com/tw93/Pake/releases/tag/V3.11.0) - 2026-03-27
+• [MiaoYan V3.3.0 Glavenus](https://github.com/tw93/MiaoYan/releases/tag/V3.3.0) - 2026-04-27<br>• [Mole V1.36.2 Otter](https://github.com/tw93/Mole/releases/tag/V1.36.2) - 2026-04-27<br>• [Kami V1.2.0 Fewer Decisions](https://github.com/tw93/Kami/releases/tag/V1.2.0) - 2026-04-24<br>• [Waza V3.10.1 Quiet](https://github.com/tw93/Waza/releases/tag/v3.10.1) - 2026-04-18<br>• [Kaku V0.9.0 Spark](https://github.com/tw93/Kaku/releases/tag/V0.9.0) - 2026-04-04<br>• [Pake V3.11.0 Evolve](https://github.com/tw93/Pake/releases/tag/V3.11.0) - 2026-03-27
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
