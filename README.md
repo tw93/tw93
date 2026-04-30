@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->9,809 followers, 133,689 stars, 14,709 forks<!-- github_stats ends --> across code projects.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->9,817 followers, 133,777 stars, 14,714 forks<!-- github_stats ends --> across code projects.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [You Don't Know AI Co...arios, and Practice](https://tw93.fun/en/2026-04-26/ai-coding.html) - 2026-04-26<br>• [How I Turn Learning ...kflow in the AI Era](https://tw93.fun/en/2026-04-06/learn.html) - 2026-04-06<br>• [You Don't Know LLM T..., and New Practices](https://tw93.fun/en/2026-04-03/llm.html) - 2026-04-03<br>• [266. Masked Sculpture](https://weekly.tw93.fun/en/posts/266/) - 2026-04-27<br>• [265. Xixi Window View](https://weekly.tw93.fun/en/posts/265/) - 2026-04-20<br>• [264. Finally Done](https://weekly.tw93.fun/en/posts/264/) - 2026-04-06
+• [You Don't Know AI Co...arios, and Practice](https://tw93.fun/en/2026-04-26/ai-coding.html) - 2026-04-26<br>• [How I Turn Learning ...kflow in the AI Era](https://tw93.fun/en/2026-04-06/learn.html) - 2026-04-06<br>• [You Don't Know LLM T..., and New Practices](https://tw93.fun/en/2026-04-03/llm.html) - 2026-04-03
 <!-- blog ends -->
 </td>
 </tr>
