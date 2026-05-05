@@ -1,5 +1,7 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Father of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->9,920 followers, 135,023 stars, 14,808 forks<!-- github_stats ends --> across code projects.
 
+If these tools save you time, [becoming a sponsor](https://github.com/sponsors/tw93) keeps them shipping every week.
+
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
 <td width="600px" valign="top">
