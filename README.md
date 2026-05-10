@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->10,060 followers, 136,736 stars, 14,954 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->10,065 followers, 136,799 stars, 14,961 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kaku V0.10.0 Chat](https://github.com/tw93/Kaku/releases/tag/V0.10.0) - 2026-05-10<br>• [Kami V1.4.1 Steadier Hand](https://github.com/tw93/Kami/releases/tag/V1.4.1) - 2026-05-06<br>• [Waza V3.20.0 Plug In](https://github.com/tw93/Waza/releases/tag/v3.20.0) - 2026-05-06<br>• [Mole V1.37.0 Cheetah](https://github.com/tw93/Mole/releases/tag/V1.37.0) - 2026-05-04<br>• [MiaoYan V3.5.1](https://github.com/tw93/MiaoYan/releases/tag/V3.5.1) - 2026-05-03<br>• [Pake V3.11.0 Evolve](https://github.com/tw93/Pake/releases/tag/V3.11.0) - 2026-03-27
+• [Kaku V0.10.0 Chat](https://github.com/tw93/Kaku/releases/tag/V0.10.0) - 2026-05-10<br>• [Kami V1.4.2 Quiet Rails](https://github.com/tw93/Kami/releases/tag/V1.4.2) - 2026-05-10<br>• [Mole V1.38.0 Owl](https://github.com/tw93/Mole/releases/tag/V1.38.0) - 2026-05-10<br>• [Waza V3.23.0 Context](https://github.com/tw93/Waza/releases/tag/v3.23.0) - 2026-05-10<br>• [MiaoYan V3.5.1](https://github.com/tw93/MiaoYan/releases/tag/V3.5.1) - 2026-05-03<br>• [Pake V3.11.0 Evolve](https://github.com/tw93/Pake/releases/tag/V3.11.0) - 2026-03-27
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
