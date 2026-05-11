@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->10,072 followers, 136,871 stars, 14,971 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->10,077 followers, 136,982 stars, 14,976 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [You Didn't Know GEO:...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [You Don't Know AI Co...arios, and Practice](https://tw93.fun/en/2026-04-26/ai-coding.html) - 2026-04-26<br>• [How I Turn Learning ...kflow in the AI Era](https://tw93.fun/en/2026-04-06/learn.html) - 2026-04-06<br>• [266. Masked Sculpture](https://weekly.tw93.fun/en/posts/266/) - 2026-04-27<br>• [265. Xixi Window View](https://weekly.tw93.fun/en/posts/265/) - 2026-04-20<br>• [264. Finally Done](https://weekly.tw93.fun/en/posts/264/) - 2026-04-06
+• [You Didn't Know GEO:...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [You Don't Know AI Co...arios, and Practice](https://tw93.fun/en/2026-04-26/ai-coding.html) - 2026-04-26<br>• [How I Turn Learning ...kflow in the AI Era](https://tw93.fun/en/2026-04-06/learn.html) - 2026-04-06<br>• [267. Westlake Stone Characters](https://weekly.tw93.fun/en/posts/267/) - 2026-05-11<br>• [266. Masked Sculpture](https://weekly.tw93.fun/en/posts/266/) - 2026-04-27<br>• [265. Xixi Window View](https://weekly.tw93.fun/en/posts/265/) - 2026-04-20
 <!-- blog ends -->
 </td>
 </tr>
