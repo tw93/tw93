@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->10,252 followers, 138,476 stars, 15,106 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->10,259 followers, 138,536 stars, 15,111 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kami V1.5.0 Live Paper](https://github.com/tw93/Kami/releases/tag/V1.5.0) - 2026-05-15<br>• [Mole V1.39.0 Fox](https://github.com/tw93/Mole/releases/tag/V1.39.0) - 2026-05-15<br>• [Pake V3.11.5](https://github.com/tw93/Pake/releases/tag/V3.11.5) - 2026-05-13<br>• [Kaku V0.10.0 Chat](https://github.com/tw93/Kaku/releases/tag/V0.10.0) - 2026-05-10<br>• [Waza V3.23.0 Context](https://github.com/tw93/Waza/releases/tag/v3.23.0) - 2026-05-10<br>• [MiaoYan V3.5.1](https://github.com/tw93/MiaoYan/releases/tag/V3.5.1) - 2026-05-03
+• [Waza V3.24.0 Pulse](https://github.com/tw93/Waza/releases/tag/v3.24.0) - 2026-05-16<br>• [Kami V1.5.0 Live Paper](https://github.com/tw93/Kami/releases/tag/V1.5.0) - 2026-05-15<br>• [Mole V1.39.0 Fox](https://github.com/tw93/Mole/releases/tag/V1.39.0) - 2026-05-15<br>• [Pake V3.11.5](https://github.com/tw93/Pake/releases/tag/V3.11.5) - 2026-05-13<br>• [Kaku V0.10.0 Chat](https://github.com/tw93/Kaku/releases/tag/V0.10.0) - 2026-05-10<br>• [MiaoYan V3.5.1](https://github.com/tw93/MiaoYan/releases/tag/V3.5.1) - 2026-05-03
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
