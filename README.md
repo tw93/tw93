@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->10,988 followers, 146,578 stars, 15,768 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->10,998 followers, 146,660 stars, 15,777 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Pake V3.11.8 Polish](https://github.com/tw93/Pake/releases/tag/V3.11.8) - 2026-06-07<br>• [Kaku V0.12.0 Sharper](https://github.com/tw93/Kaku/releases/tag/V0.12.0) - 2026-06-05<br>• [Kami V1.7.0 Korean Paper](https://github.com/tw93/Kami/releases/tag/V1.7.0) - 2026-06-03<br>• [Mole V1.41.0 Kodama](https://github.com/tw93/Mole/releases/tag/V1.41.0) - 2026-06-03<br>• [Waza V3.27.0 Compass](https://github.com/tw93/Waza/releases/tag/v3.27.0) - 2026-06-03<br>• [MiaoYan V3.5.1](https://github.com/tw93/MiaoYan/releases/tag/V3.5.1) - 2026-05-03
+• [Kaku V0.12.1 Smoother](https://github.com/tw93/Kaku/releases/tag/V0.12.1) - 2026-06-08<br>• [Kami V1.7.1 Clearer Guidance](https://github.com/tw93/Kami/releases/tag/V1.7.1) - 2026-06-08<br>• [Mole V1.42.0](https://github.com/tw93/Mole/releases/tag/V1.42.0) - 2026-06-08<br>• [Waza V3.28.0 Relay](https://github.com/tw93/Waza/releases/tag/v3.28.0) - 2026-06-08<br>• [Pake V3.11.8 Polish](https://github.com/tw93/Pake/releases/tag/V3.11.8) - 2026-06-07<br>• [MiaoYan V3.5.1](https://github.com/tw93/MiaoYan/releases/tag/V3.5.1) - 2026-05-03
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
