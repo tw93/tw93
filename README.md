@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [You Don't Know Embod...obot Dog to Optimus](https://tw93.fun/en/2026-06-07/robot.html) - 2026-06-07<br>• [You Didn't Know GEO:...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [You Don't Know AI Co...arios, and Practice](https://tw93.fun/en/2026-04-26/ai-coding.html) - 2026-04-26<br>• [269. Tianmu Scenery](https://weekly.tw93.fun/en/posts/269/) - 2026-06-07<br>• [268. Xiaohe Park](https://weekly.tw93.fun/en/posts/268/) - 2026-05-25<br>• [267. Westlake Stone Characters](https://weekly.tw93.fun/en/posts/267/) - 2026-05-11
+• [You Don't Know Embo...obot Dog to Optimus](https://tw93.fun/en/2026-06-07/robot.html) - 2026-06-07<br>• [You Didn't Know GEO...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [You Don't Know AI C...arios, and Practice](https://tw93.fun/en/2026-04-26/ai-coding.html) - 2026-04-26<br>• [269. Tianmu Scenery](https://weekly.tw93.fun/en/posts/269/) - 2026-06-07<br>• [268. Xiaohe Park](https://weekly.tw93.fun/en/posts/268/) - 2026-05-25<br>• [267. Westlake Stone Characters](https://weekly.tw93.fun/en/posts/267/) - 2026-05-11
 <!-- blog ends -->
 </td>
 </tr>
