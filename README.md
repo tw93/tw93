@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->11,666 followers, 155,198 stars, 16,810 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->11,687 followers, 155,699 stars, 16,877 forks<!-- github_stats ends --> across code projects. A small group of folks already sponsor this work. If these tools save you time, you can [join them here](https://github.com/sponsors/tw93).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole V1.44.0](https://github.com/tw93/Mole/releases/tag/V1.44.0) - 2026-06-21<br>• [MiaoYan V4.0.0 Valstrax](https://github.com/tw93/MiaoYan/releases/tag/V4.0.0) - 2026-06-19<br>• [Waza V3.29.0 Bridge](https://github.com/tw93/Waza/releases/tag/v3.29.0) - 2026-06-19<br>• [Pake V3.11.10](https://github.com/tw93/Pake/releases/tag/V3.11.10) - 2026-06-18<br>• [Kami V1.7.4 Grounded Resumes](https://github.com/tw93/Kami/releases/tag/V1.7.4) - 2026-06-15<br>• [Kaku V0.12.2 Steadier](https://github.com/tw93/Kaku/releases/tag/V0.12.2) - 2026-06-13
+• [Mole V1.44.0 Signal](https://github.com/tw93/Mole/releases/tag/V1.44.0) - 2026-06-21<br>• [Pake V3.12.0 Gateway](https://github.com/tw93/Pake/releases/tag/V3.12.0) - 2026-06-21<br>• [MiaoYan V4.0.0 Valstrax](https://github.com/tw93/MiaoYan/releases/tag/V4.0.0) - 2026-06-19<br>• [Waza V3.29.0 Bridge](https://github.com/tw93/Waza/releases/tag/v3.29.0) - 2026-06-19<br>• [Kami V1.7.4 Grounded Resumes](https://github.com/tw93/Kami/releases/tag/V1.7.4) - 2026-06-15<br>• [Kaku V0.12.2 Steadier](https://github.com/tw93/Kaku/releases/tag/V0.12.2) - 2026-06-13
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
