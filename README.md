@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->11,830 followers, 158,132 stars, 17,316 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->11,835 followers, 158,222 stars, 17,327 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kami V1.9.0 Mermaid Diagrams](https://github.com/tw93/Kami/releases/tag/V1.9.0) - 2026-06-22<br>• [Kaku V0.12.3 Cleaner](https://github.com/tw93/Kaku/releases/tag/V0.12.3) - 2026-06-21<br>• [Mole V1.44.0 Signal](https://github.com/tw93/Mole/releases/tag/V1.44.0) - 2026-06-21<br>• [Pake V3.12.0 Gateway](https://github.com/tw93/Pake/releases/tag/V3.12.0) - 2026-06-21<br>• [Waza V3.29.0 Bridge](https://github.com/tw93/Waza/releases/tag/v3.29.0) - 2026-06-19<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02
+• [Kami V1.9.0 Mermaid Diagrams](https://github.com/tw93/Kami/releases/tag/V1.9.0) - 2026-06-22<br>• [Kaku V0.12.3 Cleaner](https://github.com/tw93/Kaku/releases/tag/V0.12.3) - 2026-06-21<br>• [Mole V1.44.0 Signal](https://github.com/tw93/Mole/releases/tag/V1.44.0) - 2026-06-21<br>• [Pake V3.12.0 Gateway](https://github.com/tw93/Pake/releases/tag/V3.12.0) - 2026-06-21<br>• [MiaoYan V4.0.0 Valstrax](https://github.com/tw93/MiaoYan/releases/tag/V4.0.0) - 2026-06-19<br>• [Waza V3.29.0 Bridge](https://github.com/tw93/Waza/releases/tag/v3.29.0) - 2026-06-19
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
