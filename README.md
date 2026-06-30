@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->11,958 followers, 160,073 stars, 17,621 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->11,964 followers, 160,185 stars, 17,642 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kami V1.9.1 Print Ready](https://github.com/tw93/Kami/releases/tag/V1.9.1) - 2026-06-29<br>• [Mole V1.44.1 Guard](https://github.com/tw93/Mole/releases/tag/V1.44.1) - 2026-06-29<br>• [Waza V3.30.0 Prism](https://github.com/tw93/Waza/releases/tag/v3.30.0) - 2026-06-27<br>• [Kaku V0.12.3 Cleaner](https://github.com/tw93/Kaku/releases/tag/V0.12.3) - 2026-06-21<br>• [Pake V3.12.0 Gateway](https://github.com/tw93/Pake/releases/tag/V3.12.0) - 2026-06-21<br>• [MiaoYan V4.0.0 Valstrax](https://github.com/tw93/MiaoYan/releases/tag/V4.0.0) - 2026-06-19
+• [Kaku V0.12.4 Safer](https://github.com/tw93/Kaku/releases/tag/V0.12.4) - 2026-06-30<br>• [Kami V1.9.1 Print Ready](https://github.com/tw93/Kami/releases/tag/V1.9.1) - 2026-06-29<br>• [Mole V1.44.1 Guard](https://github.com/tw93/Mole/releases/tag/V1.44.1) - 2026-06-29<br>• [Waza V3.30.0 Prism](https://github.com/tw93/Waza/releases/tag/v3.30.0) - 2026-06-27<br>• [Pake V3.12.0 Gateway](https://github.com/tw93/Pake/releases/tag/V3.12.0) - 2026-06-21<br>• [MiaoYan V4.0.0 Valstrax](https://github.com/tw93/MiaoYan/releases/tag/V4.0.0) - 2026-06-19
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
