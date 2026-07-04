@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,039 followers, 161,479 stars, 17,827 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,041 followers, 161,518 stars, 17,833 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kami V1.9.2 Cleaner Printouts](https://github.com/tw93/Kami/releases/tag/V1.9.2) - 2026-07-04<br>• [Waza V3.31.0 Anchor](https://github.com/tw93/Waza/releases/tag/v3.31.0) - 2026-07-04<br>• [Kaku V0.12.4 Safer](https://github.com/tw93/Kaku/releases/tag/V0.12.4) - 2026-06-30<br>• [Mole V1.44.1 Guard](https://github.com/tw93/Mole/releases/tag/V1.44.1) - 2026-06-29<br>• [Pake V3.12.0 Gateway](https://github.com/tw93/Pake/releases/tag/V3.12.0) - 2026-06-21<br>• [MiaoYan V4.0.0 Valstrax](https://github.com/tw93/MiaoYan/releases/tag/V4.0.0) - 2026-06-19
+• [Kami V1.9.2 Cleaner Printouts](https://github.com/tw93/Kami/releases/tag/V1.9.2) - 2026-07-04<br>• [Mole V1.45.0 Quiet](https://github.com/tw93/Mole/releases/tag/V1.45.0) - 2026-07-04<br>• [Pake V3.13.1 Bridge](https://github.com/tw93/Pake/releases/tag/V3.13.1) - 2026-07-04<br>• [Waza V3.31.0 Anchor](https://github.com/tw93/Waza/releases/tag/v3.31.0) - 2026-07-04<br>• [Kaku V0.12.4 Safer](https://github.com/tw93/Kaku/releases/tag/V0.12.4) - 2026-06-30<br>• [MiaoYan V4.0.0 Valstrax](https://github.com/tw93/MiaoYan/releases/tag/V4.0.0) - 2026-06-19
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
