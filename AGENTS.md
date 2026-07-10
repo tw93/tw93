@@ -4,6 +4,8 @@
 
 This repository powers the GitHub profile README and related generated profile content.
 
+Deploy surface: pushing `main` is production. `README.md` is the live GitHub profile immediately, and `index.html` auto-deploys to `hi.tw93.fun` via Vercel on push. There is no staging.
+
 ## Repository Map
 
 - `README.md` - generated profile README content.
