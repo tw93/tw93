@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,112 followers, 162,987 stars, 18,031 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,114 followers, 163,036 stars, 18,035 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kami V1.9.4 Living Diagrams](https://github.com/tw93/Kami/releases/tag/V1.9.4) - 2026-07-10<br>• [Pake V3.14.0 Canvas](https://github.com/tw93/Pake/releases/tag/V3.14.0) - 2026-07-10<br>• [Waza V3.31.2 Safeguard](https://github.com/tw93/Waza/releases/tag/v3.31.2) - 2026-07-10<br>• [Kaku V0.13.0 Faster](https://github.com/tw93/Kaku/releases/tag/V0.13.0) - 2026-07-05<br>• [Mole V1.45.0 Quiet](https://github.com/tw93/Mole/releases/tag/V1.45.0) - 2026-07-04<br>• [MiaoYan V4.0.0 Valstrax](https://github.com/tw93/MiaoYan/releases/tag/V4.0.0) - 2026-06-19
+• [Kaku V0.14.0 Focused](https://github.com/tw93/Kaku/releases/tag/V0.14.0) - 2026-07-11<br>• [Mole V1.46.0 Careful](https://github.com/tw93/Mole/releases/tag/V1.46.0) - 2026-07-11<br>• [Kami V1.9.4 Living Diagrams](https://github.com/tw93/Kami/releases/tag/V1.9.4) - 2026-07-10<br>• [Pake V3.14.0 Canvas](https://github.com/tw93/Pake/releases/tag/V3.14.0) - 2026-07-10<br>• [Waza V3.31.2 Safeguard](https://github.com/tw93/Waza/releases/tag/v3.31.2) - 2026-07-10<br>• [MiaoYan V4.0.0 Valstrax](https://github.com/tw93/MiaoYan/releases/tag/V4.0.0) - 2026-06-19
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
