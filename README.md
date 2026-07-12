@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,123 followers, 163,268 stars, 18,056 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,128 followers, 163,327 stars, 18,059 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [You Don't Know Embo...obot Dog to Optimus](https://tw93.fun/en/2026-06-07/robot.html) - 2026-06-07<br>• [You Didn't Know GEO...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [You Don't Know AI C...arios, and Practice](https://tw93.fun/en/2026-04-26/ai-coding.html) - 2026-04-26<br>• [272. Endless Lotus](https://weekly.tw93.fun/en/posts/272/) - 2026-07-06<br>• [271. Spiritual Home](https://weekly.tw93.fun/en/posts/271/) - 2026-06-29<br>• [270. Qiao Cun](https://weekly.tw93.fun/en/posts/270/) - 2026-06-15
+• [You Don't Know Embo...obot Dog to Optimus](https://tw93.fun/en/2026-06-07/robot.html) - 2026-06-07<br>• [You Didn't Know GEO...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [You Don't Know AI C...arios, and Practice](https://tw93.fun/en/2026-04-26/ai-coding.html) - 2026-04-26<br>• [273. A Pile of Chairs](https://weekly.tw93.fun/en/posts/273/) - 2026-07-13<br>• [272. Endless Lotus](https://weekly.tw93.fun/en/posts/272/) - 2026-07-06<br>• [271. Spiritual Home](https://weekly.tw93.fun/en/posts/271/) - 2026-06-29
 <!-- blog ends -->
 </td>
 </tr>
