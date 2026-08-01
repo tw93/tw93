@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,441 followers, 167,282 stars, 18,409 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,445 followers, 167,331 stars, 18,413 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kaku V0.16.0 Trusted](https://github.com/tw93/Kaku/releases/tag/V0.16.0) - 2026-07-26<br>• [Kami V1.11.0 Verified Typography](https://github.com/tw93/Kami/releases/tag/V1.11.0) - 2026-07-26<br>• [Mole V1.48.1 Reliable](https://github.com/tw93/Mole/releases/tag/V1.48.1) - 2026-07-26<br>• [Waza V3.32.0 Discipline](https://github.com/tw93/Waza/releases/tag/v3.32.0) - 2026-07-19<br>• [MiaoYan V4.1.0 Aegis](https://github.com/tw93/MiaoYan/releases/tag/V4.1.0) - 2026-07-18<br>• [Pake V3.15.1 Bridge](https://github.com/tw93/Pake/releases/tag/V3.15.1) - 2026-07-18
+• [Kami V1.12.0 Safer Artifacts](https://github.com/tw93/Kami/releases/tag/V1.12.0) - 2026-08-01<br>• [Waza V3.33.0 Frontier](https://github.com/tw93/Waza/releases/tag/v3.33.0) - 2026-08-01<br>• [Kaku V0.16.0 Trusted](https://github.com/tw93/Kaku/releases/tag/V0.16.0) - 2026-07-26<br>• [Mole V1.48.1 Reliable](https://github.com/tw93/Mole/releases/tag/V1.48.1) - 2026-07-26<br>• [MiaoYan V4.1.0 Aegis](https://github.com/tw93/MiaoYan/releases/tag/V4.1.0) - 2026-07-18<br>• [Pake V3.15.1 Bridge](https://github.com/tw93/Pake/releases/tag/V3.15.1) - 2026-07-18
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
