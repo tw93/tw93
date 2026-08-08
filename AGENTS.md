@@ -11,7 +11,7 @@ Deploy surface: pushing `main` is production. `README.md` is the live GitHub pro
 - `README.md` - generated profile README content.
 - `build_readme.py` - README generation script.
 - `requirements.txt` - Python dependencies for the generator.
-- `.github/workflows/build.yml` - scheduled or manual workflow for README updates.
+- `.github/workflows/build.yml` - README update workflow; runs on every push, on a six-hour cron, and on manual dispatch.
 - `images/` - profile images.
 - `index.html` - simple profile landing page.
 
