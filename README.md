@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,529 followers, 169,230 stars, 18,517 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,535 followers, 169,295 stars, 18,519 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole V1.50.0 Honest](https://github.com/tw93/Mole/releases/tag/V1.50.0) - 2026-08-08<br>• [Waza V3.34.0 Latch](https://github.com/tw93/Waza/releases/tag/v3.34.0) - 2026-08-08<br>• [Kaku V0.17.0 Linked](https://github.com/tw93/Kaku/releases/tag/V0.17.0) - 2026-08-02<br>• [Kami V1.12.0 Safer Output](https://github.com/tw93/Kami/releases/tag/V1.12.0) - 2026-08-01<br>• [MiaoYan V4.1.0 Aegis](https://github.com/tw93/MiaoYan/releases/tag/V4.1.0) - 2026-07-18<br>• [Pake V3.15.1 Bridge](https://github.com/tw93/Pake/releases/tag/V3.15.1) - 2026-07-18
+• [Kaku V0.18.0 Detached](https://github.com/tw93/Kaku/releases/tag/V0.18.0) - 2026-08-08<br>• [Mole V1.50.0 Honest](https://github.com/tw93/Mole/releases/tag/V1.50.0) - 2026-08-08<br>• [Pake V3.15.6 Anchor](https://github.com/tw93/Pake/releases/tag/V3.15.6) - 2026-08-08<br>• [Waza V3.34.0 Latch](https://github.com/tw93/Waza/releases/tag/v3.34.0) - 2026-08-08<br>• [Kami V1.12.0 Safer Output](https://github.com/tw93/Kami/releases/tag/V1.12.0) - 2026-08-01<br>• [MiaoYan V4.1.0 Aegis](https://github.com/tw93/MiaoYan/releases/tag/V4.1.0) - 2026-07-18
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
