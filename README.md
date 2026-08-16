@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,624 followers, 170,824 stars, 18,667 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,629 followers, 170,873 stars, 18,667 forks<!-- github_stats ends --> across code projects. I’m also building Mole, a GUI app for Mac cleanup and system care. Try it at [mole.fit](https://mole.fit).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [MiaoYan V4.2.0 Zinogre](https://github.com/tw93/MiaoYan/releases/tag/V4.2.0) - 2026-08-15<br>• [Kaku V0.18.0 Detached](https://github.com/tw93/Kaku/releases/tag/V0.18.0) - 2026-08-08<br>• [Mole V1.50.0 Honest](https://github.com/tw93/Mole/releases/tag/V1.50.0) - 2026-08-08<br>• [Pake V3.15.6 Anchor](https://github.com/tw93/Pake/releases/tag/V3.15.6) - 2026-08-08<br>• [Waza V3.34.0 Latch](https://github.com/tw93/Waza/releases/tag/v3.34.0) - 2026-08-08<br>• [Kami V1.12.0 Safer Output](https://github.com/tw93/Kami/releases/tag/V1.12.0) - 2026-08-01
+• [Mole V1.51.0 Deliberate](https://github.com/tw93/Mole/releases/tag/V1.51.0) - 2026-08-16<br>• [MiaoYan V4.2.0 Zinogre](https://github.com/tw93/MiaoYan/releases/tag/V4.2.0) - 2026-08-15<br>• [Kaku V0.18.0 Detached](https://github.com/tw93/Kaku/releases/tag/V0.18.0) - 2026-08-08<br>• [Pake V3.15.6 Anchor](https://github.com/tw93/Pake/releases/tag/V3.15.6) - 2026-08-08<br>• [Waza V3.34.0 Latch](https://github.com/tw93/Waza/releases/tag/v3.34.0) - 2026-08-08<br>• [Kami V1.12.0 Safer Output](https://github.com/tw93/Kami/releases/tag/V1.12.0) - 2026-08-01
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
