@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,814 followers, 173,480 stars, 18,859 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care. A structured map of all projects lives in [Yobi](https://yobi.tw93.fun).
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,817 followers, 173,524 stars, 18,868 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care. A structured map of all projects lives in [Yobi](https://yobi.tw93.fun).
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole V1.53.0 Aware](https://github.com/tw93/Mole/releases/tag/V1.53.0) - 2026-08-30<br>• [Kaku V0.19.0 Restored](https://github.com/tw93/Kaku/releases/tag/V0.19.0) - 2026-08-24<br>• [Kami V1.13.0 Steadier Proof](https://github.com/tw93/Kami/releases/tag/V1.13.0) - 2026-08-23<br>• [Waza V3.34.1 Receipt](https://github.com/tw93/Waza/releases/tag/v3.34.1) - 2026-08-23<br>• [MiaoYan V4.2.0 Zinogre](https://github.com/tw93/MiaoYan/releases/tag/V4.2.0) - 2026-08-15<br>• [Pake V3.15.6 Anchor](https://github.com/tw93/Pake/releases/tag/V3.15.6) - 2026-08-08
+• [Kami V1.14.0 Quieter Pages](https://github.com/tw93/Kami/releases/tag/V1.14.0) - 2026-08-30<br>• [Mole V1.53.0 Aware](https://github.com/tw93/Mole/releases/tag/V1.53.0) - 2026-08-30<br>• [Kaku V0.19.0 Restored](https://github.com/tw93/Kaku/releases/tag/V0.19.0) - 2026-08-24<br>• [Waza V3.34.1 Receipt](https://github.com/tw93/Waza/releases/tag/v3.34.1) - 2026-08-23<br>• [MiaoYan V4.2.0 Zinogre](https://github.com/tw93/MiaoYan/releases/tag/V4.2.0) - 2026-08-15<br>• [Pake V3.15.6 Anchor](https://github.com/tw93/Pake/releases/tag/V3.15.6) - 2026-08-08
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
