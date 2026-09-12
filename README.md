@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,984 followers, 175,961 stars, 19,035 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,985 followers, 175,988 stars, 19,038 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kami V1.15.0 Clearer Formulas](https://github.com/tw93/Kami/releases/tag/V1.15.0) - 2026-09-06<br>• [Waza V3.36.0 Intent](https://github.com/tw93/Waza/releases/tag/v3.36.0) - 2026-09-06<br>• [Mole V1.53.0 Aware](https://github.com/tw93/Mole/releases/tag/V1.53.0) - 2026-08-30<br>• [Kaku V0.19.0 Restored](https://github.com/tw93/Kaku/releases/tag/V0.19.0) - 2026-08-24<br>• [MiaoYan V4.2.0 Zinogre](https://github.com/tw93/MiaoYan/releases/tag/V4.2.0) - 2026-08-15<br>• [Pake V3.15.6 Anchor](https://github.com/tw93/Pake/releases/tag/V3.15.6) - 2026-08-08
+• [Kaku V0.20.0 Steady](https://github.com/tw93/Kaku/releases/tag/V0.20.0) - 2026-09-12<br>• [Pake V3.16.3 Flow](https://github.com/tw93/Pake/releases/tag/V3.16.3) - 2026-09-12<br>• [Waza V3.36.1 Voice](https://github.com/tw93/Waza/releases/tag/v3.36.1) - 2026-09-12<br>• [Kami V1.15.0 Clearer Formulas](https://github.com/tw93/Kami/releases/tag/V1.15.0) - 2026-09-06<br>• [Mole V1.53.0 Aware](https://github.com/tw93/Mole/releases/tag/V1.53.0) - 2026-08-30<br>• [MiaoYan V4.2.0 Zinogre](https://github.com/tw93/MiaoYan/releases/tag/V4.2.0) - 2026-08-15
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
