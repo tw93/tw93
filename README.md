@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->12,999 followers, 176,102 stars, 19,052 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,006 followers, 176,133 stars, 19,049 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [From Mole CLI to Mo...Mac: What I Learned](https://tw93.fun/en/2026-08-16/mole-mac.html) - 2026-08-16<br>• [You Don't Know Embo...obot Dog to Optimus](https://tw93.fun/en/2026-06-07/robot.html) - 2026-06-07<br>• [You Didn't Know GEO...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [281. Sword of the Yue King](https://weekly.tw93.fun/en/posts/281/) - 2026-09-07<br>• [280. Fond of Song Type](https://weekly.tw93.fun/en/posts/280/) - 2026-08-31<br>• [279. Spring in the Valley of the Wind](https://weekly.tw93.fun/en/posts/279/) - 2026-08-24
+• [From Mole CLI to Mo...Mac: What I Learned](https://tw93.fun/en/2026-08-16/mole-mac.html) - 2026-08-16<br>• [You Don't Know Embo...obot Dog to Optimus](https://tw93.fun/en/2026-06-07/robot.html) - 2026-06-07<br>• [You Didn't Know GEO...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [282. Night Fog Shanghai](https://weekly.tw93.fun/en/posts/282/) - 2026-09-14<br>• [281. Sword of the Yue King](https://weekly.tw93.fun/en/posts/281/) - 2026-09-07<br>• [280. Fond of Song Type](https://weekly.tw93.fun/en/posts/280/) - 2026-08-31
 <!-- blog ends -->
 </td>
 </tr>
