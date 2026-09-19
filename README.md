@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,077 followers, 177,353 stars, 19,143 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,080 followers, 177,386 stars, 19,150 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole V1.54.0 Clarity](https://github.com/tw93/Mole/releases/tag/V1.54.0) - 2026-09-13<br>• [Kaku V0.20.0 Steady](https://github.com/tw93/Kaku/releases/tag/V0.20.0) - 2026-09-12<br>• [Pake V3.16.3 Flow](https://github.com/tw93/Pake/releases/tag/V3.16.3) - 2026-09-12<br>• [Waza V3.36.1 Voice](https://github.com/tw93/Waza/releases/tag/v3.36.1) - 2026-09-12<br>• [Kami V1.15.0 Clearer Formulas](https://github.com/tw93/Kami/releases/tag/V1.15.0) - 2026-09-06<br>• [MiaoYan V4.2.0 Zinogre](https://github.com/tw93/MiaoYan/releases/tag/V4.2.0) - 2026-08-15
+• [Waza V3.38.0 Boundary](https://github.com/tw93/Waza/releases/tag/v3.38.0) - 2026-09-19<br>• [Mole V1.54.0 Clarity](https://github.com/tw93/Mole/releases/tag/V1.54.0) - 2026-09-13<br>• [Kaku V0.20.0 Steady](https://github.com/tw93/Kaku/releases/tag/V0.20.0) - 2026-09-12<br>• [Pake V3.16.3 Flow](https://github.com/tw93/Pake/releases/tag/V3.16.3) - 2026-09-12<br>• [Kami V1.15.0 Clearer Formulas](https://github.com/tw93/Kami/releases/tag/V1.15.0) - 2026-09-06<br>• [MiaoYan V4.2.0 Zinogre](https://github.com/tw93/MiaoYan/releases/tag/V4.2.0) - 2026-08-15
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
