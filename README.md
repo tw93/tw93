@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,366 followers, 180,569 stars, 19,356 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,369 followers, 180,606 stars, 19,357 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Waza V3.39.0 Clarity](https://github.com/tw93/Waza/releases/tag/v3.39.0) - 2026-10-06<br>• [Kaku V0.22.0 Handy](https://github.com/tw93/Kaku/releases/tag/V0.22.0) - 2026-10-05<br>• [Pake V3.17.3 Tide](https://github.com/tw93/Pake/releases/tag/V3.17.3) - 2026-10-05<br>• [Kami V1.17.0 Clean Finish](https://github.com/tw93/Kami/releases/tag/V1.17.0) - 2026-09-25<br>• [MiaoYan V4.5.0 Nargacuga](https://github.com/tw93/MiaoYan/releases/tag/V4.5.0) - 2026-09-25<br>• [Maple V1.17 Velvet](https://github.com/tw93/Maple/releases/tag/V1.17) - 2026-03-02
+• [Mole V1.32.0-windows](https://github.com/tw93/Mole/releases/tag/V1.32.0-windows) - 2026-10-11<br>• [Waza V3.39.0 Clarity](https://github.com/tw93/Waza/releases/tag/v3.39.0) - 2026-10-06<br>• [Kaku V0.22.0 Handy](https://github.com/tw93/Kaku/releases/tag/V0.22.0) - 2026-10-05<br>• [Pake V3.17.3 Tide](https://github.com/tw93/Pake/releases/tag/V3.17.3) - 2026-10-05<br>• [Kami V1.17.0 Clean Finish](https://github.com/tw93/Kami/releases/tag/V1.17.0) - 2026-09-25<br>• [MiaoYan V4.5.0 Nargacuga](https://github.com/tw93/MiaoYan/releases/tag/V4.5.0) - 2026-09-25
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [From Mole CLI to Mo...Mac: What I Learned](https://tw93.fun/en/2026-08-16/mole-mac.html) - 2026-08-16<br>• [You Don't Know Embo...obot Dog to Optimus](https://tw93.fun/en/2026-06-07/robot.html) - 2026-06-07<br>• [You Didn't Know GEO...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [284. A Stylish Restaurant](https://weekly.tw93.fun/en/posts/284/) - 2026-09-28<br>• [283. Classic Films](https://weekly.tw93.fun/en/posts/283/) - 2026-09-21<br>• [282. Night Fog Shanghai](https://weekly.tw93.fun/en/posts/282/) - 2026-09-14
+• [From Mole CLI to Mo...Mac: What I Learned](https://tw93.fun/en/2026-08-16/mole-mac.html) - 2026-08-16<br>• [You Don't Know Embo...obot Dog to Optimus](https://tw93.fun/en/2026-06-07/robot.html) - 2026-06-07<br>• [You Didn't Know GEO...ces, and Trade-offs](https://tw93.fun/en/2026-05-01/ai-visibility.html) - 2026-05-01<br>• [285. Clouds of Lingshui](https://weekly.tw93.fun/en/posts/285/) - 2026-11-12<br>• [284. A Stylish Restaurant](https://weekly.tw93.fun/en/posts/284/) - 2026-09-28<br>• [283. Classic Films](https://weekly.tw93.fun/en/posts/283/) - 2026-09-21
 <!-- blog ends -->
 </td>
 </tr>
