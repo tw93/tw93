@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,419 followers, 181,263 stars, 19,401 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,431 followers, 181,382 stars, 19,405 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kaku V0.23.0 Drawer](https://github.com/tw93/Kaku/releases/tag/V0.23.0) - 2026-10-14<br>• [Mole V1.34.0-windows](https://github.com/tw93/Mole/releases/tag/V1.34.0-windows) - 2026-10-14<br>• [Pake V3.17.5 Compass](https://github.com/tw93/Pake/releases/tag/V3.17.5) - 2026-10-14<br>• [Waza V3.39.0 Clarity](https://github.com/tw93/Waza/releases/tag/v3.39.0) - 2026-10-06<br>• [Kami V1.17.0 Clean Finish](https://github.com/tw93/Kami/releases/tag/V1.17.0) - 2026-09-25<br>• [MiaoYan V4.5.0 Nargacuga](https://github.com/tw93/MiaoYan/releases/tag/V4.5.0) - 2026-09-25
+• [Mole V1.60.0](https://github.com/tw93/Mole/releases/tag/V1.60.0) - 2026-10-15<br>• [Kaku V0.23.0 Drawer](https://github.com/tw93/Kaku/releases/tag/V0.23.0) - 2026-10-14<br>• [Pake V3.17.5 Compass](https://github.com/tw93/Pake/releases/tag/V3.17.5) - 2026-10-14<br>• [Waza V3.39.0 Clarity](https://github.com/tw93/Waza/releases/tag/v3.39.0) - 2026-10-06<br>• [Kami V1.17.0 Clean Finish](https://github.com/tw93/Kami/releases/tag/V1.17.0) - 2026-09-25<br>• [MiaoYan V4.5.0 Nargacuga](https://github.com/tw93/MiaoYan/releases/tag/V4.5.0) - 2026-09-25
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
