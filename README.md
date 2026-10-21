@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,517 followers, 183,050 stars, 19,458 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,529 followers, 183,213 stars, 19,472 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Kaku V0.26.0 Bridge](https://github.com/tw93/Kaku/releases/tag/V0.26.0) - 2026-10-20<br>• [Pake V3.17.6 Clearance](https://github.com/tw93/Pake/releases/tag/V3.17.6) - 2026-10-17<br>• [Mole V1.61.0 Keeper](https://github.com/tw93/Mole/releases/tag/V1.61.0) - 2026-10-16<br>• [Kami V1.18.0 Charted Pages](https://github.com/tw93/Kami/releases/tag/V1.18.0) - 2026-10-15<br>• [Waza V3.40.0 Compass](https://github.com/tw93/Waza/releases/tag/v3.40.0) - 2026-10-15<br>• [MiaoYan V4.5.0 Nargacuga](https://github.com/tw93/MiaoYan/releases/tag/V4.5.0) - 2026-09-25
+• [Mole V1.62.0 Slender](https://github.com/tw93/Mole/releases/tag/V1.62.0) - 2026-10-21<br>• [Kaku V0.26.0 Bridge](https://github.com/tw93/Kaku/releases/tag/V0.26.0) - 2026-10-20<br>• [Pake V3.17.6 Clearance](https://github.com/tw93/Pake/releases/tag/V3.17.6) - 2026-10-17<br>• [Kami V1.18.0 Charted Pages](https://github.com/tw93/Kami/releases/tag/V1.18.0) - 2026-10-15<br>• [Waza V3.40.0 Compass](https://github.com/tw93/Waza/releases/tag/v3.40.0) - 2026-10-15<br>• [MiaoYan V4.5.0 Nargacuga](https://github.com/tw93/MiaoYan/releases/tag/V4.5.0) - 2026-09-25
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
