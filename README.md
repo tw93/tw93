@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,725 followers, 186,047 stars, 19,722 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,728 followers, 186,091 stars, 19,722 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [Mole V1.69.0 Clear](https://github.com/tw93/Mole/releases/tag/V1.69.0) - 2026-11-04<br>• [Kaku V0.28.0 Steady](https://github.com/tw93/Kaku/releases/tag/V0.28.0) - 2026-11-03<br>• [MiaoYan V4.6.1 Glavenus](https://github.com/tw93/MiaoYan/releases/tag/V4.6.1) - 2026-11-03<br>• [Waza V3.41.0 Lens](https://github.com/tw93/Waza/releases/tag/v3.41.0) - 2026-10-30<br>• [Kami V1.20.0 Cleaner Reports](https://github.com/tw93/Kami/releases/tag/V1.20.0) - 2026-10-29<br>• [Pake V3.17.6 Clearance](https://github.com/tw93/Pake/releases/tag/V3.17.6) - 2026-10-17
+• [Mole V1.69.0 Clear](https://github.com/tw93/Mole/releases/tag/V1.69.0) - 2026-11-04<br>• [Pake V3.18.0 Haven](https://github.com/tw93/Pake/releases/tag/V3.18.0) - 2026-11-04<br>• [Kaku V0.28.0 Steady](https://github.com/tw93/Kaku/releases/tag/V0.28.0) - 2026-11-03<br>• [MiaoYan V4.6.1 Glavenus](https://github.com/tw93/MiaoYan/releases/tag/V4.6.1) - 2026-11-03<br>• [Waza V3.41.0 Lens](https://github.com/tw93/Waza/releases/tag/v3.41.0) - 2026-10-30<br>• [Kami V1.20.0 Cleaner Reports](https://github.com/tw93/Kami/releases/tag/V1.20.0) - 2026-10-29
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
