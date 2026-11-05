@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,729 followers, 186,137 stars, 19,728 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->13,739 followers, 186,206 stars, 19,737 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -15,7 +15,7 @@
 **Recent Posts**
 
 <!-- blog starts -->
-• [How to Build a Slow... in the Fast AI Era](https://tw93.fun/en/2026-10-26/mole-product.html) - 2026-10-26<br>• [You Don't Know Clie...erage in the AI Era](https://tw93.fun/en/2026-10-22/desktop.html) - 2026-10-22<br>• [From Mole CLI to Mo...Mac: What I Learned](https://tw93.fun/en/2026-08-16/mole-mac.html) - 2026-08-16<br>• [288. Meeting Kittens](https://weekly.tw93.fun/en/posts/288/) - 2026-11-02<br>• [287. Hangzhou Osmanthus](https://weekly.tw93.fun/en/posts/287/) - 2026-10-26<br>• [286. Jingshan Shuangxi](https://weekly.tw93.fun/en/posts/286/) - 2026-10-19
+• [How I Made Mole a S... in the Fast AI Era](https://tw93.fun/en/2026-10-26/mole-product.html) - 2026-10-26<br>• [You Don't Know Clie...erage in the AI Era](https://tw93.fun/en/2026-10-22/desktop.html) - 2026-10-22<br>• [From Mole CLI to Mo...Mac: What I Learned](https://tw93.fun/en/2026-08-16/mole-mac.html) - 2026-08-16<br>• [288. Meeting Kittens](https://weekly.tw93.fun/en/posts/288/) - 2026-11-02<br>• [287. Hangzhou Osmanthus](https://weekly.tw93.fun/en/posts/287/) - 2026-10-26<br>• [286. Jingshan Shuangxi](https://weekly.tw93.fun/en/posts/286/) - 2026-10-19
 <!-- blog ends -->
 </td>
 </tr>
