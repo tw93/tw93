@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->14,016 followers, 190,632 stars, 20,036 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->14,019 followers, 190,684 stars, 20,043 forks<!-- github_stats ends --> across code projects. I maintain the free and open source [Mole CLI](https://github.com/tw93/Mole) and build the separate native [Mole for Mac](https://mole.fit) app for cleanup and system care.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
@@ -7,7 +7,7 @@
 **Latest Releases**
 
 <!-- recent_releases starts -->
-• [MiaoYan V4.12.0 Tigrex](https://github.com/tw93/MiaoYan/releases/tag/V4.12.0) - 2026-11-25<br>• [Pake V3.21.0 Doorway](https://github.com/tw93/Pake/releases/tag/V3.21.0) - 2026-11-23<br>• [Mole V1.74.0 Lucid](https://github.com/tw93/Mole/releases/tag/V1.74.0) - 2026-11-21<br>• [Kaku V0.30.0 Steady](https://github.com/tw93/Kaku/releases/tag/V0.30.0) - 2026-11-16<br>• [Waza V3.42.0 Prune](https://github.com/tw93/Waza/releases/tag/v3.42.0) - 2026-11-11<br>• [Kami V1.20.0 Cleaner Reports](https://github.com/tw93/Kami/releases/tag/V1.20.0) - 2026-10-29
+• [Kaku V0.31.0 Bridge](https://github.com/tw93/Kaku/releases/tag/V0.31.0) - 2026-11-27<br>• [Mole V1.75.0 Mindful](https://github.com/tw93/Mole/releases/tag/V1.75.0) - 2026-11-27<br>• [MiaoYan V4.12.0 Tigrex](https://github.com/tw93/MiaoYan/releases/tag/V4.12.0) - 2026-11-25<br>• [Pake V3.21.0 Doorway](https://github.com/tw93/Pake/releases/tag/V3.21.0) - 2026-11-23<br>• [Waza V3.42.0 Prune](https://github.com/tw93/Waza/releases/tag/v3.42.0) - 2026-11-11<br>• [Kami V1.20.0 Cleaner Reports](https://github.com/tw93/Kami/releases/tag/V1.20.0) - 2026-10-29
 <!-- recent_releases ends -->
 </td>
 <td width="600px" valign="top">
