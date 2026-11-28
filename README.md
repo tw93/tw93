@@ -1,6 +1,6 @@
 <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Tw93**, a Product Engineer building easy-to-use tools to simplify life. **Creator of Kaku | Waza | Kami | Mole | Pake | MiaoYan** with Rust, Swift, Shell & TypeScript. <!-- github_stats starts -->14,033 followers, 190,811 stars, 20,051 forks<!-- github_stats ends --> across code projects.
 
-My apps: [Mole](https://mole.fit) keeps your Mac and PC clean, [Yado](https://yado.house) manages your iPhone from a Mac, [Pake](https://pake.run) turns websites into desktop apps, [MiaoYan](https://miaoyan.app) is a light Markdown notebook, and [Kaku](https://kaku.fun) is an AI-friendly terminal.
+My apps: [Mole](https://mole.fit) keeps your Mac and PC clean, [Yado](https://yado.house) manages your iPhone from a Mac, [Pake](https://pake.run) turns websites into desktop apps, [MiaoYan](https://miaoyan.app) is a lightweight Markdown notebook, and [Kaku](https://kaku.fun) is an AI-friendly terminal.
 
 <table width="1200px" cellspacing="0" cellpadding="0">
 <tr>
